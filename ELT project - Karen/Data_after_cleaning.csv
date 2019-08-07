@@ -14,11 +14,6 @@
 12,ABT,Abbott Laboratories,83.16,Health Care,Major Pharmaceuticals
 13,ABBV,AbbVie Inc.,65.23,Health Care,Major Pharmaceuticals
 14,ANF,Abercrombie & Fitch Company,16.81,Consumer Services,Clothing/Shoe/Accessory Stores
-15,AGD,Aberdeen Global Dynamic Dividend Fund,9.24,,
-16,AWP,Aberdeen Global Premier Properties Fund,6.03,,
-17,ACP,Aberdeen Income Credit Strategies Fund,12.3,,
-18,JEQ,"Aberdeen Japan Equity Fund, Inc. ",6.8732,,
-19,AOD,Aberdeen Total Dynamic Dividend Fund,8.05,,
 20,ABM,ABM Industries Incorporated,39.5,Finance,Diversified Commercial Services
 21,AKR,Acadia Realty Trust,26.97,Consumer Services,Real Estate Investment Trusts
 22,ACN,Accenture plc,185.55,Miscellaneous,Business Services
@@ -27,8 +22,6 @@
 25,ATU,Actuant Corporation,20.89,Technology,Industrial Machinery/Components
 26,AYI,"Acuity Brands, Inc. ",127.56,Consumer Durables,Building Products
 27,GOLF,Acushnet Holdings Corp.,24.72,Consumer Non-Durables,Recreational Products/Toys
-28,ADX,"Adams Diversified Equity Fund, Inc.",15.28,,
-29,PEO,"Adams Natural Resources Fund, Inc.",15.33,,
 30,AGRO,Adecoagro S.A.,6.68,Consumer Non-Durables,Farming/Seeds/Milling
 31,ADNT,Adient plc,19.3,Capital Goods,Auto Parts:O.E.M.
 32,ADT,ADT Inc.,5.61,Consumer Services,Diversified Commercial Services
@@ -37,7 +30,6 @@
 35,ADSW,"Advanced Disposal Services, Inc.",32.41,Public Utilities,Environmental Services
 36,WMS,"Advanced Drainage Systems, Inc.",33.31,Capital Goods,Containers/Packaging
 37,ASIX,AdvanSix Inc.,23.23,Basic Industries,Major Chemicals
-38,AVK,Advent Convertible and Income Fund,14.39,,
 39,ACM,AECOM,33.44,Consumer Services,Military/Government/Technical
 40,AEB,Aegon NV,23.75,Finance,Life Insurance
 41,AEG,Aegon NV,4.37,Finance,Life Insurance
@@ -48,19 +40,14 @@
 46,AMG,"Affiliated Managers Group, Inc.",78.99,Finance,Investment Managers
 47,MGR,"Affiliated Managers Group, Inc.",25.9,Finance,Investment Managers
 48,AFL,Aflac Incorporated,51.36,Finance,Accident &Health Insurance
-49,MITT,"AG Mortgage Investment Trust, Inc.",16.12,,
-50,MITT^A,"AG Mortgage Investment Trust, Inc.",26.1,,
-51,MITT^B,"AG Mortgage Investment Trust, Inc.",26.5,,
 52,AGCO,AGCO Corporation,69.87,Capital Goods,Industrial Machinery/Components
 53,A,"Agilent Technologies, Inc.",65.86,Capital Goods,Biotechnology: Laboratory Analytical Instruments
 54,AEM,Agnico Eagle Mines Limited,56.24,Basic Industries,Precious Metals
 55,ADC,Agree Realty Corporation,67.29,Consumer Services,Real Estate Investment Trusts
 56,AL,Air Lease Corporation,38.36,Technology,Diversified Commercial Services
-57,AL^A,Air Lease Corporation,26.42,,
 58,APD,"Air Products and Chemicals, Inc.",220.06,Basic Industries,Major Chemicals
 59,AYR,Aircastle Limited,19.5,Technology,Diversified Commercial Services
 60,AKS,AK Steel Holding Corporation,2.68,Basic Industries,Steel/Iron Ore
-61,ALP^Q,Alabama Power Company,25.91,,
 62,ALG,"Alamo Group, Inc.",107.33,Capital Goods,Industrial Machinery/Components
 63,AGI,Alamos Gold Inc.,7.64,Basic Industries,Precious Metals
 64,ALK,"Alaska Air Group, Inc.",61.52,Transportation,Air Freight/Delivery Services
@@ -71,7 +58,6 @@
 69,ALEX,"Alexander & Baldwin, Inc.",22.91,Consumer Services,Real Estate Investment Trusts
 70,ALX,"Alexander&#39;s, Inc.",354.35,Consumer Services,Real Estate Investment Trusts
 71,ARE,"Alexandria Real Estate Equities, Inc.",142.67,Consumer Services,Real Estate Investment Trusts
-72,ARE^D,"Alexandria Real Estate Equities, Inc.",38.2738,,
 73,AQN,Algonquin Power & Utilities Corp.,12.61,Public Utilities,Electric Utilities: Central
 74,AQNA,Algonquin Power & Utilities Corp.,27.69,Public Utilities,Electric Utilities: Central
 75,AQNB,Algonquin Power & Utilities Corp.,26.54,Public Utilities,Electric Utilities: Central
@@ -82,27 +68,11 @@
 80,AGN,Allergan plc.,160.63,Health Care,Major Pharmaceuticals
 81,ALE,"Allete, Inc.",85.0,Public Utilities,Power Generation
 82,ADS,Alliance Data Systems Corporation,152.13,Miscellaneous,Business Services
-83,AFB,Alliance National Municipal Income Fund Inc,13.65,,
-84,AWF,Alliance World Dollar Government Fund II,11.77,,
 85,AB,AllianceBernstein Holding L.P.,27.03,Finance,Investment Managers
-86,CBH,AllianzGI Convertible & Income 2024 Target Term Fund,9.09,,
-87,NCV,AllianzGI Convertible & Income Fund,5.77,,
-88,NCV^A,AllianzGI Convertible & Income Fund,25.91,,
-89,NCZ,AllianzGI Convertible & Income Fund II,5.02,,
-90,NCZ^A,AllianzGI Convertible & Income Fund II,25.5924,,
-91,ACV,AllianzGI Diversified Income & Convertible Fund,22.61,,
-92,NIE,AllianzGI Equity & Convertible Income Fund,20.99,,
 93,NFJ,"AllianzGI NFJ Dividend, Interest & Premium Strategy Fund",12.05,Finance,Finance: Consumer Services
 94,ALSN,"Allison Transmission Holdings, Inc.",43.79,Capital Goods,Auto Parts:O.E.M.
 95,ALL,Allstate Corporation (The),101.78,Finance,Property-Casualty Insurers
-96,ALL^A,Allstate Corporation (The),25.42,,
-97,ALL^B,Allstate Corporation (The),26.29,,
-98,ALL^D,Allstate Corporation (The),25.51,,
-99,ALL^E,Allstate Corporation (The),25.32,,
-100,ALL^F,Allstate Corporation (The),25.5965,,
-101,ALL^G,Allstate Corporation (The),26.85,,
 102,ALLY,Ally Financial Inc.,30.76,Finance,Major Banks
-103,ALLY^A,Ally Financial Inc.,26.29,,
 104,AYX,"Alteryx, Inc.",125.65,Technology,Computer Software: Prepackaged Software
 105,ATUS,"Altice USA, Inc.",26.23,Consumer Services,Television Services
 106,MO,Altria Group,46.65,Consumer Non-Durables,Farming/Seeds/Milling
@@ -119,7 +89,6 @@
 117,ACC,American Campus Communities Inc,46.0,Consumer Services,Real Estate Investment Trusts
 118,AEO,"American Eagle Outfitters, Inc.",15.85,Consumer Services,Clothing/Shoe/Accessory Stores
 119,AEP,"American Electric Power Company, Inc.",88.02,Public Utilities,Electric Utilities: Central
-120,AEP^B,"American Electric Power Company, Inc.",55.25,,
 121,AEL,American Equity Investment Life Holding Company,22.3,Finance,Life Insurance
 122,AXP,American Express Company,120.72,Finance,Finance: Consumer Services
 123,AFG,"American Financial Group, Inc.",97.88,Finance,Property-Casualty Insurers
@@ -127,14 +96,7 @@
 125,AFGE,"American Financial Group, Inc.",25.81,Finance,Property-Casualty Insurers
 126,AFGH,"American Financial Group, Inc.",26.0,Finance,Property-Casualty Insurers
 127,AMH,American Homes 4 Rent,23.99,Consumer Services,Real Estate Investment Trusts
-128,AMH^D,American Homes 4 Rent,26.84,,
-129,AMH^E,American Homes 4 Rent,26.94,,
-130,AMH^F,American Homes 4 Rent,26.0712,,
-131,AMH^G,American Homes 4 Rent,27.24,,
-132,AMH^H,American Homes 4 Rent,26.91,,
 133,AIG,"American International Group, Inc.",52.81,Finance,Property-Casualty Insurers
-134,AIG.WS,"American International Group, Inc.",,,
-135,AIG^A,"American International Group, Inc.",26.8,,
 136,ARL,"American Realty Investors, Inc.",14.97,Finance,Real Estate
 137,ARA,"American Renal Associates Holdings, Inc",6.99,Health Care,Hospital/Nursing Management
 138,AWR,American States Water Company,76.58,Public Utilities,Water Supply
@@ -154,22 +116,14 @@
 152,AME,"AMTEK, Inc.",84.08,Consumer Durables,Metal Fabrications
 153,APC,Anadarko Petroleum Corporation,73.1,Energy,Oil & Gas Production
 154,PLAN,"Anaplan, Inc.",53.25,Technology,Computer Software: Prepackaged Software
-155,FINS,Angel Oak Financial Strategies Income Term Trust,20.0,,
 156,AU,AngloGold Ashanti Limited,20.11,Basic Industries,Precious Metals
 157,BUD,Anheuser-Busch Inbev SA,98.19,Consumer Non-Durables,Beverages (Production/Distribution)
 158,AXE,Anixter International Inc.,57.42,Consumer Non-Durables,Telecommunications Equipment
 159,NLY,Annaly Capital Management Inc,9.22,Consumer Services,Real Estate Investment Trusts
-160,NLY^D,Annaly Capital Management Inc,25.51,,
-161,NLY^F,Annaly Capital Management Inc,25.625,,
-162,NLY^G,Annaly Capital Management Inc,24.7003,,
-163,NLY^I,Annaly Capital Management Inc,25.5,,
 164,AM,Antero Midstream Corporation,7.91,Public Utilities,Natural Gas Distribution
 165,AR,Antero Resources Corporation,4.39,Energy,Oil & Gas Production
 166,ANTM,"Anthem, Inc.",283.62,Health Care,Medical Specialities
 167,ANH,Anworth Mortgage Asset  Corporation,3.68,Consumer Services,Real Estate Investment Trusts
-168,ANH^A,Anworth Mortgage Asset  Corporation,25.9662,,
-169,ANH^B,Anworth Mortgage Asset  Corporation,22.2,,
-170,ANH^C,Anworth Mortgage Asset  Corporation,25.3,,
 171,AON,Aon plc,183.25,Finance,Specialty Insurers
 172,APA,Apache Corporation,23.25,Energy,Oil & Gas Production
 173,AIV,Apartment Investment and Management Company,48.79,Consumer Services,Real Estate Investment Trusts
@@ -177,11 +131,6 @@
 175,APHA,Aphria Inc.,7.03,Consumer Durables,Specialty Chemicals
 176,ARI,Apollo Commercial Real Estate Finance,18.36,Consumer Services,Real Estate Investment Trusts
 177,APO,"Apollo Global Management, LLC",31.43,Finance,Investment Managers
-178,APO^A,"Apollo Global Management, LLC",25.99,,
-179,APO^B,"Apollo Global Management, LLC",26.5354,,
-180,AIY,Apollo Investment Corporation,25.1299,,
-181,AFT,Apollo Senior Floating Rate Fund Inc.,14.78,,
-182,AIF,Apollo Tactical Income Fund Inc.,14.53,,
 183,APLE,"Apple Hospitality REIT, Inc.",14.85,Consumer Services,Real Estate Investment Trusts
 184,AIT,"Applied Industrial Technologies, Inc.",55.82,Consumer Durables,Industrial Specialties
 185,ATR,"AptarGroup, Inc.",117.08,Consumer Non-Durables,Plastic Products
@@ -192,9 +141,6 @@
 190,WAAS,AquaVenture Holdings Limited,16.38,Public Utilities,Water Supply
 191,ARMK,Aramark,34.88,Consumer Services,Restaurants
 192,ABR,Arbor Realty Trust,12.3,Consumer Services,Real Estate Investment Trusts
-193,ABR^A,Arbor Realty Trust,26.18,,
-194,ABR^B,Arbor Realty Trust,25.82,,
-195,ABR^C,Arbor Realty Trust,26.6396,,
 196,ARC,"ARC Document Solutions, Inc.",1.82,Consumer Services,Professional Services
 197,MT,ArcelorMittal,14.29,Basic Industries,Steel/Iron Ore
 198,ARCH,"Arch Coal, Inc.",77.19,Energy,Coal Mining
@@ -206,56 +152,35 @@
 204,RCUS,"Arcus Biosciences, Inc.",6.6,Health Care,Major Pharmaceuticals
 205,ARD,Ardagh Group S.A.,16.83,Consumer Durables,Containers/Packaging
 206,ASC,Ardmore Shipping Corporation,6.56,Transportation,Marine Transportation
-207,AFC,Ares Capital Corporation,26.18,,
 208,ACRE,Ares Commercial Real Estate Corporation,14.92,Consumer Services,Real Estate Investment Trusts
-209,ARDC,"Ares Dynamic Credit Allocation Fund, Inc.",15.09,,
 210,ARES,Ares Management Corporation,26.68,Finance,Investment Managers
-211,ARES^A,Ares Management Corporation,26.48,,
 212,AGX,"Argan, Inc.",38.36,Basic Industries,Engineering & Construction
 213,ARGD,"Argo Group International Holdings, Ltd.",25.7,Finance,Specialty Insurers
 214,ARGO,"Argo Group International Holdings, Ltd.",65.65,Finance,Specialty Insurers
 215,ANET,"Arista Networks, Inc.",230.95,Technology,Computer Communications Equipment
 216,AI,Arlington Asset Investment Corp,6.18,Consumer Services,Real Estate Investment Trusts
-217,AI^B,Arlington Asset Investment Corp,21.38,,
-218,AI^C,Arlington Asset Investment Corp,23.02,,
 219,AIC,Arlington Asset Investment Corp,24.41,Consumer Services,Real Estate Investment Trusts
 220,AIW,Arlington Asset Investment Corp,24.3,Consumer Services,Real Estate Investment Trusts
 221,ARLO,"Arlo Technologies, Inc.",3.91,Consumer Non-Durables,Consumer Electronics/Appliances
 222,AHH,"Armada Hoffler Properties, Inc.",16.65,Finance,Real Estate
-223,AHH^A,"Armada Hoffler Properties, Inc.",26.4,,
 224,ARR,"ARMOUR Residential REIT, Inc.",17.42,Consumer Services,Real Estate Investment Trusts
-225,ARR^B,"ARMOUR Residential REIT, Inc.",25.02,,
 226,AFI,"Armstrong Flooring, Inc.",7.27,Consumer Non-Durables,Plastic Products
 227,AWI,Armstrong World Industries Inc,95.42,Consumer Non-Durables,Plastic Products
 228,ARW,"Arrow Electronics, Inc.",68.86,Technology,Electronic Components
 229,AJG,Arthur J. Gallagher & Co.,86.45,Finance,Specialty Insurers
 230,APAM,Artisan Partners Asset Management Inc.,27.19,Finance,Investment Managers
-231,ASA,ASA Gold and Precious Metals Limited,12.68,,
 232,ABG,Asbury Automotive Group Inc,91.17,Consumer Durables,Automotive Aftermarket
 233,ASX,"ASE Technology Holding Co., Ltd.",4.25,Technology,Semiconductors
 234,ASGN,ASGN Incorporated,59.21,Technology,Professional Services
 235,AHT,Ashford Hospitality Trust Inc,2.75,Consumer Services,Real Estate Investment Trusts
-236,AHT^D,Ashford Hospitality Trust Inc,23.37,,
-237,AHT^F,Ashford Hospitality Trust Inc,19.77,,
-238,AHT^G,Ashford Hospitality Trust Inc,19.71,,
-239,AHT^H,Ashford Hospitality Trust Inc,20.17,,
-240,AHT^I,Ashford Hospitality Trust Inc,20.45,,
 241,ASH,Ashland Global Holdings Inc.,74.87,Consumer Durables,Specialty Chemicals
 242,ASPN,"Aspen Aerogels, Inc.",6.2,Consumer Services,RETAIL: Building Materials
-243,AHL^C,Aspen Insurance Holdings Limited,26.95,,
-244,AHL^D,Aspen Insurance Holdings Limited,25.2,,
 245,AMK,"AssetMark Financial Holdings, Inc.",27.08,Finance,Investment Managers
 246,ASB,Associated Banc-Corp,20.09,Finance,Major Banks
-247,ASB^C,Associated Banc-Corp,25.9,,
-248,ASB^D,Associated Banc-Corp,25.52,,
-249,ASB^E,Associated Banc-Corp,26.5,,
 250,AC,"Associated Capital Group, Inc.",35.77,Finance,Investment Bankers/Brokers/Service
 251,AIZ,"Assurant, Inc.",108.14,Finance,Accident &Health Insurance
 252,AIZP,"Assurant, Inc.",113.7534,Finance,Accident &Health Insurance
 253,AGO,Assured Guaranty Ltd.,41.91,Finance,Property-Casualty Insurers
-254,AGO^B,Assured Guaranty Ltd.,27.89,,
-255,AGO^E,Assured Guaranty Ltd.,26.95,,
-256,AGO^F,Assured Guaranty Ltd.,25.84,,
 257,AZN,Astrazeneca PLC,43.56,Health Care,Major Pharmaceuticals
 258,HOME,At Home Group Inc.,5.27,Consumer Services,Home Furnishings
 259,T,AT&T Inc.,33.49,Public Utilities,Telecommunications Equipment
@@ -263,7 +188,6 @@
 261,TBC,AT&T Inc.,26.66,Public Utilities,Telecommunications Equipment
 262,ATTO,Atento S.A.,2.32,Public Utilities,Telecommunications Equipment
 263,ATH,Athene Holding Ltd.,38.93,Finance,Life Insurance
-264,ATH^A,Athene Holding Ltd.,26.83,,
 265,ATKR,Atkore International Group Inc.,26.23,Miscellaneous,Industrial Machinery/Components
 266,AT,Atlantic Power Corporation,2.3,Energy,Electric Utilities: Central
 267,ATO,Atmos Energy Corporation,106.94,Public Utilities,Oil/Gas Transmission
@@ -278,7 +202,6 @@
 276,AGR,"Avangrid, Inc.",49.22,Public Utilities,Electric Utilities: Central
 277,AVNS,"Avanos Medical, Inc.",37.92,Health Care,Industrial Specialties
 278,AVTR,"Avantor, Inc.",16.01,Capital Goods,Biotechnology: Laboratory Analytical Instruments
-279,AVTR^A,"Avantor, Inc.",56.96,,
 280,AVYA,Avaya Holdings Corp.,10.59,Public Utilities,Telecommunications Equipment
 281,AVY,Avery Dennison Corporation,108.34,Consumer Durables,Containers/Packaging
 282,AVH,Avianca Holdings S.A.,3.88,Transportation,Air Freight/Delivery Services
@@ -288,8 +211,6 @@
 286,EQH,"AXA Equitable Holdings, Inc.",19.83,Finance,Specialty Insurers
 287,AXTA,Axalta Coating Systems Ltd.,28.22,Basic Industries,Paints/Coatings
 288,AXS,Axis Capital Holdings Limited,62.33,Finance,Property-Casualty Insurers
-289,AXS^D,Axis Capital Holdings Limited,25.13,,
-290,AXS^E,Axis Capital Holdings Limited,25.25,,
 291,AX,"Axos Financial, Inc.",25.64,Finance,Savings Institutions
 292,AXO,"Axos Financial, Inc.",25.949,Finance,Savings Institutions
 293,AZUL,Azul S.A.,39.11,Transportation,Air Freight/Delivery Services
@@ -297,18 +218,11 @@
 295,AZZ,AZZ Inc.,43.02,Consumer Durables,Building Products
 296,BGS,"B&G Foods, Inc.",20.0,Consumer Non-Durables,Packaged Foods
 297,BRPM,B. Riley Principal Merger Corp.,9.79,Finance,Business Services
-298,BRPM.U,B. Riley Principal Merger Corp.,,,
-299,BRPM.WS,B. Riley Principal Merger Corp.,,,
 300,BW,Babcock,3.51,Capital Goods,Building Products
-301,BGH,Babson Global Short Duration High Yield Fund,17.79,,
 302,BMI,"Badger Meter, Inc.",52.8,Capital Goods,Industrial Machinery/Components
-303,BCSF,"Bain Capital Specialty Finance, Inc.",18.03,,
 304,BHGE,"Baker Hughes, a GE company",23.81,Energy,Metal Fabrications
-305,BBN,BalckRock Taxable Municipal Bond Trust,24.2,,
 306,BLL,Ball Corporation,73.25,Consumer Durables,Containers/Packaging
 307,BANC,"Banc of California, Inc.",14.2,Finance,Major Banks
-308,BANC^D,"Banc of California, Inc.",26.11,,
-309,BANC^E,"Banc of California, Inc.",27.02,,
 310,BBVA,Banco Bilbao Viscaya Argentaria S.A.,4.94,Finance,Commercial Banks
 311,BBD,Banco Bradesco Sa,8.47,Finance,Major Banks
 312,BBDO,Banco Bradesco Sa,7.51,Finance,Major Banks
@@ -318,33 +232,16 @@
 316,BSAC,Banco Santander Chile,27.62,Finance,Commercial Banks
 317,BSMX,"Banco Santander Mexico, S.A., Institucion de Ban",6.79,Finance,Commercial Banks
 318,SAN,"Banco Santander, S.A.",4.06,Finance,Commercial Banks
-319,SAN^B,"Banco Santander, S.A.",22.58,,
 320,CIB,BanColombia S.A.,46.39,Finance,Commercial Banks
-321,BXS,BancorpSouth Bank,27.53,,
 322,BAC,Bank of America Corporation,28.08,Finance,Major Banks
-323,BAC^A,Bank of America Corporation,26.53,,
-324,BAC^B,Bank of America Corporation,26.93,,
-325,BAC^C,Bank of America Corporation,26.22,,
-326,BAC^E,Bank of America Corporation,22.45,,
-327,BAC^K,Bank of America Corporation,26.91,,
-328,BAC^L,Bank of America Corporation,1409.41,,
-329,BAC^M,Bank of America Corporation,25.6,,
-330,BAC^W.CL,Bank of America Corporation,,,
 331,BAC^Y,Bank of America Corporation,25.86,Finance,Major Banks
-332,BML^G,Bank of America Corporation,20.165,,
-333,BML^H,Bank of America Corporation,19.99,,
-334,BML^J,Bank of America Corporation,22.93,,
-335,BML^L,Bank of America Corporation,21.67,,
 336,BOH,Bank of Hawaii Corporation,80.56,Finance,Major Banks
 337,BMO,Bank Of Montreal,71.87,Finance,Commercial Banks
 338,NTB,Bank of N.T. Butterfield & Son Limited (The),28.14,Finance,Commercial Banks
 339,BK,Bank Of New York Mellon Corporation (The),45.06,Finance,Major Banks
-340,BK^C,Bank Of New York Mellon Corporation (The),25.3992,,
 341,BNS,Bank of Nova Scotia (The),51.73,Finance,Major Banks
 342,BKU,"BankUnited, Inc.",31.62,Finance,Savings Institutions
 343,BCS,Barclays PLC,7.11,Finance,Commercial Banks
-344,BBDC,"Barings BDC, Inc.",9.76,,
-345,MCI,Barings Corporate Investors,15.89,,
 346,MPV,Barings Participation Investors,16.7,Consumer Services,Miscellaneous
 347,BNED,"Barnes & Noble Education, Inc",3.14,Consumer Services,Other Specialty Stores
 348,BKS,"Barnes & Noble, Inc.",6.5,Consumer Services,Other Specialty Stores
@@ -355,11 +252,6 @@
 353,BAX,Baxter International Inc.,81.91,Health Care,Medical/Dental Instruments
 354,BTE,Baytex Energy Corp,1.36,Energy,Oil & Gas Production
 355,BBT,BB&T Corporation,47.37,Finance,Major Banks
-356,BBT^D.CL,BB&T Corporation,,,
-357,BBT^E.CL,BB&T Corporation,,,
-358,BBT^F,BB&T Corporation,25.16,,
-359,BBT^G,BB&T Corporation,25.15,,
-360,BBT^H,BB&T Corporation,26.77,,
 361,BBAR,BBVA Banco Frances S.A.,10.86,Finance,Commercial Banks
 362,BBX,BBX Capital Corporation,3.93,Finance,Real Estate
 363,BCE,"BCE, Inc.",45.98,Public Utilities,Telecommunications Equipment
@@ -368,8 +260,6 @@
 366,BDXA,"Becton, Dickinson and Company",58.41,Health Care,Medical/Dental Instruments
 367,BDC,Belden Inc,45.0,Basic Industries,Telecommunications Equipment
 368,BHE,"Benchmark Electronics, Inc.",25.92,Technology,Electrical Products
-369,BRK.A,Berkshire Hathaway Inc.,,,
-370,BRK.B,Berkshire Hathaway Inc.,,,
 371,BHLB,"Berkshire Hills Bancorp, Inc.",29.81,Finance,Banks
 372,BERY,"Berry Global Group, Inc.",42.63,Consumer Non-Durables,Plastic Products
 373,BBY,"Best Buy Co., Inc.",66.14,Consumer Services,Consumer Electronics/Video Chains
@@ -378,105 +268,28 @@
 376,BBL,BHP Group Plc,43.57,Energy,Coal Mining
 377,BIG,"Big Lots, Inc.",24.01,Consumer Services,Department/Specialty Retail Stores
 378,BH,Biglari Holdings Inc.,89.76,Consumer Services,Restaurants
-379,BH.A,Biglari Holdings Inc.,,,
 380,BHVN,Biohaven Pharmaceutical Holding Company Ltd.,39.57,Health Care,Major Pharmaceuticals
 381,BIO,"Bio-Rad Laboratories, Inc.",318.8,Capital Goods,Biotechnology: Laboratory Analytical Instruments
-382,BIO.B,"Bio-Rad Laboratories, Inc.",,,
 383,BITA,Bitauto Holdings Limited,11.02,Technology,EDP Services
 384,BJ,"BJ&#39;s Wholesale Club Holdings, Inc.",23.09,Consumer Services,Department/Specialty Retail Stores
 385,BKH,Black Hills Corporation,77.08,Public Utilities,Electric Utilities: Central
 386,BKI,"Black Knight, Inc.",60.66,Technology,Computer Software: Prepackaged Software
 387,BSM,"Black Stone Minerals, L.P.",14.76,Energy,Oil & Gas Production
 388,BB,BlackBerry Limited,6.85,Technology,Computer Software: Prepackaged Software
-389,BGIO,BlackRock 2022 Global Income Opportunity Trust,9.32,,
-390,BFZ,BlackRock California Municipal Income Trust,13.65,,
-391,CII,Blackrock Capital and Income Strategies Fund Inc,15.49,,
-392,BHK,Blackrock Core Bond Trust,14.29,,
-393,HYT,"Blackrock Corporate High Yield Fund, Inc.",10.46,,
-394,BTZ,BlackRock Credit Allocation Income Trust,13.41,,
-395,DSU,"Blackrock Debt Strategies Fund, Inc.",10.85,,
-396,BGR,BlackRock Energy and Resources Trust,10.61,,
-397,BDJ,Blackrock Enhanced Equity Dividend Trust,8.82,,
-398,EGF,"Blackrock Enhanced Government Fund, Inc",13.2195,,
-399,FRA,Blackrock Floating Rate Income Strategies Fund Inc,12.72,,
-400,BFO,Blackrock Florida Municipal 2020 Term Trust,14.4,,
-401,BGT,Blackrock Global,12.44,,
-402,BOE,Blackrock Global,10.25,,
-403,BME,Blackrock Health Sciences Trust,38.44,,
-404,BAF,BlackRock Income Investment Quality Trust,14.35,,
-405,BKT,BlackRock Income Trust Inc. (The),6.09,,
-406,BGY,"BLACKROCK INTERNATIONAL, LTD.",5.38,,
-407,BKN,BlackRock Investment Quality Municipal Trust Inc. (The),15.61,,
-408,BTA,BlackRock Long-Term Municipal Advantage Trust,12.94,,
-409,BZM,BlackRock Maryland Municipal Bond Trust,14.5808,,
-410,MHE,BlackRock Massachusetts Tax-Exempt Trust,12.88,,
-411,BIT,BlackRock Multi-Sector Income Trust,17.2,,
-412,MUI,Blackrock Muni Intermediate Duration Fund Inc,14.43,,
-413,MNE,Blackrock Muni New York Intermediate Duration Fund Inc,14.53,,
-414,MUA,"Blackrock MuniAssets Fund, Inc.",15.44,,
-415,BKK,Blackrock Municipal 2020 Term Trust,15.06,,
-416,BBK,Blackrock Municipal Bond Trust,15.28,,
-417,BBF,BlackRock Municipal Income Investment Trust,14.22,,
-418,BYM,Blackrock Municipal Income Quality Trust,14.13,,
-419,BFK,BlackRock Municipal Income Trust,14.06,,
-420,BLE,BlackRock Municipal Income Trust II,15.05,,
-421,BTT,BlackRock Municipal Target Term Trust Inc. (The),23.76,,
-422,MEN,"Blackrock MuniEnhanced Fund, Inc.",11.29,,
-423,MUC,"Blackrock MuniHoldings California Quality Fund,  Inc.",14.15,,
-424,MUH,"Blackrock MuniHoldings Fund II, Inc.",15.465,,
-425,MHD,"Blackrock MuniHoldings Fund, Inc.",17.1,,
-426,MFL,Blackrock MuniHoldings Investment Quality Fund,13.43,,
-427,MUJ,"Blackrock MuniHoldings New Jersey Insured Fund, Inc.",14.47,,
-428,MHN,"Blackrock MuniHoldings New York Quality Fund, Inc.",13.64,,
-429,MUE,"Blackrock MuniHoldings Quality Fund II, Inc.",12.8,,
-430,MUS,"Blackrock MuniHoldings Quality Fund, Inc.",12.62,,
-431,MVT,"Blackrock MuniVest Fund II, Inc.",15.55,,
-432,MYC,"Blackrock MuniYield California Fund, Inc.",14.38,,
-433,MCA,"Blackrock MuniYield California Insured Fund, Inc.",14.41,,
-434,MYD,"Blackrock MuniYield Fund, Inc.",14.97,,
-435,MYF,Blackrock MuniYield Investment Fund,14.55,,
-436,MFT,Blackrock MuniYield Investment QualityFund,13.69,,
-437,MIY,"Blackrock MuniYield Michigan Quality Fund, Inc.",14.29,,
-438,MYJ,"Blackrock MuniYield New Jersey Fund, Inc.",15.42,,
-439,MYN,"Blackrock MuniYield New York Quality Fund, Inc.",13.22,,
-440,MPA,Blackrock MuniYield Pennsylvania Quality Fund,14.28,,
-441,MQT,"Blackrock MuniYield Quality Fund II, Inc.",12.94,,
-442,MYI,"Blackrock MuniYield Quality Fund III, Inc.",13.53,,
-443,MQY,"Blackrock MuniYield Quality Fund, Inc.",14.82,,
-444,BNY,BlackRock New York Investment Quality Municipal Trust Inc. (Th,14.0,,
-445,BQH,Blackrock New York Municipal Bond Trust,14.769,,
-446,BSE,Blackrock New York Municipal Income Quality Trust,13.53,,
-447,BFY,BlackRock New York Municipal Income Trust II,14.13,,
-448,BCX,BlackRock Resources,7.49,,
-449,BST,BlackRock Science and Technology Trust,32.11,,
-450,BSTZ,BlackRock Science and Technology Trust II,20.08,,
-451,BSD,BlackRock Strategic Municipal Trust Inc. (The),14.24,,
-452,BUI,"BlackRock Utility, Infrastructure & Power Opportun",23.25,,
-453,BHV,BlackRock Virginia Municipal Bond Trust,16.41,,
 454,BLK,"BlackRock, Inc.",431.32,Finance,Investment Bankers/Brokers/Service
-455,BGB,Blackstone / GSO Strategic Credit Fund,14.7,,
-456,BGX,Blackstone GSO Long Short Credit Income Fund,15.68,,
-457,BSL,Blackstone GSO Senior Floating Rate Term Fund,16.97,,
 458,BE,Bloom Energy Corporation,9.62,Energy,Industrial Machinery/Components
 459,APRN,"Blue Apron Holdings, Inc.",7.83,Consumer Services,Catalog/Specialty Distribution
 460,BCRH,Blue Capital Reinsurance Holdings Ltd.,7.98,Finance,Property-Casualty Insurers
 461,BXG,Bluegreen Vacations Corporation,9.28,Finance,Real Estate
 462,BXC,BlueLinx Holdings Inc.,21.83,Capital Goods,Wholesale Distributors
-463,DCF,BNY Mellon Alcentra Global Credit Income 2024 Target Term Fund,9.38,,
-464,DHF,BNY Mellon High Yield Strategies Fund,3.08,,
-465,DMB,"BNY Mellon Municipal Bond Infrastructure Fund, Inc",14.11,,
-466,DSM,"BNY Mellon Strategic Municipal Bond Fund, Inc.",8.61,,
-467,LEO,"BNY Mellon Strategic Municipals, Inc.",8.62,,
 468,BA,Boeing Company (The),331.06,Capital Goods,Aerospace
 469,BCC,"Boise Cascade, L.L.C.",28.88,Consumer Services,RETAIL: Building Materials
 470,BCEI,"Bonanza Creek Energy, Inc.",20.52,Energy,Oil & Gas Production
 471,BOOT,"Boot Barn Holdings, Inc.",30.44,Consumer Services,Clothing/Shoe/Accessory Stores
 472,BAH,Booz Allen Hamilton Holding Corporation,67.36,Consumer Services,Professional Services
 473,BWA,BorgWarner Inc.,34.46,Capital Goods,Auto Parts:O.E.M.
-474,BORR,Borr Drilling Limited,8.01,,
 475,SAM,"Boston Beer Company, Inc. (The)",373.23,Consumer Non-Durables,Beverages (Production/Distribution)
 476,BXP,"Boston Properties, Inc.",127.34,Consumer Services,Real Estate Investment Trusts
-477,BXP^B,"Boston Properties, Inc.",25.19,,
 478,BSX,Boston Scientific Corporation,41.36,Health Care,Medical/Dental Instruments
 479,BOX,"Box, Inc.",14.78,Technology,Computer Software: Prepackaged Software
 480,BYD,Boyd Gaming Corporation,25.37,Consumer Services,Hotels/Resorts
@@ -485,10 +298,7 @@
 483,BPT,BP Prudhoe Bay Royalty Trust,9.06,Energy,Integrated oil Companies
 484,BRC,Brady Corporation,49.08,Consumer Durables,Miscellaneous manufacturing industries
 485,BHR,Braemar Hotels & Resorts Inc.,8.15,Consumer Services,Real Estate Investment Trusts
-486,BHR^B,Braemar Hotels & Resorts Inc.,18.565,,
-487,BHR^D,Braemar Hotels & Resorts Inc.,25.6,,
 488,BDN,Brandywine Realty Trust,14.26,Consumer Services,Real Estate Investment Trusts
-489,BWG,BrandywineGLOBAL Global Income Opportunities Fund ,11.95,,
 490,LND,Brasilagro Cia Brasileira De Propriedades Agricolas,4.11,Consumer Non-Durables,Farming/Seeds/Milling
 491,BRFS,BRF S.A.,8.45,Consumer Non-Durables,Meat/Poultry/Fish
 492,BGG,Briggs & Stratton Corporation,8.61,Energy,Industrial Machinery/Components
@@ -507,19 +317,11 @@
 505,BKD,Brookdale Senior Living Inc.,7.34,Health Care,Hospital/Nursing Management
 506,BAM,Brookfield Asset Management Inc,47.75,Consumer Services,Building operators
 507,BBU,Brookfield Business Partners L.P.,36.75,Basic Industries,Engineering & Construction
-508,DTLA^,Brookfield DTLA Inc.,19.95,,
-509,INF,Brookfield Global Listed Infrastructure Income Fund,12.71,,
 510,BIP,Brookfield Infrastructure Partners LP,43.94,Consumer Services,Marine Transportation
-511,RA,Brookfield Real Assets Income Fund Inc.,21.75,,
 512,BEP,Brookfield Renewable Partners L.P.,35.93,Public Utilities,Electric Utilities: Central
 513,BRO,"Brown & Brown, Inc.",35.28,Finance,Specialty Insurers
-514,BF.A,Brown Forman Corporation,,,
-515,BF.B,Brown Forman Corporation,,,
 516,BRT,BRT Apartments Corp.,13.53,Consumer Services,Real Estate Investment Trusts
 517,BC,Brunswick Corporation,45.46,Energy,Industrial Machinery/Components
-518,BC^A,Brunswick Corporation,26.49,,
-519,BC^B,Brunswick Corporation,26.49,,
-520,BC^C,Brunswick Corporation,26.01,,
 521,BT,BT Group plc,11.39,Public Utilities,Telecommunications Equipment
 522,BPL,Buckeye Partners L.P.,41.62,Energy,Natural Gas Distribution
 523,BKE,"Buckle, Inc. (The)",19.86,Consumer Services,Clothing/Shoe/Accessory Stores
@@ -540,8 +342,6 @@
 538,CADE,Cadence Bancorporation,15.41,Finance,Major Banks
 539,CAE,CAE Inc,26.62,Miscellaneous,Industrial Machinery/Components
 540,CAI,"CAI International, Inc.",21.47,Technology,Diversified Commercial Services
-541,CAI^A,"CAI International, Inc.",26.12,,
-542,CAI^B,"CAI International, Inc.",26.0332,,
 543,CAL,"Caleres, Inc.",15.16,Consumer Non-Durables,Shoe Manufacturing
 544,CRC,California Resources Corporation,11.37,Energy,Oil & Gas Production
 545,CWT,California Water  Service Group Holding,51.78,Public Utilities,Water Supply
@@ -566,16 +366,10 @@
 564,CMD,Cantel Medical Corp.,91.29,Health Care,Medical/Dental Instruments
 565,COF,Capital One Financial Corporation,86.62,Finance,Major Banks
 566,COF^C,Capital One Financial Corporation,25.55,Finance,Major Banks
-567,COF^D,Capital One Financial Corporation,25.72,,
-568,COF^F,Capital One Financial Corporation,26.075,,
-569,COF^G,Capital One Financial Corporation,25.85,,
-570,COF^H,Capital One Financial Corporation,26.7693,,
-571,COF^P,Capital One Financial Corporation,25.4957,,
 572,CSU,Capital Senior Living Corporation,4.94,Health Care,Hospital/Nursing Management
 573,BXMT,"Capital Trust, Inc.",34.66,Consumer Services,Real Estate Investment Trusts
 574,CPRI,Capri Holdings Limited,31.71,Consumer Non-Durables,Apparel
 575,CMO,Capstead Mortgage Corporation,8.16,Consumer Services,Real Estate Investment Trusts
-576,CMO^E,Capstead Mortgage Corporation,25.39,,
 577,CRR,"Carbo Ceramics, Inc.",1.26,Capital Goods,Industrial Machinery/Components
 578,CAH,"Cardinal Health, Inc.",45.55,Health Care,Other Pharmaceuticals
 579,CRCM,"Care.com, Inc.",10.22,Consumer Services,Other Consumer Services
@@ -595,18 +389,10 @@
 593,CATO,Cato Corporation (The),13.47,Consumer Services,Clothing/Shoe/Accessory Stores
 594,CBZ,"CBIZ, Inc.",22.83,Miscellaneous,Business Services
 595,CBL,"CBL & Associates Properties, Inc.",0.9312,Consumer Services,Real Estate Investment Trusts
-596,CBL^D,"CBL & Associates Properties, Inc.",7.32,,
-597,CBL^E,"CBL & Associates Properties, Inc.",6.63,,
-598,CBO,CBO (Listing Market - NYSE - Networks A/E),5.45,,
-599,IGR,CBRE Clarion Global Real Estate Income Fund,7.4,,
 600,CBRE,"CBRE Group, Inc.",50.79,Finance,Real Estate
 601,CBS,CBS Corporation,49.06,Consumer Services,Broadcasting
-602,CBS.A,CBS Corporation,,,
-603,CBX,CBX (Listing Market NYSE Networks AE,1.4,,
 604,FUN,"Cedar Fair, L.P.",49.34,Consumer Services,Services-Misc. Amusement & Recreation
 605,CDR,"Cedar Realty Trust, Inc.",2.48,Consumer Services,Real Estate Investment Trusts
-606,CDR^B,"Cedar Realty Trust, Inc.",25.12,,
-607,CDR^C,"Cedar Realty Trust, Inc.",22.66,,
 608,CE,Celanese Corporation,103.19,Basic Industries,Major Chemicals
 609,CLS,"Celestica, Inc.",6.78,Technology,Electrical Products
 610,CEL,"Cellcom Israel, Ltd.",2.65,Public Utilities,Telecommunications Equipment
@@ -614,11 +400,8 @@
 612,CX,Cemex S.A.B. de C.V.,3.1,Capital Goods,Building Materials
 613,CVE,Cenovus Energy Inc,8.45,Energy,Oil & Gas Production
 614,CNC,Centene Corporation,48.52,Health Care,Medical Specialities
-615,CEN,Center Coast Brookfield MLP & Energy Infrastructur,7.64,,
 616,CNP,"CenterPoint Energy, Inc.",28.55,Public Utilities,Electric Utilities: Central
-617,CNP^B,"CenterPoint Energy, Inc.",50.79,,
 618,EBR,Centrais Electricas Brasileiras S.A.- Eletrobras,10.64,Public Utilities,Electric Utilities: Central
-619,EBR.B,Centrais Electricas Brasileiras S.A.- Eletrobras,,,
 620,CEPU,Central Puerto S.A.,8.45,Public Utilities,Electric Utilities: Central
 621,CCS,"Century Communities, Inc.",25.94,Capital Goods,Homebuilding
 622,CTL,"CenturyLink, Inc.",11.79,Public Utilities,Telecommunications Equipment
@@ -635,10 +418,7 @@
 633,CHE,Chemed Corp.,406.66,Health Care,Medical/Nursing Services
 634,CC,Chemours Company (The),13.78,Basic Industries,Major Chemicals
 635,CHMI,Cherry Hill Mortgage Investment Corporation,14.92,Consumer Services,Real Estate Investment Trusts
-636,CHMI^A,Cherry Hill Mortgage Investment Corporation,25.7947,,
-637,CHMI^B,Cherry Hill Mortgage Investment Corporation,25.6557,,
 638,CHK,Chesapeake Energy Corporation,1.56,Energy,Oil & Gas Production
-639,CHK^D,Chesapeake Energy Corporation,40.65,,
 640,CHKR,Chesapeake Granite Wash Trust,1.0233,Energy,Oil & Gas Production
 641,CHSP,Chesapeake Lodging Trust,26.17,Consumer Services,Real Estate Investment Trusts
 642,CPK,Chesapeake Utilities Corporation,90.8,Public Utilities,Oil & Gas Production
@@ -646,13 +426,8 @@
 644,CHWY,"Chewy, Inc.",32.21,Consumer Services,Catalog/Specialty Distribution
 645,CHS,"Chico&#39;s FAS, Inc.",2.92,Consumer Services,Clothing/Shoe/Accessory Stores
 646,CIM,Chimera Investment Corporation,19.1,Consumer Services,Real Estate Investment Trusts
-647,CIM^A,Chimera Investment Corporation,26.28,,
-648,CIM^B,Chimera Investment Corporation,26.2,,
-649,CIM^C,Chimera Investment Corporation,25.53,,
-650,CIM^D,Chimera Investment Corporation,26.01,,
 651,DL,China Distance Education Holdings Limited,4.69,Consumer Services,Other Consumer Services
 652,CEA,China Eastern Airlines Corporation Ltd.,23.81,Transportation,Air Freight/Delivery Services
-653,CHN,"China Fund, Inc. (The)",18.83,,
 654,CGA,"China Green Agriculture, Inc.",4.1,Basic Industries,Agricultural Chemicals
 655,LFC,China Life Insurance Company Limited,11.71,Finance,Life Insurance
 656,CHL,China Mobile (Hong Kong) Ltd.,40.14,Public Utilities,Telecommunications Equipment
@@ -669,13 +444,10 @@
 667,CHT,"Chunghwa Telecom Co., Ltd.",33.71,Public Utilities,Telecommunications Equipment
 668,CHD,"Church & Dwight Company, Inc.",74.14,Basic Industries,Package Goods/Cosmetics
 669,CCX,Churchill Capital Corp II,9.93,Finance,Business Services
-670,CCX.U,Churchill Capital Corp II,,,
-671,CCX.WS,Churchill Capital Corp II,,,
 672,CIEN,Ciena Corporation,41.25,Public Utilities,Telecommunications Equipment
 673,CI,Cigna Corporation,159.0,Health Care,Medical Specialities
 674,XEC,Cimarex Energy Co,44.92,Energy,Oil & Gas Production
 675,CBB,Cincinnati Bell Inc,3.41,Public Utilities,Telecommunications Equipment
-676,CBB^B,Cincinnati Bell Inc,32.92,,
 677,CNK,Cinemark Holdings Inc,39.57,Consumer Services,Movies/Entertainment
 678,CINR,Ciner Resources LP,16.13,Basic Industries,Mining & Quarrying of Nonmetallic Minerals (No Fuels)
 679,CIR,"CIRCOR International, Inc.",37.39,Capital Goods,Metal Fabrications
@@ -683,25 +455,17 @@
 681,CIT,CIT Group Inc (DEL),45.23,Finance,Major Banks
 682,BLW,Citigroup Inc.,15.29,Finance,Major Banks
 683,C,Citigroup Inc.,65.18,Finance,Major Banks
-684,C^J,Citigroup Inc.,28.5,,
 685,C^K,Citigroup Inc.,28.0434,Finance,Major Banks
 686,C^N,Citigroup Inc.,26.78,Finance,Major Banks
-687,C^S,Citigroup Inc.,26.09,,
 688,CFG,"Citizens Financial Group, Inc.",34.62,Finance,Major Banks
-689,CFG^D,"Citizens Financial Group, Inc.",27.0999,,
 690,CIA,"Citizens, Inc.",6.76,Finance,Life Insurance
 691,CIO,"City Office REIT, Inc.",12.55,Consumer Services,Real Estate Investment Trusts
-692,CIO^A,"City Office REIT, Inc.",26.04,,
 693,CVEO,Civeo Corporation,1.55,Consumer Services,Hotels/Resorts
 694,CCC,Clarivate Analytics Plc,15.68,Technology,EDP Services
 695,CLH,"Clean Harbors, Inc.",73.22,Basic Industries,Environmental Services
 696,CCO,"Clear Channel Outdoor Holdings, Inc.",2.5,Consumer Services,Advertising
-697,EMO,ClearBridge Energy Midstream Opportunity Fund Inc.,8.78,,
-698,CEM,ClearBridge MLP and Midstream Fund Inc.,11.55,,
-699,CTR,ClearBridge MLP and Midstream Total Return Fund In,9.05,,
 700,CLW,Clearwater Paper Corporation,19.61,Basic Industries,Paper
 701,CWEN,"Clearway Energy, Inc.",17.64,Public Utilities,Electric Utilities: Central
-702,CWEN.A,"Clearway Energy, Inc.",,,
 703,CLF,Cleveland-Cliffs Inc.,8.83,Basic Industries,Precious Metals
 704,CLPR,Clipper Realty Inc.,10.53,Consumer Services,Real Estate Investment Trusts
 705,CLX,Clorox Company (The),155.03,Consumer Durables,Specialty Chemicals
@@ -723,36 +487,14 @@
 721,KO,Coca-Cola Company (The),51.65,Consumer Non-Durables,Beverages (Production/Distribution)
 722,CCEP,Coca-Cola European Partners plc,54.33,Consumer Non-Durables,Beverages (Production/Distribution)
 723,CDE,"Coeur Mining, Inc.",5.12,Basic Industries,Precious Metals
-724,FOF,"Cohen & Steers Closed-End Opportunity Fund, Inc.",12.59,,
-725,INB,"Cohen & Steers Global Income Builder, Inc.",8.69,,
 726,CNS,Cohen & Steers Inc,50.44,Finance,Investment Managers
-727,UTF,"Cohen & Steers Infrastructure Fund, Inc",25.56,,
-728,LDP,"Cohen & Steers Limited Duration Preferred and Income Fund, Inc",24.58,,
-729,MIE,"Cohen & Steers MLP Income and Energy Opportunity Fund, Inc.",9.34,,
-730,RQI,Cohen & Steers Quality Income Realty Fund Inc,13.94,,
-731,RNP,"Cohen & Steers REIT and Preferred and Income Fund,",21.8,,
-732,PSF,"Cohen & Steers Select Preferred and Income Fund, Inc.",28.81,,
-733,RFI,"Cohen & Steers Total Return Realty Fund, Inc.",13.64,,
 734,CFX,Colfax Corporation,24.71,Capital Goods,Fluid Controls
 735,CFXA,Colfax Corporation,114.09,Capital Goods,Fluid Controls
 736,CL,Colgate-Palmolive Company,68.8,Consumer Non-Durables,Package Goods/Cosmetics
 737,CCH,Collier Creek Holdings,10.24,Finance,Business Services
-738,CCH.U,Collier Creek Holdings,,,
-739,CCH.WS,Collier Creek Holdings,,,
-740,CXE,Colonial High Income Municipal Trust,5.69,,
-741,CIF,Colonial Intermediate High Income Fund,2.55,,
-742,CXH,Colonial Investment Grade Municipal Trust,9.89,,
-743,CMU,Colonial Municipal Income Trust,4.78,,
 744,CLNY,"Colony Capital, Inc.",5.41,Consumer Services,Real Estate Investment Trusts
-745,CLNY^B,"Colony Capital, Inc.",25.6426,,
-746,CLNY^E,"Colony Capital, Inc.",25.648000000000003,,
-747,CLNY^G,"Colony Capital, Inc.",23.5866,,
-748,CLNY^H,"Colony Capital, Inc.",23.3688,,
-749,CLNY^I,"Colony Capital, Inc.",23.45,,
-750,CLNY^J,"Colony Capital, Inc.",23.3,,
 751,CLNC,"Colony Credit Real Estate, Inc.",15.61,Consumer Services,Real Estate Investment Trusts
 752,CXP,"Columbia Property Trust, Inc.",20.93,Consumer Services,Real Estate Investment Trusts
-753,STK,"Columbia Seligman Premium Technology Growth Fund, Inc",20.38,,
 754,CCZ,Comcast Corporation,52.0,Consumer Services,Television Services
 755,CMA,Comerica Incorporated,64.43,Finance,Major Banks
 756,FIX,"Comfort Systems USA, Inc.",39.65,Capital Goods,Engineering & Construction
@@ -761,14 +503,11 @@
 759,CYH,"Community Health Systems, Inc.",1.91,Health Care,Hospital/Nursing Management
 760,CHCT,Community Healthcare Trust Incorporated,41.46,Consumer Services,Real Estate Investment Trusts
 761,CIG,Comp En De Mn Cemig ADS,3.51,Public Utilities,Electric Utilities: Central
-762,CIG.C,Comp En De Mn Cemig ADS,,,
 763,CBD,Companhia Brasileira de Distribuicao,23.47,Consumer Services,Food Chains
 764,SBS,Companhia de saneamento Basico Do Estado De Sao Paulo - Sabesp,13.55,Public Utilities,Water Supply
 765,ELP,Companhia Paranaense de Energia (COPEL),12.17,Public Utilities,Electric Utilities: Central
 766,CCU,"Compania Cervecerias Unidas, S.A.",26.61,Consumer Non-Durables,Beverages (Production/Distribution)
 767,CODI,Compass Diversified Holdings,18.41,Consumer Durables,Home Furnishings
-768,CODI^A,Compass Diversified Holdings,22.7343,,
-769,CODI^B,Compass Diversified Holdings,24.0396,,
 770,CMP,"Compass Minerals International, Inc.",53.43,Basic Industries,Mining & Quarrying of Nonmetallic Minerals (No Fuels)
 771,CRK,"Comstock Resources, Inc.",5.93,Energy,Oil & Gas Production
 772,CAG,"ConAgra Brands, Inc.",28.0,Consumer Non-Durables,Packaged Foods
@@ -779,7 +518,6 @@
 777,CCR,CONSOL Coal Resources LP,15.41,Energy,Coal Mining
 778,ED,Consolidated Edison Inc,85.48,Public Utilities,Power Generation
 779,STZ,Constellation Brands Inc,186.69,Consumer Non-Durables,Beverages (Production/Distribution)
-780,STZ.B,Constellation Brands Inc,,,
 781,CSTM,Constellium SE,11.19,Basic Industries,Metal Fabrications
 782,TCS,Container Store (The),5.17,Consumer Services,Home Furnishings
 783,CBPX,"Continental Building Products, Inc.",22.31,Capital Goods,Building Materials
@@ -794,7 +532,6 @@
 792,CXW,"CoreCivic, Inc.",16.8,Consumer Services,Real Estate Investment Trusts
 793,CLGX,"CoreLogic, Inc.",44.84,Technology,EDP Services
 794,CORR,"CorEnergy Infrastructure Trust, Inc.",41.16,Consumer Services,Real Estate Investment Trusts
-795,CORR^A,"CorEnergy Infrastructure Trust, Inc.",26.34,,
 796,CPLG,CorePoint Lodging Inc.,11.03,Consumer Services,Real Estate Investment Trusts
 797,COR,CoreSite Realty Corporation,108.83,Consumer Services,Real Estate Investment Trusts
 798,CNR,"Cornerstone Building Brands, Inc.",5.94,Capital Goods,Metal Fabrications
@@ -805,10 +542,6 @@
 803,CTVA,"Corteva, Inc.",29.9,Consumer Non-Durables,Farming/Seeds/Milling
 804,CZZ,Cosan Limited,13.52,Consumer Non-Durables,Specialty Foods
 805,CMRE,Costamare Inc.,5.4,Transportation,Marine Transportation
-806,CMRE^B,Costamare Inc.,23.641,,
-807,CMRE^C,Costamare Inc.,24.51,,
-808,CMRE^D,Costamare Inc.,24.9193,,
-809,CMRE^E,Costamare Inc.,25.06,,
 810,COT,Cott Corporation,12.44,Consumer Non-Durables,Beverages (Production/Distribution)
 811,COTY,Coty Inc.,10.15,Consumer Non-Durables,Package Goods/Cosmetics
 812,CUZ,Cousins Properties Incorporated,33.35,Consumer Services,Real Estate Investment Trusts
@@ -817,18 +550,14 @@
 815,CPF,CPB Inc.,28.2,Finance,Major Banks
 816,CPL,CPFL Energia S.A.,16.54,Public Utilities,Electric Utilities: Central
 817,CR,Crane Co.,77.75,Capital Goods,Metal Fabrications
-818,CRD.A,Crawford & Company,,,
-819,CRD.B,Crawford & Company,,,
 820,BAP,Credicorp Ltd.,209.16,Finance,Commercial Banks
 821,CS,Credit Suisse Group,11.37,Finance,Investment Bankers/Brokers/Service
 822,CPG,Crescent Point Energy Corporation,2.96,Energy,Oil & Gas Production
 823,CEQP,Crestwood Equity Partners LP,35.13,Consumer Services,Other Consumer Services
-824,CEQP^,Crestwood Equity Partners LP,9.42,,
 825,CRH,CRH PLC,31.3,Capital Goods,Building Materials
 826,CRT,Cross Timbers Royalty Trust,10.32,Energy,Oil & Gas Production
 827,CAPL,CrossAmerica Partners LP,16.28,Energy,Oil Refining/Marketing
 828,CCI,Crown Castle International Corporation,133.13,Consumer Services,Real Estate Investment Trusts
-829,CCI^A,Crown Castle International Corporation,1222.08,,
 830,CCK,"Crown Holdings, Inc.",63.35,Consumer Durables,Containers/Packaging
 831,CRY,"CryoLife, Inc.",26.68,Health Care,Medical/Dental Instruments
 832,CSS,"CSS Industries, Inc.",5.0,Consumer Services,Consumer: Greeting Cards
@@ -836,20 +565,12 @@
 834,CUBE,CubeSmart,34.37,Consumer Services,Real Estate Investment Trusts
 835,CUB,Cubic Corporation,63.36,Capital Goods,Industrial Machinery/Components
 836,CFR,"Cullen/Frost Bankers, Inc.",85.92,Finance,Major Banks
-837,CFR^A,"Cullen/Frost Bankers, Inc.",26.08,,
 838,CULP,"Culp, Inc.",16.72,Basic Industries,Textiles
 839,CMI,Cummins Inc.,151.43,Energy,Industrial Machinery/Components
 840,CURO,CURO Group Holdings Corp.,12.98,Finance,Finance: Consumer Services
 841,CW,Curtiss-Wright Corporation,118.6,Technology,Industrial Machinery/Components
-842,SRF,Cushing Energy Income Fund (The),6.17,,
-843,SRV,Cushing MLP & Infrastructure Total Return Fund,9.84,,
-844,SZC,Cushing Renaissance Fund (The),13.12,,
 845,CWK,Cushman & Wakefield plc,17.18,Finance,Real Estate
 846,CUBI,"Customers Bancorp, Inc",18.88,Finance,Major Banks
-847,CUBI^C,"Customers Bancorp, Inc",26.1,,
-848,CUBI^D,"Customers Bancorp, Inc",26.1001,,
-849,CUBI^E,"Customers Bancorp, Inc",26.1522,,
-850,CUBI^F,"Customers Bancorp, Inc",26.28,,
 851,CVI,CVR Energy Inc.,48.5,Energy,Integrated oil Companies
 852,UAN,"CVR Partners, LP",3.73,Basic Industries,Agricultural Chemicals
 853,CVS,CVS Health Corporation,54.51,Health Care,Medical/Nursing Services
@@ -857,20 +578,15 @@
 855,DHI,"D.R. Horton, Inc.",45.93,Capital Goods,Homebuilding
 856,DAN,Dana Incorporated,14.5,Capital Goods,Auto Parts:O.E.M.
 857,DHR,Danaher Corporation,135.7,Capital Goods,Industrial Machinery/Components
-858,DHR^A,Danaher Corporation,1113.0,,
 859,DAC,Danaos Corporation,7.32,Transportation,Marine Transportation
 860,DQ,DAQO New Energy Corp.,39.83,Technology,Semiconductors
 861,DRI,"Darden Restaurants, Inc.",118.02,Consumer Services,Restaurants
 862,DAR,Darling Ingredients Inc.,19.56,Consumer Non-Durables,Packaged Foods
 863,DVA,DaVita Inc.,58.63,Health Care,Hospital/Nursing Management
 864,DCP,DCP Midstream LP,26.57,Public Utilities,Natural Gas Distribution
-865,DCP^B,DCP Midstream LP,24.36,,
-866,DCP^C,DCP Midstream LP,24.75,,
 867,DF,Dean Foods Company,1.67,Consumer Non-Durables,Packaged Foods
 868,DECK,Deckers Outdoor Corporation,145.59,Consumer Non-Durables,Shoe Manufacturing
 869,DE,Deere & Company,151.06,Capital Goods,Industrial Machinery/Components
-870,DEX,Delaware Enhanced Global Dividend,9.6,,
-871,DDF,"Delaware Investments Dividend & Income Fund, Inc.",13.26,,
 872,DKL,"Delek Logistics Partners, L.P.",32.01,Energy,Natural Gas Distribution
 873,DK,"Delek US Holdings, Inc.",38.01,Energy,Integrated oil Companies
 874,DELL,Dell Technologies Inc.,50.42,Technology,Computer Manufacturing
@@ -891,21 +607,14 @@
 889,DSSI,Diamond S Shipping Inc.,10.9,Consumer Services,Transportation Services
 890,DRH,Diamondrock Hospitality Company,9.43,Consumer Services,Real Estate Investment Trusts
 891,DSX,Diana Shipping inc.,3.18,Transportation,Marine Transportation
-892,DSX^B,Diana Shipping inc.,24.747,,
 893,DKS,Dick&#39;s Sporting Goods Inc,33.53,Consumer Services,Other Specialty Stores
 894,DBD,Diebold Nixdorf Incorporated,12.84,Miscellaneous,Office Equipment/Supplies/Services
 895,DLR,"Digital Realty Trust, Inc.",115.51,Consumer Services,Real Estate Investment Trusts
-896,DLR^C,"Digital Realty Trust, Inc.",26.62,,
-897,DLR^G,"Digital Realty Trust, Inc.",25.4,,
-898,DLR^I,"Digital Realty Trust, Inc.",26.23,,
-899,DLR^J,"Digital Realty Trust, Inc.",25.5785,,
-900,DLR^K,"Digital Realty Trust, Inc.",26.201999999999998,,
 901,DDS,"Dillard&#39;s, Inc.",69.97,Consumer Services,Department/Specialty Retail Stores
 902,DDT,"Dillard&#39;s, Inc.",25.89,Consumer Services,Department/Specialty Retail Stores
 903,DIN,"Dine Brands Global, Inc.",81.1,Consumer Services,Restaurants
 904,DPLO,"Diplomat Pharmacy, Inc.",5.11,Health Care,Medical/Nursing Services
 905,DFS,Discover Financial Services,83.2,Finance,Finance: Consumer Services
-906,DNI,Dividend and Income Fund,11.11,,
 907,DLB,Dolby Laboratories,57.38,Miscellaneous,Multi-Sector Companies
 908,DG,Dollar General Corporation,132.65,Consumer Services,Department/Specialty Retail Stores
 909,D,"Dominion Energy, Inc.",74.67,Public Utilities,Electric Utilities: Central
@@ -917,8 +626,6 @@
 915,DCI,"Donaldson Company, Inc.",46.8,Capital Goods,Pollution Control Equipment
 916,DFIN,"Donnelley Financial Solutions, Inc.",12.04,Consumer Services,Other Consumer Services
 917,LPG,Dorian LPG Ltd.,8.21,Transportation,Marine Transportation
-918,DSL,DoubleLine Income Solutions Fund,20.29,,
-919,DBL,DoubleLine Opportunistic Credit Fund,20.48,,
 920,PLOW,"Douglas Dynamics, Inc.",38.29,Capital Goods,Construction/Ag Equipment/Trucks
 921,DEI,"Douglas Emmett, Inc.",39.65,Consumer Services,Real Estate Investment Trusts
 922,DOV,Dover Corporation,89.9,Technology,Industrial Machinery/Components
@@ -928,9 +635,6 @@
 926,DRD,DRDGOLD Limited,3.44,Basic Industries,Precious Metals
 927,DRQ,"Dril-Quip, Inc.",47.68,Energy,Metal Fabrications
 928,DS,Drive Shack Inc.,4.75,Consumer Services,Restaurants
-929,DS^B,Drive Shack Inc.,25.9322,,
-930,DS^C,Drive Shack Inc.,25.29,,
-931,DS^D,Drive Shack Inc.,24.9219,,
 932,DTE,DTE Energy Company,126.92,Public Utilities,Electric Utilities: Central
 933,DTJ,DTE Energy Company,26.03,Public Utilities,Electric Utilities: Central
 934,DTQ,DTE Energy Company,25.33,Public Utilities,Electric Utilities: Central
@@ -938,11 +642,6 @@
 936,DTW,DTE Energy Company,26.55,Public Utilities,Electric Utilities: Central
 937,DTY,DTE Energy Company,27.61,Public Utilities,Electric Utilities: Central
 938,DCO,Ducommun Incorporated,39.33,Capital Goods,Military/Government/Technical
-939,DPG,Duff & Phelps Global Utility Income Fund Inc.,14.98,,
-940,DSE,Duff & Phelps Select MLP and Midstream Energy Fund,4.98,,
-941,DNP,"Duff & Phelps Utilities Income, Inc.",12.02,,
-942,DTF,"Duff & Phelps Utilities Tax-Free Income, Inc.",14.01,,
-943,DUC,"Duff & Phelps Utility & Corporate Bond Trust, Inc.",8.82,,
 944,DUK,Duke Energy Corporation,86.96,Public Utilities,Power Generation
 945,DUK^A,Duke Energy Corporation,27.1841,Public Utilities,Power Generation
 946,DUKB,Duke Energy Corporation,26.85,Public Utilities,Power Generation
@@ -952,52 +651,16 @@
 950,DXC,DXC Technology Company,50.86,Technology,EDP Services
 951,DY,"Dycom Industries, Inc.",49.56,Basic Industries,Water Supply
 952,DLNG,Dynagas LNG Partners LP,1.3,Consumer Services,Marine Transportation
-953,DLNG^A,Dynagas LNG Partners LP,18.01,,
-954,DLNG^B,Dynagas LNG Partners LP,16.5,,
-955,DT,"Dynatrace, Inc.",23.74,,
 956,DX,"Dynex Capital, Inc.",15.9,Consumer Services,Real Estate Investment Trusts
-957,DX^A,"Dynex Capital, Inc.",25.53,,
-958,DX^B,"Dynex Capital, Inc.",24.7991,,
-959,CTA^A,E.I. du Pont de Nemours and Company,82.81,,
-960,CTA^B,E.I. du Pont de Nemours and Company,114.226,,
 961,ELF,"e.l.f. Beauty, Inc.",15.84,Consumer Non-Durables,Package Goods/Cosmetics
-962,EGIF,Eagle Growth and Income Opportunities Fund,15.2,,
 963,EXP,Eagle Materials Inc,82.71,Capital Goods,Building Materials
-964,ECC           ,Eagle Point Credit Company Inc.,16.71,,
-965,ECCA,Eagle Point Credit Company Inc.,25.65,,
-966,ECCB,Eagle Point Credit Company Inc.,26.27,,
-967,ECCX,Eagle Point Credit Company Inc.,25.7375,,
-968,ECCY,Eagle Point Credit Company Inc.,25.94,,
-969,EIC,Eagle Point Income Company Inc.,19.9536,,
 970,ESTE,"Earthstone Energy, Inc.",3.61,Energy,Oil & Gas Production
 971,DEA,"Easterly Government Properties, Inc.",18.94,Consumer Services,Real Estate Investment Trusts
 972,EGP,"EastGroup Properties, Inc.",117.41,Consumer Services,Real Estate Investment Trusts
 973,EMN,Eastman Chemical Company,67.94,Basic Industries,Major Chemicals
 974,KODK,Eastman Kodak Company,2.44,Miscellaneous,Industrial Machinery/Components
 975,ETN,"Eaton Corporation, PLC",76.83,Technology,Industrial Machinery/Components
-976,ETV,Eaton Vance Corporation,14.84,,
-977,ETW,Eaton Vance Corporation,9.37,,
 978,EV,Eaton Vance Corporation,40.36,Finance,Investment Managers
-979,EOI,Eaton Vance Enhance Equity Income Fund,14.56,,
-980,EOS,Eaton Vance Enhanced Equity Income Fund II,16.62,,
-981,EFT,Eaton Vance Floating Rate Income Trust,13.41,,
-982,EFL,Eaton Vance Floating-Rate 2022 Target Term Trust,9.2,,
-983,EFF,Eaton vance Floating-Rate Income Plus Fund,15.22,,
-984,EHT,Eaton Vance High Income 2021 Target Term Trust,9.815,,
-985,ETX           ,Eaton Vance Municipal Income 2028 Term Trust,21.27,,
-986,EOT,Eaton Vance Municipal Income Trust,22.75,,
-987,EVN,Eaton Vance Municipal Income Trust,12.81,,
-988,ETJ,Eaton Vance Risk-Managed Diversified Equity Income Fund,9.2,,
-989,EFR,Eaton Vance Senior Floating-Rate Fund,13.03,,
-990,EVF,Eaton Vance Senior Income Trust,6.22,,
-991,EVG,Eaton Vance Short Diversified Income Fund,13.21,,
-992,EVT,Eaton Vance Tax Advantaged Dividend Income Fund,23.6,,
-993,ETO,Eaton Vance Tax-Advantage Global Dividend Opp,24.25,,
-994,ETG,Eaton Vance Tax-Advantaged Global Dividend Income Fund,15.58,,
-995,ETB,Eaton Vance Tax-Managed Buy-Write Income Fund,15.62,,
-996,EXD,Eaton Vance Tax-Managed Buy-Write Strategy Fund,9.44,,
-997,ETY,Eaton Vance Tax-Managed Diversified Equity Income Fund,11.45,,
-998,EXG,Eaton Vance Tax-Managed Global Diversified Equity Income Fund,7.93,,
 999,ECT,ECA Marcellus Trust I,1.62,Energy,Oil & Gas Production
 1000,ECL,Ecolab Inc.,194.35,Basic Industries,Package Goods/Cosmetics
 1001,EC,Ecopetrol S.A.,16.49,Energy,Oil & Gas Production
@@ -1013,8 +676,6 @@
 1011,LLY,Eli Lilly and Company,108.71,Health Care,Major Pharmaceuticals
 1012,EFC,Ellington Financial Inc.,16.87,Finance,Real Estate
 1013,EARN,Ellington Residential Mortgage REIT,10.93,Consumer Services,Real Estate Investment Trusts
-1014,AKO.A,Embotelladora Andina S.A.,,,
-1015,AKO.B,Embotelladora Andina S.A.,,,
 1016,ERJ,Embraer S.A.,19.32,Capital Goods,Aerospace
 1017,EME,"EMCOR Group, Inc.",80.65,Capital Goods,Engineering & Construction
 1018,EEX,"Emerald Expositions Events, Inc.",9.47,Miscellaneous,Business Services
@@ -1033,12 +694,8 @@
 1031,ENIA,Enel Americas S.A.,7.89,Public Utilities,Electric Utilities: Central
 1032,ENIC,Enel Chile S.A.,4.14,Public Utilities,Electric Utilities: Central
 1033,ENR,"Energizer Holdings, Inc.",39.11,Miscellaneous,Industrial Machinery/Components
-1034,ENR^A,"Energizer Holdings, Inc.",87.84,,
 1035,EPC,"Energizer Holdings, Inc.",28.96,Consumer Non-Durables,Package Goods/Cosmetics
 1036,ET,Energy Transfer L.P.,13.3,Public Utilities,Natural Gas Distribution
-1037,ETP^C,"Energy Transfer Operating, L.P.",23.99,,
-1038,ETP^D,"Energy Transfer Operating, L.P.",24.3,,
-1039,ETP^E,"Energy Transfer Operating, L.P.",24.58,,
 1040,ERF,Enerplus Corporation,5.93,Energy,Oil & Gas Production
 1041,ENS,Enersys,64.13,Consumer Non-Durables,Telecommunications Equipment
 1042,E,ENI S.p.A.,30.03,Energy,Oil & Gas Production
@@ -1066,19 +723,14 @@
 1064,EOG,"EOG Resources, Inc.",79.0,Energy,Oil & Gas Production
 1065,EPAM,"EPAM Systems, Inc.",176.38,Technology,EDP Services
 1066,EPR,EPR Properties,73.14,Consumer Services,Real Estate Investment Trusts
-1067,EPR^C,EPR Properties,31.8189,,
-1068,EPR^E,EPR Properties,37.97,,
-1069,EPR^G,EPR Properties,25.17,,
 1070,EQM,"EQM Midstream Partners, LP",34.96,Public Utilities,Natural Gas Distribution
 1071,EQT,EQT Corporation,13.07,Energy,Oil & Gas Production
 1072,EFX,"Equifax, Inc.",134.68,Finance,Finance: Consumer Services
 1073,EQNR,Equinor ASA,17.01,Energy,Integrated oil Companies
 1074,ETRN,Equitrans Midstream Corporation,15.35,Public Utilities,Natural Gas Distribution
 1075,EQC,Equity Commonwealth,33.43,Consumer Services,Real Estate Investment Trusts
-1076,EQC^D,Equity Commonwealth,26.86,,
 1077,ELS,"Equity Lifestyle Properties, Inc.",124.74,Consumer Services,Real Estate Investment Trusts
 1078,EQR,Equity Residential,78.18,Consumer Services,Real Estate Investment Trusts
-1079,EQS,"Equus Total Return, Inc.",1.65,,
 1080,ERA,"Era Group, Inc.",10.57,Transportation,Transportation Services
 1081,EROS,Eros International PLC,1.49,Consumer Services,Movies/Entertainment
 1082,ESE,ESCO Technologies Inc.,79.01,Capital Goods,Telecommunications Equipment
@@ -1088,7 +740,6 @@
 1086,EL,"Estee Lauder Companies, Inc. (The)",174.56,Consumer Non-Durables,Package Goods/Cosmetics
 1087,ETH,Ethan Allen Interiors Inc.,17.55,Consumer Durables,Home Furnishings
 1088,EURN,Euronav NV,7.81,Transportation,Marine Transportation
-1089,EEA,"European Equity Fund, Inc. (The)",8.415,,
 1090,EB,"Eventbrite, Inc.",16.45,Technology,"Computer Software: Programming, Data Processing"
 1091,EVR,Evercore Inc.,77.99,Finance,Investment Managers
 1092,RE,"Everest Re Group, Ltd.",239.15,Finance,Property-Casualty Insurers
@@ -1099,83 +750,45 @@
 1097,EVH,"Evolent Health, Inc",6.12,Consumer Services,Other Consumer Services
 1098,AQUA,Evoqua Water Technologies Corp.,12.9,Technology,Industrial Machinery/Components
 1099,XAN,Exantas Capital Corp.,11.14,Consumer Services,Real Estate Investment Trusts
-1100,XAN^C,Exantas Capital Corp.,26.066,,
 1101,EXC,Exelon Corporation,44.42,Public Utilities,Power Generation
 1102,EXPR,"Express, Inc.",2.16,Consumer Services,Clothing/Shoe/Accessory Stores
 1103,EXTN,Exterran Corporation,12.38,Technology,Diversified Commercial Services
 1104,EXR,Extra Space Storage Inc,114.12,Consumer Services,Real Estate Investment Trusts
 1105,XOM,Exxon Mobil Corporation,70.28,Energy,Integrated oil Companies
 1106,FNB,F.N.B. Corporation,11.13,Finance,Major Banks
-1107,FNB^E,F.N.B. Corporation,28.82,,
 1108,FN,Fabrinet,49.52,Public Utilities,Telecommunications Equipment
 1109,FDS,FactSet Research Systems Inc.,269.87,Technology,"Computer Software: Programming, Data Processing"
 1110,FICO,Fair Isaac Corporation,338.65,Miscellaneous,Business Services
 1111,SFUN,Fang Holdings Limited,1.93,Technology,EDP Services
 1112,FPAC,Far Point Acquisition Corporation,10.35,Finance,Business Services
-1113,FPAC.U,Far Point Acquisition Corporation,,,
-1114,FPAC.WS,Far Point Acquisition Corporation,,,
 1115,FTCH,Farfetch Limited,18.09,Miscellaneous,Business Services
 1116,FPI,Farmland Partners Inc.,5.94,Consumer Services,Real Estate Investment Trusts
-1117,FPI^B,Farmland Partners Inc.,23.57,,
 1118,FSLY,"Fastly, Inc.",19.8,Technology,Computer Software: Prepackaged Software
 1119,FBK,FB Financial Corporation,35.73,Finance,Major Banks
 1120,FFG,"FBL Financial Group, Inc.",59.48,Finance,Life Insurance
 1121,AGM,Federal Agricultural Mortgage Corporation,76.74,Finance,Finance Companies
-1122,AGM.A,Federal Agricultural Mortgage Corporation,,,
-1123,AGM^A,Federal Agricultural Mortgage Corporation,25.8272,,
-1124,AGM^C,Federal Agricultural Mortgage Corporation,26.6307,,
-1125,AGM^D,Federal Agricultural Mortgage Corporation,25.8925,,
 1126,FRT,Federal Realty Investment Trust,127.28,Consumer Services,Real Estate Investment Trusts
-1127,FRT^C,Federal Realty Investment Trust,25.22,,
 1128,FSS,Federal Signal Corporation,29.37,Capital Goods,Auto Manufacturing
 1129,FII,"Federated Investors, Inc.",32.8,Finance,Investment Managers
-1130,FMN,Federated Premier Municipal Income Fund,13.89,,
 1131,FDX,FedEx Corporation,157.26,Transportation,Air Freight/Delivery Services
 1132,RACE,Ferrari N.V.,156.78,Capital Goods,Auto Manufacturing
 1133,FGP,"Ferrellgas Partners, L.P.",0.7115,Consumer Services,Other Specialty Stores
 1134,FOE,Ferro Corporation,12.12,Basic Industries,Paints/Coatings
 1135,FG,FGL Holdings,7.05,Finance,Life Insurance
-1136,FG.WS,FGL Holdings,,,
 1137,FCAU,Fiat Chrysler Automobiles N.V.,12.96,Capital Goods,Auto Manufacturing
 1138,FNF,"Fidelity National Financial, Inc.",42.47,Finance,Specialty Insurers
 1139,FIS,"Fidelity National Information Services, Inc.",125.95,Miscellaneous,Business Services
-1140,FMO,Fiduciary/Claymore Energy Infrastructure Fund,9.24,,
 1141,FAF,First American Corporation (The),55.03,Finance,Specialty Insurers
 1142,FBP,First BanCorp.,9.85,Finance,Major Banks
 1143,FCF,First Commonwealth Financial Corporation,12.5,Finance,Major Banks
 1144,FHN,First Horizon National Corporation,15.52,Finance,Major Banks
-1145,FHN^A,First Horizon National Corporation,25.9972,,
 1146,FR,"First Industrial Realty Trust, Inc.",36.77,Consumer Services,Real Estate Investment Trusts
 1147,AG,First Majestic Silver Corp.,10.02,Basic Industries,Precious Metals
-1148,FRC,FIRST REPUBLIC BANK,93.07,,
-1149,FRC^D,FIRST REPUBLIC BANK,25.37,,
-1150,FRC^F,FIRST REPUBLIC BANK,25.73,,
-1151,FRC^G,FIRST REPUBLIC BANK,25.5983,,
-1152,FRC^H,FIRST REPUBLIC BANK,25.0,,
-1153,FRC^I,FIRST REPUBLIC BANK,25.9423,,
-1154,FFA,First Trust,15.4,,
-1155,FMY,First Trust,13.77,,
-1156,FDEU,First Trust Dynamic Europe Equity Income Fund,13.41,,
-1157,FIF,First Trust Energy Infrastructure Fund,15.3,,
-1158,FSD,First Trust High Income Long Short Fund,14.7,,
-1159,FPF,First Trust Intermediate Duration Preferred & Income Fund,22.53,,
-1160,FEI           ,First Trust MLP and Energy Income Fund,11.2,,
-1161,FPL,First Trust New Opportunities MLP & Energy Fund,9.25,,
-1162,FIV,First Trust Senior Floating Rate 2022 Target Term Fund,8.9,,
-1163,FCT,First Trust Senior Floating Rate Income Fund II,11.91,,
-1164,FGB,First Trust Specialty Finance and Financial Opportunities Fund,6.22,,
-1165,FEO,First Trust/Aberdeen Emerging Opportunity Fund,13.17,,
-1166,FAM,First Trust/Aberdeen Global Opportunity Income Fund,10.57,,
 1167,FE,FirstEnergy Corp.,43.44,Public Utilities,Electric Utilities: Central
 1168,FIT,"Fitbit, Inc.",3.2,Technology,Computer Manufacturing
 1169,FPH,"Five Point Holdings, LLC",6.89,Finance,Real Estate
 1170,FVRR,Fiverr International Ltd.,23.25,Miscellaneous,Business Services
 1171,FBC,"Flagstar Bancorp, Inc.",32.8,Finance,Savings Institutions
-1172,DFP,Flaherty & Crumrine Dynamic Preferred and Income Fund Inc.,25.165,,
-1173,PFD,Flaherty & Crumrine Preferred and Income Fund Inco,14.82,,
-1174,PFO,Flaherty & Crumrine Preferred and Income Opportuni,12.15,,
-1175,FFC,Flaherty & Crumrine Preferred and Income Securitie,19.95,,
-1176,FLC,Flaherty & Crumrine Total Return Fund Inc,21.17,,
 1177,FLT,"FleetCor Technologies, Inc.",266.74,Miscellaneous,Business Services
 1178,FLNG,FLEX LNG Ltd.,11.6,Consumer Services,Marine Transportation
 1179,FND,"Floor & Decor Holdings, Inc.",42.56,Consumer Services,RETAIL: Building Materials
@@ -1183,18 +796,14 @@
 1181,FLO,"Flowers Foods, Inc.",23.88,Consumer Non-Durables,Packaged Foods
 1182,FLS,Flowserve Corporation,44.62,Capital Goods,Fluid Controls
 1183,FLR,Fluor Corporation,21.09,Basic Industries,Military/Government/Technical
-1184,FLY,Fly Leasing Limited,16.72,,
 1185,FMC,FMC Corporation,81.62,Basic Industries,Major Chemicals
 1186,FMX,Fomento Economico Mexicano S.A.B. de C.V.,85.88,Consumer Non-Durables,Beverages (Production/Distribution)
 1187,FL,"Foot Locker, Inc.",38.56,Consumer Services,Clothing/Shoe/Accessory Stores
 1188,F,Ford Motor Company,9.23,Capital Goods,Auto Manufacturing
-1189,F^B,Ford Motor Company,26.54,,
 1190,FELP,Foresight Energy LP,0.4584,Energy,Coal Mining
 1191,FOR,Forestar Group Inc,18.38,Finance,Real Estate
 1192,FTS,Fortis Inc.,39.6,Public Utilities,Electric Utilities: Central
 1193,FTV,Fortive Corporation,70.41,Capital Goods,Industrial Machinery/Components
-1194,FTV^A,Fortive Corporation,933.2866,,
-1195,FTAI,Fortress Transportation and Infrastructure Investors LLC,15.17,,
 1196,FSM,Fortuna Silver Mines Inc.,4.19,Basic Industries,Precious Metals
 1197,FBHS,"Fortune Brands Home & Security, Inc.",50.49,Basic Industries,Homebuilding
 1198,FET,"Forum Energy Technologies, Inc.",2.02,Energy,Metal Fabrications
@@ -1205,55 +814,30 @@
 1203,FC,Franklin Covey Company,34.84,Consumer Services,Other Consumer Services
 1204,FSB,"Franklin Financial Network, Inc.",27.95,Finance,Major Banks
 1205,BEN,"Franklin Resources, Inc.",30.53,Finance,Investment Managers
-1206,FT,Franklin Universal Trust,7.28,,
 1207,FI,Frank&#39;s International N.V.,5.01,Energy,Oilfield Services/Equipment
 1208,FCX,"Freeport-McMoran, Inc.",10.07,Basic Industries,Precious Metals
 1209,FMS,Fresenius Medical Care Corporation,33.37,Health Care,Hospital/Nursing Management
 1210,FDP,"Fresh Del Monte Produce, Inc.",29.0,Consumer Non-Durables,Farming/Seeds/Milling
 1211,RESI,Front Yard Residential Corporation,11.2,Finance,Real Estate
 1212,FRO,Frontline Ltd.,6.76,Transportation,Marine Transportation
-1213,FSK,FS KKR Capital Corp.,5.57,,
 1214,FCN,"FTI Consulting, Inc.",101.39,Consumer Services,Professional Services
 1215,FTSI,"FTS International, Inc.",3.03,Energy,Oilfield Services/Equipment
 1216,FF,FutureFuel Corp.,10.95,Basic Industries,Major Chemicals
-1217,GCV,"Gabelli Convertible and Income Securities Fund, Inc. (The)",5.15,,
-1218,GCV^B,"Gabelli Convertible and Income Securities Fund, Inc. (The)",26.46,,
-1219,GAB,"Gabelli Equity Trust, Inc. (The)",5.93,,
-1220,GAB^D,"Gabelli Equity Trust, Inc. (The)",26.16,,
-1221,GAB^G,"Gabelli Equity Trust, Inc. (The)",24.935,,
-1222,GAB^H,"Gabelli Equity Trust, Inc. (The)",25.1,,
-1223,GAB^J,"Gabelli Equity Trust, Inc. (The)",25.9608,,
-1224,GGZ,Gabelli Global Small and Mid Cap Value Trust (The),10.73,,
-1225,GGZ^A,Gabelli Global Small and Mid Cap Value Trust (The),25.73,,
-1226,GGT,Gabelli Multi-Media Trust Inc. (The),8.22,,
-1227,GGT^B,Gabelli Multi-Media Trust Inc. (The),26.42,,
-1228,GGT^E,Gabelli Multi-Media Trust Inc. (The),25.27,,
-1229,GUT,Gabelli Utility Trust (The),7.22,,
-1230,GUT^A,Gabelli Utility Trust (The),26.7778,,
-1231,GUT^C,Gabelli Utility Trust (The),25.8937,,
 1232,GCAP,"GAIN Capital Holdings, Inc.",4.06,Finance,Investment Bankers/Brokers/Service
 1233,GBL,"Gamco Investors, Inc.",19.52,Finance,Investment Bankers/Brokers/Service
-1234,GNT,"GAMCO Natural Resources, Gold & Income Tust ",5.88,,
-1235,GNT^A,"GAMCO Natural Resources, Gold & Income Tust ",25.3,,
 1236,GME,Gamestop Corporation,3.71,Consumer Services,Electronics Distribution
 1237,GPS,"Gap, Inc. (The)",17.83,Consumer Services,Clothing/Shoe/Accessory Stores
 1238,GDI,"Gardner Denver Holdings, Inc.",30.18,Technology,Industrial Machinery/Components
 1239,GTX,Garrett Motion Inc.,12.77,Capital Goods,Auto Parts:O.E.M.
 1240,IT,"Gartner, Inc.",128.02,Consumer Services,Other Consumer Services
 1241,GLOG,GasLog LP.,12.7,Consumer Services,Marine Transportation
-1242,GLOG^A,GasLog LP.,26.5914,,
 1243,GLOP,GasLog Partners LP,19.81,Consumer Services,Marine Transportation
-1244,GLOP^A,GasLog Partners LP,25.07,,
-1245,GLOP^B,GasLog Partners LP,23.61,,
-1246,GLOP^C,GasLog Partners LP,23.65,,
 1247,GTES,Gates Industrial Corporation plc,9.78,Technology,Industrial Machinery/Components
 1248,GATX,GATX Corporation,73.34,Consumer Services,Transportation Services
 1249,GMTA,GATX Corporation,26.39,Consumer Services,Transportation Services
 1250,GCP,GCP Applied Technologies Inc.,20.31,Basic Industries,Major Chemicals
 1251,GNK,Genco Shipping & Trading Limited ,8.5,Transportation,Marine Transportation
 1252,GNRC,Generac Holdlings Inc.,70.0,Consumer Durables,Metal Fabrications
-1253,GAM,"General American Investors, Inc.",34.95,,
-1254,GAM^B,"General American Investors, Inc.",26.75,,
 1255,GD,General Dynamics Corporation,176.77,Capital Goods,Marine Transportation
 1256,GE,General Electric Company,9.66,Energy,Consumer Electronics/Appliances
 1257,GIS,"General Mills, Inc.",52.81,Consumer Non-Durables,Packaged Foods
@@ -1263,7 +847,6 @@
 1261,GEL,"Genesis Energy, L.P.",21.66,Energy,Oil Refining/Marketing
 1262,GEN           ,"Genesis Healthcare, Inc.",1.03,Health Care,Hospital/Nursing Management
 1263,GNE,Genie Energy Ltd.,7.59,Public Utilities,Power Generation
-1264,GNE^A,Genie Energy Ltd.,8.28,,
 1265,G,Genpact Limited,37.6,Consumer Services,Professional Services
 1266,GPC,Genuine Parts Company,90.08,Capital Goods,Automotive Aftermarket
 1267,GNW,Genworth Financial Inc,3.89,Finance,Life Insurance
@@ -1273,27 +856,17 @@
 1271,GGB,Gerdau S.A.,3.28,Capital Goods,Steel/Iron Ore
 1272,GTY,Getty Realty Corporation,29.25,Finance,Real Estate
 1273,GIG,"GigCapital, Inc.",10.39,Finance,Business Services
-1274,GIG.U,"GigCapital, Inc.",,,
-1275,GIG.WS,"GigCapital, Inc.",,,
-1276,GIG~,"GigCapital, Inc.",0.43,,
 1277,GIX,"GigCapital2, Inc.",9.8,Finance,Business Services
-1278,GIX.U,"GigCapital2, Inc.",,,
-1279,GIX.WS,"GigCapital2, Inc.",,,
-1280,GIX~,"GigCapital2, Inc.",0.17,,
 1281,GIL,"Gildan Activewear, Inc.",38.27,Consumer Non-Durables,Apparel
 1282,GLT,Glatfelter,14.67,Basic Industries,Paper
 1283,GKOS,Glaukos Corporation,75.06,Health Care,Medical/Dental Instruments
 1284,GSK,GlaxoSmithKline PLC,40.36,Health Care,Major Pharmaceuticals
 1285,CO,Global Cord Blood Corporation,5.52,Finance,Business Services
 1286,GMRE,Global Medical REIT Inc.,10.27,Consumer Services,Real Estate Investment Trusts
-1287,GMRE^A,Global Medical REIT Inc.,25.77,,
 1288,GNL,"Global Net Lease, Inc.",19.19,Consumer Services,Real Estate Investment Trusts
-1289,GNL^A,"Global Net Lease, Inc.",25.52,,
 1290,GLP,Global Partners LP,19.78,Energy,Oil Refining/Marketing
-1291,GLP^A,Global Partners LP,25.9855,,
 1292,GPN,Global Payments Inc.,153.58,Miscellaneous,Business Services
 1293,GSL,"Global Ship Lease, Inc.",7.54,Transportation,Marine Transportation
-1294,GSL^B,"Global Ship Lease, Inc.",23.775,,
 1295,GLOB,Globant S.A.,103.38,Technology,EDP Services
 1296,GMED,"Globus Medical, Inc.",49.19,Health Care,Medical/Dental Instruments
 1297,GMS,GMS Inc.,20.92,Consumer Services,RETAIL: Building Materials
@@ -1301,33 +874,19 @@
 1299,GDDY,GoDaddy Inc.,65.17,Technology,EDP Services
 1300,GOL,Gol Linhas Aereas Inteligentes S.A.,20.57,Transportation,Air Freight/Delivery Services
 1301,GFI,Gold Fields Limited,5.83,Basic Industries,Precious Metals
-1302,GSBD,"Goldman Sachs BDC, Inc.",19.31,,
 1303,GS,"Goldman Sachs Group, Inc. (The)",201.68,Finance,Investment Bankers/Brokers/Service
-1304,GS^A,"Goldman Sachs Group, Inc. (The)",20.09,,
-1305,GS^B.CL,"Goldman Sachs Group, Inc. (The)",,,
-1306,GS^C,"Goldman Sachs Group, Inc. (The)",21.1777,,
-1307,GS^D,"Goldman Sachs Group, Inc. (The)",21.08,,
-1308,GS^J,"Goldman Sachs Group, Inc. (The)",26.05,,
-1309,GS^K,"Goldman Sachs Group, Inc. (The)",28.44,,
-1310,GS^N,"Goldman Sachs Group, Inc. (The)",27.34,,
-1311,GER,Goldman Sachs MLP Energy Renaissance Fund,4.94,,
-1312,GMZ,Goldman Sachs MLP Income Opportunities Fund,7.2,,
 1313,GRC,Gorman-Rupp Company (The),31.06,Capital Goods,Fluid Controls
 1314,GPX,GP Strategies Corporation,13.28,Consumer Services,Other Consumer Services
 1315,GGG,Graco Inc.,45.43,Capital Goods,Fluid Controls
 1316,GRAF,Graf Industrial Corp.,10.03,Finance,Business Services
-1317,GRAF.U,Graf Industrial Corp.,,,
-1318,GRAF.WS,Graf Industrial Corp.,,,
 1319,EAF,GrafTech International Ltd.,10.59,Energy,Industrial Machinery/Components
 1320,GHM,Graham Corporation,20.23,Technology,Industrial Machinery/Components
 1321,GHC,Graham Holdings Company,690.0,Consumer Services,Other Consumer Services
 1322,GRAM,Grana y Montero S.A.A.,2.87,Basic Industries,Military/Government/Technical
 1323,GVA,Granite Construction Incorporated,30.54,Basic Industries,Military/Government/Technical
 1324,GPMT,Granite Point Mortgage Trust Inc.,18.66,Consumer Services,Real Estate Investment Trusts
-1325,GRP.U,Granite Real Estate Inc.,,,
 1326,GPK,Graphic Packaging Holding Company,14.37,Consumer Durables,Containers/Packaging
 1327,GTN,"Gray Television, Inc.",16.81,Consumer Services,Broadcasting
-1328,GTN.A,"Gray Television, Inc.",,,
 1329,AJX,Great Ajax Corp.,13.69,Consumer Services,Real Estate Investment Trusts
 1330,AJXA,Great Ajax Corp.,25.5,Consumer Services,Real Estate Investment Trusts
 1331,GWB,"Great Western Bancorp, Inc.",30.48,Finance,Major Banks
@@ -1335,8 +894,6 @@
 1333,GBX,"Greenbrier Companies, Inc. (The)",26.29,Capital Goods,Railroads
 1334,GHL,"Greenhill & Co., Inc.",14.39,Finance,Investment Bankers/Brokers/Service
 1335,GHG,GreenTree Hospitality Group Ltd.,10.5,Consumer Services,Hotels/Resorts
-1336,GEF,Greif Bros. Corporation,33.03,,
-1337,GEF.B,Greif Bros. Corporation,,,
 1338,GFF,Griffon Corporation,18.85,Capital Goods,Building Products
 1339,GPI,"Group 1 Automotive, Inc.",81.42,Consumer Durables,Automotive Aftermarket
 1340,GRUB,GrubHub Inc.,69.04,Miscellaneous,Business Services
@@ -1345,17 +902,10 @@
 1343,AVAL,Grupo Aval Acciones y Valores S.A.,7.07,Finance,Commercial Banks
 1344,SUPV,Grupo Supervielle S.A.,7.34,Finance,Commercial Banks
 1345,TV,Grupo Televisa S.A.,8.93,Consumer Services,Broadcasting
-1346,GSAH,GS Acquisition Holdings Corp.,10.18,,
-1347,GSAH.U,GS Acquisition Holdings Corp.,,,
-1348,GSAH.WS,GS Acquisition Holdings Corp.,,,
 1349,GSX,GSX Techedu Inc.,12.54,Consumer Services,Other Consumer Services
 1350,GTT,"GTT Communications, Inc.",11.45,Public Utilities,Telecommunications Equipment
 1351,GSH,Guangshen Railway Company Limited,16.11,Transportation,Railroads
 1352,GES,"Guess?, Inc.",16.05,Consumer Non-Durables,Apparel
-1353,GGM,Guggenheim Credit Allocation Fund,20.43,,
-1354,GPM,Guggenheim Enhanced Equity Income Fund,7.75,,
-1355,GOF,Guggenheim Strategic Opportunities Fund,20.3,,
-1356,GBAB,Guggenheim Taxable Municipal Managed Duration Trst,24.14,,
 1357,GWRE,"Guidewire Software, Inc.",96.78,Technology,Computer Software: Prepackaged Software
 1358,HRB,"H&R Block, Inc.",26.7,Consumer Services,Other Consumer Services
 1359,FUL,H. B. Fuller Company,44.25,Basic Industries,Home Furnishings
@@ -1371,9 +921,7 @@
 1369,HHS,"Harte-Hanks, Inc.",2.75,Technology,Advertising
 1370,HGH,"Hartford Financial Services Group, Inc. (The)",28.66,Finance,Property-Casualty Insurers
 1371,HIG,"Hartford Financial Services Group, Inc. (The)",56.56,Finance,Property-Casualty Insurers
-1372,HIG^G,"Hartford Financial Services Group, Inc. (The)",26.99,,
 1373,HVT,"Haverty Furniture Companies, Inc.",17.56,Consumer Services,Other Specialty Stores
-1374,HVT.A,"Haverty Furniture Companies, Inc.",,,
 1375,HE,"Hawaiian Electric Industries, Inc.",43.32,Public Utilities,Electric Utilities: Central
 1376,HCHC,"HC2 Holdings, Inc.",2.08,Capital Goods,Metal Fabrications
 1377,HCA,"HCA Healthcare, Inc.",123.54,Health Care,Hospital/Nursing Management
@@ -1385,20 +933,12 @@
 1383,HL,Hecla Mining Company,2.01,Basic Industries,Mining & Quarrying of Nonmetallic Minerals (No Fuels)
 1384,HL^B,Hecla Mining Company,51.25,Basic Industries,Mining & Quarrying of Nonmetallic Minerals (No Fuels)
 1385,HEI,Heico Corporation,132.41,Capital Goods,Aerospace
-1386,HEI.A,Heico Corporation,,,
 1387,HLX,"Helix Energy Solutions Group, Inc.",7.75,Energy,Oilfield Services/Equipment
 1388,HP,"Helmerich & Payne, Inc.",43.73,Energy,Oil & Gas Production
 1389,HLF,Herbalife Nutrition Ltd.,38.11,Health Care,Other Pharmaceuticals
-1390,HRI,Herc Holdings Inc.,41.25,,
-1391,HCXY,"Hercules Capital, Inc.",25.98,,
-1392,HCXZ,"Hercules Capital, Inc.",25.51,,
-1393,HTGC,"Hercules Capital, Inc.",13.01,,
 1394,HRTG,"Heritage Insurance Holdings, Inc.",13.29,Finance,Property-Casualty Insurers
 1395,PSV,Hermitage Offshore Services Ltd.,2.19,Transportation,Marine Transportation
 1396,HT,Hersha Hospitality Trust,14.58,Consumer Services,Real Estate Investment Trusts
-1397,HT^C,Hersha Hospitality Trust,25.2225,,
-1398,HT^D,Hersha Hospitality Trust,24.53,,
-1399,HT^E,Hersha Hospitality Trust,24.95,,
 1400,HSY,Hershey Company (The),149.12,Consumer Non-Durables,Specialty Foods
 1401,HTZ,"Hertz Global Holdings, Inc",14.23,Consumer Services,Rental/Leasing Companies
 1402,HES,Hess Corporation,58.82,Energy,Integrated oil Companies
@@ -1407,9 +947,6 @@
 1405,HXL,Hexcel Corporation,77.01,Basic Industries,Major Chemicals
 1406,HEXO,HEXO Corp.,4.19,Consumer Durables,Specialty Chemicals
 1407,HCR,Hi-Crush Inc.,1.9,Basic Industries,Mining & Quarrying of Nonmetallic Minerals (No Fuels)
-1408,PCF,High Income Securities Fund,8.4,,
-1409,HGLB,Highland Global Allocation Fund,10.71,,
-1410,HFRO,Highland Income Fund,13.24,,
 1411,HPR,HighPoint Resources Corporation,1.03,Energy,Oil & Gas Production
 1412,HIW,"Highwoods Properties, Inc.",43.54,Consumer Services,Real Estate Investment Trusts
 1413,HIL,"Hill International, Inc.",3.01,Consumer Services,Military/Government/Technical
@@ -1420,7 +957,6 @@
 1418,HLT,Hilton Worldwide Holdings Inc.,91.35,Consumer Services,Hotels/Resorts
 1419,HNI,HNI Corporation,31.65,Consumer Durables,Office Equipment/Supplies/Services
 1420,HMLP,Hoegh LNG Partners LP,16.75,Consumer Services,Marine Transportation
-1421,HMLP^A,Hoegh LNG Partners LP,26.73,,
 1422,HEP,"Holly Energy Partners, L.P.",27.42,Energy,Natural Gas Distribution
 1423,HFC,HollyFrontier Corporation,48.8,Energy,Integrated oil Companies
 1424,HD,"Home Depot, Inc. (The)",204.94,Consumer Services,RETAIL: Building Materials
@@ -1428,7 +964,6 @@
 1426,HON,Honeywell International Inc.,162.01,Capital Goods,Aerospace
 1427,HMN,Horace Mann Educators Corporation,41.51,Finance,Property-Casualty Insurers
 1428,HZN,Horizon Global Corporation,4.41,Capital Goods,Auto Parts:O.E.M.
-1429,HTFA,Horizon Technology Finance Corporation,25.53,,
 1430,HRL,Hormel Foods Corporation,40.73,Consumer Non-Durables,Meat/Poultry/Fish
 1431,HOS,Hornbeck Offshore Services,0.9459,Consumer Services,Marine Transportation
 1432,HST,"Host Hotels & Resorts, Inc.",16.6,Consumer Services,Real Estate Investment Trusts
@@ -1437,7 +972,6 @@
 1435,HHC,Howard Hughes Corporation (The),127.97,Consumer Services,Real Estate Investment Trusts
 1436,HPQ,HP Inc.,19.16,Technology,Computer Manufacturing
 1437,HSBC,HSBC Holdings plc,37.99,Finance,Savings Institutions
-1438,HSBC^A,HSBC Holdings plc,26.23,,
 1439,HMI,Huami Corporation,11.52,Technology,Computer Manufacturing
 1440,HNP,"Huaneng Power International, Inc.",22.87,Public Utilities,Electric Utilities: Central
 1441,HUBB,Hubbell Inc,123.69,Capital Goods,Electrical Products
@@ -1464,7 +998,6 @@
 1462,ICD,"Independence Contract Drilling, Inc.",1.18,Energy,Oil & Gas Production
 1463,IHC,Independence Holding Company,36.1,Finance,Life Insurance
 1464,IRT,"Independence Realty Trust, Inc.",12.6,Consumer Services,Real Estate Investment Trusts
-1465,IFN,"India Fund, Inc. (The)",19.95,,
 1466,IBA,"Industrias Bachoco, S.A. de C.V.",50.41,Consumer Non-Durables,Meat/Poultry/Fish
 1467,INFY,Infosys Limited,10.9,Technology,EDP Services
 1468,ING,"ING Group, N.V.",10.05,Finance,Commercial Banks
@@ -1473,9 +1006,7 @@
 1471,NGVT,Ingevity Corporation,85.11,Basic Industries,Major Chemicals
 1472,INGR,Ingredion Incorporated,76.64,Consumer Non-Durables,Packaged Foods
 1473,IIPR,"Innovative Industrial Properties, Inc.",98.97,Finance,Real Estate
-1474,IIPR^A,"Innovative Industrial Properties, Inc.",30.0,,
 1475,IPHI,Inphi Corporation,61.78,Technology,Semiconductors
-1476,INSI,Insight Select Income Fund,20.04,,
 1477,NSP,"Insperity, Inc.",97.76,Technology,Professional Services
 1478,INSP,"Inspire Medical Systems, Inc.",63.41,Health Care,Medical/Dental Instruments
 1479,IBP,"Installed Building Products, Inc.",50.79,Basic Industries,Homebuilding
@@ -1491,33 +1022,13 @@
 1489,IGT,International Game Technology,13.7,Consumer Services,Services-Misc. Amusement & Recreation
 1490,IP,International Paper Company,40.2,Basic Industries,Paper
 1491,INSW,"International Seaways, Inc.",15.34,Consumer Services,Marine Transportation
-1492,INSW^A,"International Seaways, Inc.",25.57,,
 1493,IPG,"Interpublic Group of Companies, Inc. (The)",21.16,Technology,Advertising
 1494,INXN,InterXion Holding N.V.,74.7,Technology,"Computer Software: Programming, Data Processing"
 1495,IPI,"Intrepid Potash, Inc",3.55,Basic Industries,Mining & Quarrying of Nonmetallic Minerals (No Fuels)
 1496,IVC,Invacare Corporation,4.17,Health Care,Industrial Specialties
-1497,VBF,Invesco Bond Fund,19.6,,
-1498,VCV,Invesco California Value Municipal Income Trust,13.11,,
-1499,VTA,Invesco Credit Opportunities Fund,11.03,,
-1500,IHIT,Invesco High Income 2023 Target Term Fund,10.54,,
-1501,IHTA,Invesco High Income 2024 Target Term Fund,10.341,,
-1502,VLT,Invesco High Income Trust II,14.3502,,
 1503,IVR,INVESCO MORTGAGE CAPITAL INC,16.02,Consumer Services,Real Estate Investment Trusts
-1504,IVR^B,INVESCO MORTGAGE CAPITAL INC,26.669,,
-1505,IVR^C,INVESCO MORTGAGE CAPITAL INC,25.69,,
-1506,IVR^A,Invesco Mortgage Capital Inc.,25.4,,
-1507,OIA,Invesco Municipal Income Opportunities Trust,7.86,,
-1508,VMO,Invesco Municipal Opportunity Trust,12.8,,
-1509,VKQ,Invesco Municipal Trust,12.84,,
-1510,VPV,Invesco Pennsylvania Value Municipal Income Trust,13.6,,
 1511,IVZ,Invesco Plc,17.17,Finance,Investment Managers
-1512,IQI,Invesco Quality Municipal Income Trust,12.95,,
-1513,VVR,Invesco Senior Income Trust,4.2,,
-1514,VTN,Invesco Trust  for Investment Grade New York Municipal,13.76,,
-1515,VGM,Invesco Trust for Investment Grade Municipals,13.07,,
-1516,IIM,Invesco Value Municipal Income Trust,15.41,,
 1517,IRET,Investors Real Estate Trust,62.54,Consumer Services,Real Estate Investment Trusts
-1518,IRET^C,Investors Real Estate Trust,25.74,,
 1519,NVTA,Invitae Corporation,24.28,Health Care,Medical Specialities
 1520,INVH,Invitation Homes Inc.,27.12,Finance,Real Estate
 1521,IO,Ion Geophysical Corporation,8.98,Energy,Oil & Gas Production
@@ -1526,19 +1037,11 @@
 1524,IRS,IRSA Inversiones Y Representaciones S.A.,10.15,Consumer Services,Homebuilding
 1525,ICL,Israel Chemicals Shs,5.33,Basic Industries,Agricultural Chemicals
 1526,STAR          ,iStar Inc.,13.38,Consumer Services,Real Estate Investment Trusts
-1527,STAR^D,iStar Inc.,25.8742,,
-1528,STAR^G,iStar Inc.,25.38,,
-1529,STAR^I,iStar Inc.,25.4467,,
 1530,ITCB,Ita? CorpBanca,11.5,Finance,Commercial Banks
 1531,ITUB,Itau Unibanco Banco Holding SA,8.73,Finance,Major Banks
 1532,ITT,ITT Inc.,56.9,Capital Goods,Fluid Controls
-1533,IVH,Ivy High Income Opportunities Fund,13.65,,
 1534,JPM,J P Morgan Chase & Co,109.57,Finance,Major Banks
 1535,JPM^A,J P Morgan Chase & Co,25.58,Finance,Major Banks
-1536,JPM^C,J P Morgan Chase & Co,27.28,,
-1537,JPM^D,J P Morgan Chase & Co,27.05,,
-1538,JPM^F,J P Morgan Chase & Co,25.73,,
-1539,JPM^G,J P Morgan Chase & Co,26.03,,
 1540,JPM^H,J P Morgan Chase & Co,26.34,Finance,Major Banks
 1541,JAX,"J. Alexander&#39;s Holdings, Inc.",10.25,Consumer Services,Restaurants
 1542,JILL,"J. Jill, Inc.",1.98,Consumer Non-Durables,Apparel
@@ -1549,30 +1052,16 @@
 1547,JAG,Jagged Peak Energy Inc.,6.47,Energy,Oil & Gas Production
 1548,JHX,James Hardie Industries plc.,13.01,Capital Goods,Building Materials
 1549,JHG,Janus Henderson Group plc,19.28,Finance,Investment Managers
-1550,JOF,Japan Smaller Capitalization Fund Inc,8.27,,
 1551,JBGS,JBG SMITH Properties,37.7,Consumer Services,Real Estate Investment Trusts
 1552,JEF,Jefferies Financial Group Inc.,19.27,Finance,Investment Bankers/Brokers/Service
 1553,JELD,"JELD-WEN Holding, Inc.",20.21,Basic Industries,Forest Products
 1554,JCAP,"Jernigan Capital, Inc.",19.78,Consumer Services,Real Estate Investment Trusts
-1555,JCAP^B,"Jernigan Capital, Inc.",26.0426,,
 1556,JT,Jianpu Technology Inc.,3.46,Technology,"Computer Software: Programming, Data Processing"
 1557,JKS,JinkoSolar Holding Company Limited,18.61,Technology,Semiconductors
 1558,JMP,JMP Group LLC,3.68,Finance,Investment Bankers/Brokers/Service
 1559,JMPB,JMP Group LLC,25.4991,Finance,Investment Bankers/Brokers/Service
 1560,JMPD,JMP Group LLC,25.997,Finance,Investment Bankers/Brokers/Service
 1561,JBT,John Bean Technologies Corporation,101.53,Technology,Industrial Machinery/Components
-1562,BTO,John Hancock Financial Opportunities Fund,30.72,,
-1563,HEQ,John Hancock Hedged Equity & Income Fund,13.72,,
-1564,JHS,John Hancock Income Securities Trust,14.53,,
-1565,JHI,John Hancock Investors Trust,16.87,,
-1566,HPF,John Hancock Pfd Income Fund II,23.21,,
-1567,HPI,John Hancock Preferred Income Fund,23.62,,
-1568,HPS,John Hancock Preferred Income Fund III,19.15,,
-1569,PDT,John Hancock Premium Dividend Fund,16.96,,
-1570,HTD,John Hancock Tax Advantaged Dividend Income Fund,24.97,,
-1571,HTY,John Hancock Tax-Advantaged Global Shareholder Yield Fund,6.64,,
-1572,JW.A,"John Wiley & Sons, Inc.",,,
-1573,JW.B,"John Wiley & Sons, Inc.",,,
 1574,JNJ,Johnson & Johnson,130.16,Health Care,Major Pharmaceuticals
 1575,JCI,Johnson Controls International plc,41.4,Consumer Services,Other Consumer Services
 1576,JLL,Jones Lang LaSalle Incorporated,135.18,Finance,Real Estate
@@ -1581,7 +1070,6 @@
 1579,JNPR,"Juniper Networks, Inc.",25.16,Technology,Computer Communications Equipment
 1580,JP,Jupai Holdings Limited,1.84,Consumer Services,Other Consumer Services
 1581,JE,"Just Energy Group, Inc.",3.36,Public Utilities,Oil/Gas Transmission
-1582,JE^A,"Just Energy Group, Inc.",23.57,,
 1583,LRN,K12 Inc,29.26,Consumer Services,Other Consumer Services
 1584,KAI,Kadant Inc,83.09,Technology,Industrial Machinery/Components
 1585,KDMN,"Kadmon Holdings, Inc.",2.28,Health Care,Major Pharmaceuticals
@@ -1589,9 +1077,6 @@
 1587,KSU,Kansas City Southern,115.79,Transportation,Railroads
 1588,KSU^,Kansas City Southern,27.025,Transportation,Railroads
 1589,KAR,"KAR Auction Services, Inc",25.77,Consumer Durables,Automotive Aftermarket
-1590,KMF,"Kayne Anderson Midstream Energy Fund, Inc",10.7,,
-1591,KYN,Kayne Anderson MLP/Midstream Investment Company,14.42,,
-1592,KYN^F,Kayne Anderson MLP/Midstream Investment Company,25.15,,
 1593,KB,KB Financial Group Inc,32.94,Finance,Commercial Banks
 1594,KBH,KB Home,25.27,Capital Goods,Homebuilding
 1595,KBR,"KBR, Inc.",23.85,Basic Industries,Military/Government/Technical
@@ -1605,19 +1090,11 @@
 1603,KDP,Keurig Dr Pepper Inc.,27.95,Consumer Non-Durables,Beverages (Production/Distribution)
 1604,KEG,"Key Energy Services, Inc.",2.22,Energy,Oilfield Services/Equipment
 1605,KEY,KeyCorp,16.45,Finance,Major Banks
-1606,KEY^I,KeyCorp,28.73,,
-1607,KEY^J,KeyCorp,25.93,,
-1608,KEY^K,KeyCorp,26.11,,
 1609,KEYS,Keysight Technologies Inc.,83.54,Capital Goods,Industrial Machinery/Components
 1610,KRC,Kilroy Realty Corporation,77.02,Consumer Services,Real Estate Investment Trusts
 1611,KRP,Kimbell Royalty Partners,14.01,Energy,Oil & Gas Production
 1612,KMB,Kimberly-Clark Corporation,133.63,Consumer Durables,Containers/Packaging
 1613,KIM,Kimco Realty Corporation,18.75,Consumer Services,Real Estate Investment Trusts
-1614,KIM^I,Kimco Realty Corporation,25.4899,,
-1615,KIM^J,Kimco Realty Corporation,25.42,,
-1616,KIM^K,Kimco Realty Corporation,25.32,,
-1617,KIM^L,Kimco Realty Corporation,24.8414,,
-1618,KIM^M,Kimco Realty Corporation,25.08,,
 1619,KMI,"Kinder Morgan, Inc.",19.84,Public Utilities,Natural Gas Distribution
 1620,KFS,"Kingsway Financial Services, Inc.",2.8,Finance,Property-Casualty Insurers
 1621,KGC,Kinross Gold Corporation,4.78,Basic Industries,Precious Metals
@@ -1625,9 +1102,6 @@
 1623,KL,Kirkland Lake Gold Ltd.,46.46,Basic Industries,Precious Metals
 1624,KRG,Kite Realty Group Trust,14.97,Consumer Services,Real Estate Investment Trusts
 1625,KKR,KKR & Co. Inc.,24.39,Finance,Investment Managers
-1626,KKR^A,KKR & Co. Inc.,26.61,,
-1627,KKR^B,KKR & Co. Inc.,26.77,,
-1628,KIO,KKR Income Opportunities Fund,15.74,,
 1629,KREF,KKR Real Estate Finance Trust Inc.,19.31,Consumer Services,Real Estate Investment Trusts
 1630,KNX,"Knight Transportation, Inc.",33.82,Transportation,Trucking Freight/Courier Services
 1631,KNL,"Knoll, Inc.",22.7,Consumer Durables,Office Equipment/Supplies/Services
@@ -1638,7 +1112,6 @@
 1636,KTB,"Kontoor Brands, Inc.",28.47,Consumer Non-Durables,Apparel
 1637,KOP,Koppers Holdings Inc.,24.86,Basic Industries,Forest Products
 1638,KEP,Korea Electric Power Corporation,10.97,Public Utilities,Electric Utilities: Central
-1639,KF,"Korea Fund, Inc. (The)",25.55,,
 1640,KFY,Korn Ferry ,37.27,Technology,Diversified Commercial Services
 1641,KOS,Kosmos Energy Ltd.,5.73,Energy,Oil & Gas Production
 1642,KRA,Kraton Corporation,26.91,Basic Industries,Major Chemicals
@@ -1656,17 +1129,13 @@
 1654,LPI,"Laredo Petroleum, Inc.",2.81,Energy,Oil & Gas Production
 1655,LVS,Las Vegas Sands Corp.,54.53,Consumer Services,Hotels/Resorts
 1656,LTM,LATAM Airlines Group S.A.,8.71,Transportation,Air Freight/Delivery Services
-1657,LGI,Lazard Global Total Return and Income Fund,15.41,,
 1658,LAZ,Lazard Ltd.,34.13,Finance,Investment Managers
-1659,LOR,"Lazard World Dividend & Income Fund, Inc.",9.49,,
 1660,LZB,La-Z-Boy Incorporated,31.05,Consumer Durables,Home Furnishings
 1661,LCII,LCI Industries ,84.71,Capital Goods,Auto Parts:O.E.M.
 1662,LEAF,Leaf Group Ltd.,5.68,Technology,EDP Services
 1663,LEA,Lear Corporation,119.38,Capital Goods,Auto Parts:O.E.M.
 1664,LEE,"Lee Enterprises, Incorporated",2.02,Consumer Services,Newspapers/Magazines
 1665,LGC,Legacy Acquisition Corp.,10.14,Finance,Business Services
-1666,LGC.U,Legacy Acquisition Corp.,,,
-1667,LGC.WS,Legacy Acquisition Corp.,,,
 1668,LM,"Legg Mason, Inc.",36.95,Finance,Investment Managers
 1669,LMHA,"Legg Mason, Inc.",26.71,Finance,Investment Managers
 1670,LMHB,"Legg Mason, Inc.",25.38,Finance,Investment Managers
@@ -1679,17 +1148,10 @@
 1677,LEJU,Leju Holdings Limited,1.11,Finance,Real Estate
 1678,LC,LendingClub Corporation,13.55,Miscellaneous,Business Services
 1679,LEN,Lennar Corporation,47.53,Basic Industries,Homebuilding
-1680,LEN.B,Lennar Corporation,,Basic Industries,Homebuilding
 1681,LII,"Lennox International, Inc.",250.25,Capital Goods,Industrial Machinery/Components
 1682,LHC,Leo Holdings Corp.,10.2,Consumer Services,Movies/Entertainment
-1683,LHC.U,Leo Holdings Corp.,,,
-1684,LHC.WS,Leo Holdings Corp.,,,
 1685,LEVI,Levi Strauss & Co,18.64,Consumer Non-Durables,Apparel
-1686,LXP,Lexington Realty Trust,9.35,,
-1687,LXP^C,Lexington Realty Trust,53.55,,
 1688,LPL,"LG Display Co., Ltd.",5.23,Capital Goods,Industrial Machinery/Components
-1689,USA,Liberty All-Star Equity Fund,6.05,,
-1690,ASG,"Liberty All-Star Growth Fund, Inc.",5.7,,
 1691,LBRT,Liberty Oilfield Services Inc.,12.41,Energy,Oilfield Services/Equipment
 1692,LPT,Liberty Property Trust,50.24,Consumer Services,Real Estate Investment Trusts
 1693,LSI,"Life Storage, Inc.",99.8,Consumer Services,Real Estate Investment Trusts
@@ -1699,15 +1161,12 @@
 1697,LNN,Lindsay Corporation,86.38,Capital Goods,Industrial Machinery/Components
 1698,LN,LINE Corporation,31.67,Technology,"Computer Software: Programming, Data Processing"
 1699,LINX,Linx S.A.,7.76,Technology,Computer Software: Prepackaged Software
-1700,LGF.A,Lions Gate Entertainment Corporation,,,
-1701,LGF.B,Lions Gate Entertainment Corporation,,,
 1702,LAD,"Lithia Motors, Inc.",127.82,Consumer Durables,Automotive Aftermarket
 1703,LAC,Lithium Americas Corp.,3.61,Basic Industries,Precious Metals
 1704,LYV,"Live Nation Entertainment, Inc.",68.5,Consumer Services,Services-Misc. Amusement & Recreation
 1705,LTHM,Livent Corporation,5.77,Basic Industries,Major Chemicals
 1706,RAMP,"LiveRamp Holdings, Inc.",49.22,Technology,EDP Services
 1707,LYG,Lloyds Banking Group Plc,2.41,Finance,Commercial Banks
-1708,SCD,LMP Capital and Income Fund Inc.,13.53,,
 1709,LMT,Lockheed Martin Corporation,358.43,Capital Goods,Military/Government/Technical
 1710,L,Loews Corporation,50.72,Finance,Property-Casualty Insurers
 1711,LOMA,Loma Negra Compania Industrial Argentina Sociedad Anonima,11.29,Capital Goods,Building Materials
@@ -1723,29 +1182,19 @@
 1721,WLH,Lyon William Homes,16.95,Capital Goods,Homebuilding
 1722,LYB,LyondellBasell Industries NV,76.31,Basic Industries,Major Chemicals
 1723,MTB,M&T Bank Corporation,153.96,Finance,Major Banks
-1724,MTB^.CL,M&T Bank Corporation,,,
-1725,MTB^C.CL,M&T Bank Corporation,,,
 1726,MDC,"M.D.C. Holdings, Inc.",35.55,Capital Goods,Homebuilding
 1727,MHO,"M/I Homes, Inc.",34.85,Capital Goods,Homebuilding
 1728,MAC,Macerich Company (The),31.25,Consumer Services,Real Estate Investment Trusts
 1729,CLI,Mack-Cali Realty Corporation,22.51,Consumer Services,Real Estate Investment Trusts
-1730,MFD,Macquarie First Trust Global,9.86,,
-1731,MGU,Macquarie Global Infrastructure Total Return Fund Inc.,22.38,,
 1732,MIC,Macquarie Infrastructure Corporation ,38.99,Energy,Oil Refining/Marketing
 1733,BMA,Macro Bank Inc.,63.25,Finance,Commercial Banks
 1734,M,Macy&#39;s Inc,20.63,Consumer Services,Department/Specialty Retail Stores
-1735,MCN,Madison Covered Call & Equity Strategy Fund,6.37,,
 1736,MMP,Magellan Midstream Partners L.P.,66.0,Energy,Natural Gas Distribution
 1737,MGA,"Magna International, Inc.",47.16,Capital Goods,Auto Parts:O.E.M.
 1738,MX,MagnaChip Semiconductor Corporation,10.62,Technology,Semiconductors
 1739,MGY,Magnolia Oil & Gas Corporation,9.97,Energy,Oil & Gas Production
-1740,MH^A,"Maiden Holdings, Ltd.",4.9,,
-1741,MH^C,"Maiden Holdings, Ltd.",4.23,,
-1742,MH^D,"Maiden Holdings, Ltd.",4.0,,
 1743,MHLA,"Maiden Holdings, Ltd.",16.26,Finance,Property-Casualty Insurers
 1744,MHNC,"Maiden Holdings, Ltd.",22.0,Finance,Property-Casualty Insurers
-1745,MAIN,Main Street Capital Corporation,40.9,,
-1746,MMD,MainStay MacKay DefinedTerm Municipal Opportunitie,21.06,,
 1747,MNK,Mallinckrodt plc,6.48,Health Care,Major Pharmaceuticals
 1748,MANU,Manchester United Ltd.,17.51,Consumer Services,Services-Misc. Amusement & Recreation
 1749,MTW,"Manitowoc Company, Inc. (The)",15.86,Capital Goods,Construction/Ag Equipment/Trucks
@@ -1776,65 +1225,44 @@
 1774,MEC,"Mayville Engineering Company, Inc.",12.95,Capital Goods,Industrial Specialties
 1775,MBI,"MBIA, Inc.",9.08,Finance,Property-Casualty Insurers
 1776,MKC,"McCormick & Company, Incorporated",154.74,Consumer Non-Durables,Packaged Foods
-1777,MKC.V,"McCormick & Company, Incorporated",,Consumer Non-Durables,Packaged Foods
 1778,MDR,"McDermott International, Inc.",5.0,Capital Goods,Metal Fabrications
 1779,MCD,McDonald&#39;s Corporation,210.45,Consumer Services,Restaurants
 1780,MUX,McEwen Mining Inc.,1.94,Basic Industries,Precious Metals
 1781,MCK,McKesson Corporation,144.66,Health Care,Other Pharmaceuticals
 1782,MDU,"MDU Resources Group, Inc.",26.3,Basic Industries,Mining & Quarrying of Nonmetallic Minerals (No Fuels)
 1783,MTL,Mechel PAO,2.0,Basic Industries,Steel/Iron Ore
-1784,MTL^,Mechel PAO,0.8212,,
 1785,MDLA,"Medallia, Inc.",38.32,Technology,"Computer Software: Programming, Data Processing"
 1786,MPW,"Medical Properties Trust, Inc.",17.33,Consumer Services,Real Estate Investment Trusts
 1787,MED,MEDIFAST INC,98.07,Consumer Non-Durables,Packaged Foods
-1788,MCC,Medley Capital Corporation,2.73,,
-1789,MCV,Medley Capital Corporation,23.3,,
-1790,MCX,Medley Capital Corporation,24.52,,
 1791,MDLQ,Medley LLC,18.65,Finance,Investment Managers
 1792,MDLX,Medley LLC,18.3,Finance,Investment Managers
 1793,MDLY,Medley Management Inc.,3.34,Finance,Investment Managers
 1794,MD,"Mednax, Inc",21.23,Health Care,Hospital/Nursing Management
 1795,MDT,Medtronic plc,99.51,Health Care,Biotechnology: Electromedical & Electrotherapeutic Apparatus
 1796,MFAC,Megalith Financial Acquisition Corp.,10.09,Finance,Business Services
-1797,MFAC.U,Megalith Financial Acquisition Corp.,,,
-1798,MFAC.WS,Megalith Financial Acquisition Corp.,,,
 1799,MRK,"Merck & Company, Inc.",83.12,Health Care,Major Pharmaceuticals
 1800,MCY,Mercury General Corporation,54.23,Finance,Property-Casualty Insurers
 1801,MDP,Meredith Corporation,52.44,Consumer Services,Newspapers/Magazines
 1802,MTH,Meritage Corporation,62.2,Capital Goods,Homebuilding
 1803,MTOR,"Meritor, Inc.",20.07,Capital Goods,Auto Parts:O.E.M.
-1804,MER^K,"Merrill Lynch & Co., Inc.",26.45,,
 1805,PIY,"Merrill Lynch Depositor, Inc.",13.7,Finance,Finance: Consumer Services
 1806,MTR,Mesa Royalty Trust,6.96,Energy,Oil & Gas Production
 1807,MSB,Mesabi Trust,25.71,Basic Industries,Precious Metals
 1808,MEI,"Methode Electronics, Inc.",27.29,Capital Goods,Electrical Products
 1809,MET,"MetLife, Inc.",45.57,Finance,Life Insurance
-1810,MET^A,"MetLife, Inc.",24.09,,
-1811,MET^E,"MetLife, Inc.",26.92,,
 1812,MCB,Metropolitan Bank Holding Corp.,38.8,Finance,Major Banks
 1813,MTD,"Mettler-Toledo International, Inc.",692.72,Capital Goods,Biotechnology: Laboratory Analytical Instruments
-1814,MXE,"Mexico Equity and Income Fund, Inc. (The)",9.8151,,
-1815,MXF,"Mexico Fund, Inc. (The)",12.27,,
 1816,MFA,"MFA Financial, Inc.",6.94,Consumer Services,Real Estate Investment Trusts
-1817,MFA^B,"MFA Financial, Inc.",25.3,,
 1818,MFO,"MFA Financial, Inc.",25.9,Consumer Services,Real Estate Investment Trusts
-1819,MCR,MFS Charter Income Trust,8.35,,
-1820,MGF,MFS Government Markets Income Trust,4.59,,
-1821,MIN,MFS Intermediate Income Trust,3.84,,
-1822,MMT,MFS Multimarket Income Trust,5.9,,
-1823,MFM,MFS Municipal Income Trust,7.16,,
-1824,MFV,MFS Special Value Trust,5.75,,
 1825,MTG,MGIC Investment Corporation,12.29,Finance,Property-Casualty Insurers
 1826,MGP,MGM Growth Properties LLC,28.68,Consumer Services,Real Estate Investment Trusts
 1827,MGM,MGM Resorts International,27.94,Consumer Services,Hotels/Resorts
 1828,MFGP,Micro Focus Intl PLC,19.77,Technology,Computer Software: Prepackaged Software
 1829,MAA,"Mid-America Apartment Communities, Inc.",117.53,Consumer Services,Real Estate Investment Trusts
-1830,MAA^I,"Mid-America Apartment Communities, Inc.",65.5,,
 1831,MSL,MidSouth Bancorp,10.96,Finance,Major Banks
 1832,MPO,"MIDSTATES PETROLEUM COMPANY, INC.",4.36,Energy,Oil & Gas Production
 1833,MCRN,Milacron Holdings Corp.,16.27,Technology,Industrial Machinery/Components
 1834,MLR,"Miller Industries, Inc.",29.94,Capital Goods,Construction/Ag Equipment/Trucks
-1835,HIE,Miller/Howard High Income Equity Fund,10.98,,
 1836,MTX,Minerals Technologies Inc.,50.16,Basic Industries,Major Chemicals
 1837,MG,Mistras Group Inc,14.35,Consumer Services,Military/Government/Technical
 1838,MUFG,Mitsubishi UFJ Financial Group Inc,4.75,Finance,Commercial Banks
@@ -1848,27 +1276,11 @@
 1846,MHK,"Mohawk Industries, Inc.",118.24,Consumer Durables,Home Furnishings
 1847,MOH,Molina Healthcare Inc,123.95,Health Care,Medical Specialities
 1848,TAP,Molson Coors Brewing  Company,50.59,Consumer Non-Durables,Beverages (Production/Distribution)
-1849,TAP.A,Molson Coors Brewing  Company,,,
 1850,MNR,Monmouth Real Estate Investment Corporation,13.03,Consumer Services,Real Estate Investment Trusts
-1851,MNR^C,Monmouth Real Estate Investment Corporation,25.0,,
 1852,MR,Montage Resources Corporation,2.76,Energy,Oil & Gas Production
 1853,MCO,Moody&#39;s Corporation,202.69,Finance,Finance: Consumer Services
-1854,MOG.A,Moog Inc.,,,
-1855,MOG.B,Moog Inc.,,,
 1856,MS,Morgan Stanley,40.49,Finance,Investment Bankers/Brokers/Service
-1857,MS^A,Morgan Stanley,21.66,,
-1858,MS^E,Morgan Stanley,28.57,,
-1859,MS^F,Morgan Stanley,28.02,,
-1860,MS^G,Morgan Stanley,25.67,,
-1861,MS^I,Morgan Stanley,27.91,,
-1862,MS^K,Morgan Stanley,27.59,,
-1863,CAF,Morgan Stanley China A Share Fund Inc.,19.51,,
-1864,MSD,"Morgan Stanley Emerging Markets Debt Fund, Inc.",9.36,,
-1865,EDD,"Morgan Stanley Emerging Markets Domestic Debt Fund, Inc.",6.75,,
-1866,IIF,"Morgan Stanley India Investment Fund, Inc.",18.26,,
 1867,MOSC,Mosaic Acquisition Corp.,10.24,Finance,Business Services
-1868,MOSC.U,Mosaic Acquisition Corp.,,,
-1869,MOSC.WS,Mosaic Acquisition Corp.,,,
 1870,MOS,Mosaic Company (The),23.6,Basic Industries,Agricultural Chemicals
 1871,MSI,"Motorola Solutions, Inc.",168.73,Technology,Radio And Television Broadcasting And Communications Equipment
 1872,MOV,Movado Group Inc.,24.34,Consumer Non-Durables,Consumer Specialties
@@ -1881,23 +1293,14 @@
 1879,MSGN,MSG Networks Inc.,18.48,Consumer Services,Television Services
 1880,MLI,"Mueller Industries, Inc.",26.82,Capital Goods,Metal Fabrications
 1881,MWA,Mueller Water Products Inc,9.7,Capital Goods,Metal Fabrications
-1882,MVF,"MuniVest Fund, Inc.",9.42,,
-1883,MZA,"MuniYield Arizona Fund, Inc.",14.25,,
 1884,MUR,Murphy Oil Corporation,22.58,Energy,Oil & Gas Production
 1885,MUSA,Murphy USA Inc.,86.03,Consumer Durables,Automotive Aftermarket
 1886,MVO,MV Oil Trust,7.18,Energy,Oil & Gas Production
-1887,MVC,"MVC Capital, Inc.",9.15,,
-1888,MVCD,"MVC Capital, Inc.",25.75,,
 1889,MYE,"Myers Industries, Inc.",15.64,Consumer Non-Durables,Plastic Products
 1890,MYOV,Myovant Sciences Ltd.,6.81,Health Care,Major Pharmaceuticals
 1891,NBR,Nabors Industries Ltd.,2.55,Energy,Oil & Gas Production
-1892,NBR^A,Nabors Industries Ltd.,20.64,,
 1893,NC,"NACCO Industries, Inc.",49.33,Consumer Durables,Consumer Electronics/Appliances
 1894,NTP,Nam Tai Property Inc.,9.99,Finance,Real Estate
-1895,NTEST,NASDAQ TEST STOCK,25.04,,
-1896,NTEST.A,NASDAQ TEST STOCK,,,
-1897,NTEST.B,NASDAQ TEST STOCK,,,
-1898,NTEST.C,NASDAQ TEST STOCK,,,
 1899,NBHC,National Bank Holdings Corporation,33.69,Finance,Major Banks
 1900,NFG,National Fuel Gas Company,47.72,Public Utilities,Oil/Gas Transmission
 1901,NGG,"National Grid Transco, PLC",50.66,Public Utilities,Natural Gas Distribution
@@ -1905,12 +1308,9 @@
 1903,NOV,"National Oilwell Varco, Inc.",21.74,Energy,Metal Fabrications
 1904,NPK,"National Presto Industries, Inc.",90.28,Capital Goods,Ordnance And Accessories
 1905,NNN,National Retail Properties,52.9,Consumer Services,Real Estate Investment Trusts
-1906,NNN^E,National Retail Properties,25.38,,
-1907,NNN^F,National Retail Properties,24.99,,
 1908,NRUC,National Rural Utilities Cooperative Finance Corporation,27.05,Finance,Diversified Financial Services
 1909,SID,National Steel Company,3.71,Capital Goods,Steel/Iron Ore
 1910,NSA,National Storage Affiliates Trust,30.07,Consumer Services,Real Estate Investment Trusts
-1911,NSA^A,National Storage Affiliates Trust,26.426,,
 1912,NGS,"Natural Gas Services Group, Inc.",14.42,Energy,Oilfield Services/Equipment
 1913,NGVC,"Natural Grocers by Vitamin Cottage, Inc.",11.76,Consumer Services,Food Chains
 1914,NRP,Natural Resource Partners LP,27.87,Energy,Coal Mining
@@ -1920,8 +1320,6 @@
 1918,NVGS,Navigator Holdings Ltd.,9.87,Transportation,Marine Transportation
 1919,NNA,Navios Maritime Acquisition Corporation,6.0,Transportation,Marine Transportation
 1920,NM,Navios Maritime Holdings Inc.,4.34,Transportation,Marine Transportation
-1921,NM^G,Navios Maritime Holdings Inc.,11.96,,
-1922,NM^H,Navios Maritime Holdings Inc.,11.64,,
 1923,NMM,Navios Maritime Partners LP,15.3,Transportation,Marine Transportation
 1924,NAV,Navistar International Corporation,27.4,Capital Goods,Auto Manufacturing
 1925,NAV^D,Navistar International Corporation,24.25,Capital Goods,Auto Manufacturing
@@ -1929,27 +1327,15 @@
 1927,NP,"Neenah, Inc.",61.08,Basic Industries,Paper
 1928,NNI,"Nelnet, Inc.",61.41,Finance,Finance: Consumer Services
 1929,NPTN,NeoPhotonics Corporation,4.32,Technology,Semiconductors
-1930,NSCO,"Nesco Holdings, Inc.",8.27,,
-1931,NSCO.WS,"Nesco Holdings, Inc.",,,
 1932,NVRO,Nevro Corp.,61.81,Health Care,Medical/Dental Instruments
-1933,HYB,"New America High Income Fund, Inc. (The)",8.76,,
 1934,NFC,New Frontier Corporation,10.22,Finance,Business Services
-1935,NFC.U,New Frontier Corporation,,,
-1936,NFC.WS,New Frontier Corporation,,,
-1937,GF,"New Germany Fund, Inc. (The)",13.56,,
 1938,NWHM,New Home Company Inc. (The),3.91,Capital Goods,Homebuilding
-1939,IRL,"New Ireland Fund, Inc. (The)",8.32,,
 1940,NEWM,New Media Investment Group Inc.,9.89,Consumer Services,Newspapers/Magazines
-1941,NMFC,New Mountain Finance Corporation,13.51,,
-1942,NMFX,New Mountain Finance Corporation,25.6027,,
 1943,EDU,"New Oriental Education & Technology Group, Inc.",99.03,Consumer Services,Other Consumer Services
 1944,NEWR,"New Relic, Inc.",83.24,Technology,Computer Software: Prepackaged Software
 1945,NRZ,New Residential Investment Corp.,14.92,Consumer Services,Real Estate Investment Trusts
-1946,NRZ^A,New Residential Investment Corp.,26.4513,,
 1947,SNR,New Senior Investment Group Inc.,6.6,Consumer Services,Real Estate Investment Trusts
 1948,NYCB,"New York Community Bancorp, Inc.",11.44,Finance,Banks
-1949,NYCB^A,"New York Community Bancorp, Inc.",28.22,,
-1950,NYCB^U,"New York Community Bancorp, Inc.",48.14,,
 1951,NYT,New York Times Company (The),35.27,Consumer Services,Newspapers/Magazines
 1952,NJR,NewJersey Resources Corporation,47.75,Public Utilities,Oil/Gas Transmission
 1953,NEU,NewMarket Corporation,444.97,Basic Industries,Major Chemicals
@@ -1957,17 +1343,9 @@
 1955,NR,"Newpark Resources, Inc.",7.05,Energy,Metal Fabrications
 1956,NEXA,Nexa Resources S.A.,7.29,Basic Industries,Precious Metals
 1957,NXRT,"NexPoint Residential Trust, Inc.",43.3,Consumer Services,Real Estate Investment Trusts
-1958,NHF,NexPoint Strategic Opportunities Fund,18.28,,
 1959,NEP,"NextEra Energy Partners, LP",47.71,Public Utilities,Electric Utilities: Central
 1960,NEE,"NextEra Energy, Inc.",208.05,Public Utilities,Electric Utilities: Central
-1961,NEE^I,"NextEra Energy, Inc.",25.22,,
-1962,NEE^J,"NextEra Energy, Inc.",25.1,,
-1963,NEE^K,"NextEra Energy, Inc.",26.93,,
-1964,NEE^N,"NextEra Energy, Inc.",26.76,,
-1965,NEE^R,"NextEra Energy, Inc.",66.55,,
 1966,NGL,NGL ENERGY PARTNERS LP,14.42,Energy,Oil Refining/Marketing
-1967,NGL^B,NGL ENERGY PARTNERS LP,25.0,,
-1968,NGL^C,NGL ENERGY PARTNERS LP,25.2,,
 1969,NMK^B,"Niagara Mohawk Holdings, Inc.",94.425,Public Utilities,Natural Gas Distribution
 1970,NMK^C,"Niagara Mohawk Holdings, Inc.",102.0,Public Utilities,Natural Gas Distribution
 1971,NLSN,Nielsen N.V.,21.88,Miscellaneous,Business Services
@@ -2002,98 +1380,10 @@
 2000,NUS,"Nu Skin Enterprises, Inc.",38.18,Health Care,Other Pharmaceuticals
 2001,NUE,Nucor Corporation,50.75,Basic Industries,Steel/Iron Ore
 2002,NS,Nustar Energy L.P.,27.33,Energy,Natural Gas Distribution
-2003,NS^A,Nustar Energy L.P.,24.24,,
-2004,NS^B,Nustar Energy L.P.,21.18,,
-2005,NS^C,Nustar Energy L.P.,24.99,,
-2006,NSS,"NuStar Logistics, L.P.",25.848000000000003,,
 2007,NTR,Nutrien Ltd.,52.1,Basic Industries,Agricultural Chemicals
-2008,JMLP,Nuveen All Cap Energy MLP Opportunities Fund,5.76,,
-2009,NVG,Nuveen AMT-Free Municipal Credit Income Fund,16.45,,
-2010,NUV,Nuveen AMT-Free Municipal Value Fund,10.34,,
-2011,NUW,Nuveen AMT-Free Municipal Value Fund,17.39,,
-2012,NEA,Nuveen AMT-Free Quality Municipal Income Fund,14.22,,
-2013,NAZ,Nuveen Arizona Quality Municipal Income Fund,13.63,,
-2014,NKX,Nuveen California AMT-Free Quality Municipal Income Fund,15.26,,
-2015,NCB,Nuveen California Municipal Value Fund 2,16.05,,
-2016,NCA,"Nuveen California Municipal Value Fund, Inc.",10.55,,
-2017,NAC,Nuveen California Quality Municipal Income Fund,14.97,,
-2018,NTC,Nuveen Connecticut Quality Municipal Income Fund,13.5,,
-2019,JCE,Nuveen Core Equity Alpha Fund,13.47,,
-2020,JCO,Nuveen Credit Opportunities 2022 Target Term Fund,9.8,,
-2021,JQC,Nuveen Credit Strategies Income Fund,7.68,,
-2022,JDD,Nuveen Diversified Dividend and Income Fund,11.0,,
-2023,DIAX,Nuveen Dow 30SM Dynamic Overwrite Fund,16.99,,
-2024,JEMD,Nuveen Emerging Markets Debt 2022 Target Term Fund,9.02,,
-2025,JMF,Nuveen Energy MLP Total Return Fund,8.29,,
-2026,NEV,Nuveen Enhanced Municipal Value Fund,14.83,,
-2027,JFR,Nuveen Floating Rate Income Fund,9.71,,
-2028,JRO,Nuveen Floating Rate Income Opportuntiy Fund,9.59,,
-2029,NKG,Nuveen Georgia Quality Municipal Income Fund ,12.45,,
-2030,JGH,Nuveen Global High Income Fund,15.22,,
-2031,JHY,Nuveen High Income 2020 Target Term Fund,10.0836,,
-2032,JHAA,Nuveen High Income 2023 Target Term Fund,10.46,,
-2033,JHD,Nuveen High Income December 2019 Target Term Fund,9.88,,
-2034,JHB,Nuveen High Income November 2021 Target Term Fund,9.89,,
-2035,NXC,Nuveen Insured California Select Tax-Free Income Portfolio,15.17,,
-2036,NXN,Nuveen Insured New York Select Tax-Free Income Portfolio,13.86,,
-2037,NID,Nuveen Intermediate Duration Municipal Term Fund,13.64,,
-2038,NMY,Nuveen Maryland Quality Municipal Income Fund,13.38,,
-2039,NMT,Nuveen Massachusetts Municipal Income Fund,14.04,,
-2040,NUM,Nuveen Michigan Quality Municipal Income Fund,14.11,,
-2041,NMS,Nuveen Minnesota Quality Municipal Income Fund,14.1201,,
-2042,NOM,Nuveen Missouri Quality Municipal Income Fund,13.97,,
-2043,JLS,Nuveen Mortgage Opportunity Term Fund,23.12,,
-2044,JMM,Nuveen Multi-Market Income Fund,7.4101,,
-2045,NHA,Nuveen Municipal 2021 Target Term Fund,9.75,,
-2046,NZF,Nuveen Municipal Credit Income Fund,16.19,,
-2047,NMZ,Nuveen Municipal High Income Opportunity Fund,14.16,,
-2048,NMI,"Nuveen Municipal Income Fund, Inc.",11.39,,
-2049,NJV,Nuveen New Jersey Municipal Value Fund,13.79,,
-2050,NXJ,Nuveen New Jersey Quality Municipal Income Fund,14.73,,
-2051,NRK,Nuveen New York AMT-Free Quality Municipal,13.52,,
-2052,NYV,Nuveen New York Municipal Value Fund 2,14.5,,
-2053,NNY,"Nuveen New York Municipal Value Fund, Inc.",10.15,,
-2054,NAN,Nuveen New York Quality Municipal Income Fund,14.15,,
-2055,NNC,Nuveen North Carolina Quality Municipal Income Fd,13.82,,
-2056,NUO,Nuveen Ohio Quality Municipal Income Fund,15.62,,
-2057,NPN,Nuveen Pennsylvania Municipal Value Fund,15.0486,,
-2058,NQP,Nuveen Pennsylvania Quality Municipal Income Fund,14.15,,
-2059,JPC,Nuveen Preferred & Income Opportunities Fund,9.62,,
-2060,JPS,Nuveen Preferred & Income Securities Fund,9.45,,
-2061,JPT,Nuveen Preferred and Income 2022 Term Fund,24.03,,
-2062,JPI,Nuveen Preferred and Income Term Fund,23.72,,
-2063,NAD,Nuveen Quality Municipal Income Fund,14.4,,
-2064,JRI,Nuveen Real Asset Income and Growth Fund,16.54,,
-2065,JRS,Nuveen Real Estate Fund,10.413,,
-2066,BXMX,Nuveen S&P 500 Buy-Write Income Fund,12.75,,
-2067,SPXX,Nuveen S&P 500 Dynamic Overwrite Fund,15.89,,
-2068,NIM,Nuveen Select Maturities Municipal Fund,10.46,,
-2069,NXP,Nuveen Select Tax Free Income Portfolio,15.67,,
-2070,NXQ,Nuveen Select Tax Free Income Portfolio II,14.53,,
-2071,NXR,Nuveen Select Tax Free Income Portfolio III,15.64,,
-2072,NSL,Nuveen Senior Income Fund,5.83,,
-2073,JSD,Nuveen Short Duration Credit Opportunities Fund,15.08,,
-2074,NBB,Nuveen Taxable Municipal Income Fund,21.45,,
-2075,JTD,Nuveen Tax-Advantaged Dividend Growth Fund,16.34,,
-2076,JTA,Nuveen Tax-Advantaged Total Return Strategy Fund,11.02,,
-2077,NTX,Nuveen Texas Quality Municipal Income Fund,14.195,,
-2078,NPV,Nuveen Virginia Quality Municipal Income Fund,13.5,,
-2079,NIQ,Nuveenn Intermediate Duration Quality Municipal Term Fund,13.6279,,
-2080,JMT,Nuven Mortgage Opportunity Term Fund 2,22.6135,,
 2081,NVT,nVent Electric plc,20.79,Technology,Industrial Machinery/Components
 2082,NVR,"NVR, Inc.",3340.14,Capital Goods,Homebuilding
-2083,CTEST,NYSE Test One,24.98,,
-2084,CTEST.E,NYSE Test One,,,
-2085,CTEST.G,NYSE Test One,,,
-2086,CTEST.L,NYSE Test One,,,
-2087,CTEST.O,NYSE Test One,,,
-2088,CTEST.S,NYSE Test One,,,
-2089,CTEST.V,NYSE Test One,,,
-2090,OAC.U,Oaktree Acquisition Corp.,,,
 2091,OAK,"Oaktree Capital Group, LLC",49.9,Finance,Investment Managers
-2092,OAK^A,"Oaktree Capital Group, LLC",26.67,,
-2093,OAK^B,"Oaktree Capital Group, LLC",26.45,,
-2094,OSLE,Oaktree Specialty Lending Corporation,25.5608,,
 2095,OMP,Oasis Midstream Partners LP,20.15,Energy,Oil & Gas Production
 2096,OAS,Oasis Petroleum Inc.,3.93,Energy,Oil & Gas Production
 2097,OBE,Obsidian Energy Ltd.,1.04,Energy,Oil & Gas Production
@@ -2103,10 +1393,7 @@
 2101,OCN,Ocwen Financial Corporation,1.65,Finance,Finance: Consumer Services
 2102,OFG,OFG Bancorp,20.86,Finance,Major Banks
 2103,OFG^A,OFG Bancorp,25.7032,Finance,Major Banks
-2104,OFG^B,OFG Bancorp,25.4752,,
-2105,OFG^D,OFG Bancorp,25.71,,
 2106,OGE,OGE Energy Corp,41.96,Public Utilities,Electric Utilities: Central
-2107,OIBR.C,Oi S.A.,,,
 2108,OIS,"Oil States International, Inc.",13.46,Energy,Metal Fabrications
 2109,ODC,Oil-Dri Corporation Of America,32.17,Consumer Durables,Miscellaneous manufacturing industries
 2110,ORI,Old Republic International Corporation,21.83,Finance,Property-Casualty Insurers
@@ -2136,7 +1423,6 @@
 2134,OMI,"Owens & Minor, Inc.",2.9,Health Care,Medical Specialities
 2135,OC,Owens Corning Inc,55.0,Capital Goods,Industrial Machinery/Components
 2136,OI,"Owens-Illinois, Inc.",11.95,Consumer Durables,Containers/Packaging
-2137,ORCC,Owl Rock Capital Corporation,15.7,,
 2138,OXM,"Oxford Industries, Inc.",68.05,Consumer Non-Durables,Apparel
 2139,ROYT,Pacific Coast Oil Trust,2.11,Energy,Oil & Gas Production
 2140,PACD,Pacific Drilling S.A.,6.97,Energy,Oil & Gas Production
@@ -2156,10 +1442,6 @@
 2154,PH,Parker-Hannifin Corporation,163.47,Capital Goods,Metal Fabrications
 2155,PE,"Parsley Energy, Inc.",14.16,Energy,Oil & Gas Production
 2156,PSN,Parsons Corporation,36.25,Technology,EDP Services
-2157,PRE^F,PartnerRe Ltd.,25.509,,
-2158,PRE^G,PartnerRe Ltd.,26.73,,
-2159,PRE^H,PartnerRe Ltd.,27.2,,
-2160,PRE^I,PartnerRe Ltd.,25.72,,
 2161,PRTY,Party City Holdco Inc.,5.81,Consumer Services,Other Specialty Stores
 2162,PAYC,"Paycom Software, Inc.",221.17,Technology,Computer Software: Prepackaged Software
 2163,PBF,PBF Energy Inc.,23.52,Energy,Integrated oil Companies
@@ -2167,19 +1449,10 @@
 2165,BTU,Peabody Energy Corporation,18.05,Energy,Coal Mining
 2166,PSO,"Pearson, Plc",9.84,Consumer Services,Books
 2167,PEB,Pebblebrook Hotel Trust,26.24,Consumer Services,Real Estate Investment Trusts
-2168,PEB^C,Pebblebrook Hotel Trust,25.32,,
-2169,PEB^D,Pebblebrook Hotel Trust,26.27,,
-2170,PEB^E,Pebblebrook Hotel Trust,24.76,,
-2171,PEB^F,Pebblebrook Hotel Trust,25.02,,
 2172,PBA,Pembina Pipeline Corp.,36.43,Energy,Oil & Gas Production
 2173,PEI,Pennsylvania Real Estate Investment Trust,5.52,Consumer Services,Real Estate Investment Trusts
-2174,PEI^B,Pennsylvania Real Estate Investment Trust,21.6,,
-2175,PEI^C,Pennsylvania Real Estate Investment Trust,21.279,,
-2176,PEI^D,Pennsylvania Real Estate Investment Trust,21.26,,
 2177,PFSI,"PennyMac Financial Services, Inc.",25.37,Finance,Finance: Consumer Services
 2178,PMT,PennyMac Mortgage Investment Trust,21.7,Consumer Services,Real Estate Investment Trusts
-2179,PMT^A,PennyMac Mortgage Investment Trust,26.41,,
-2180,PMT^B,PennyMac Mortgage Investment Trust,26.2,,
 2181,PAG,"Penske Automotive Group, Inc.",44.59,Consumer Durables,Automotive Aftermarket
 2182,PNR,Pentair plc.,36.07,Technology,Industrial Machinery/Components
 2183,PEN,"Penumbra, Inc.",157.84,Health Care,Medical/Dental Instruments
@@ -2192,10 +1465,7 @@
 2190,PRSP,Perspecta Inc.,21.81,Technology,EDP Services
 2191,PTR,PetroChina Company Limited,49.3,Energy,Oil & Gas Production
 2192,PBR,Petroleo Brasileiro S.A.- Petrobras,14.18,Energy,Oil & Gas Production
-2193,PBR.A,Petroleo Brasileiro S.A.- Petrobras,,,
 2194,PFE,"Pfizer, Inc.",36.96,Health Care,Major Pharmaceuticals
-2195,GHY,"PGIM Global High Yield Fund, Inc.",14.33,,
-2196,ISD,"PGIM High Yield Bond Fund, Inc.",14.4,,
 2197,PGTI,"PGT Innovations, Inc.",14.4,Capital Goods,Building Products
 2198,PM,Philip Morris International Inc,80.26,Consumer Non-Durables,Farming/Seeds/Milling
 2199,PSX,Phillips 66,95.64,Energy,Integrated oil Companies
@@ -2205,42 +1475,13 @@
 2203,DOC,Physicians Realty Trust,16.86,Consumer Services,Real Estate Investment Trusts
 2204,PDM,"Piedmont Office Realty Trust, Inc.",19.52,Consumer Services,Building operators
 2205,PIR,"Pier 1 Imports, Inc.",3.18,Consumer Services,Home Furnishings
-2206,PCQ,PIMCO California Municipal Income Fund,19.85,,
-2207,PCK,Pimco California Municipal Income Fund II,10.2,,
-2208,PZC,PIMCO California Municipal Income Fund III,11.46,,
-2209,PCM,"PIMCO Commercial Mortgage Securities Trust, Inc.",11.27,,
-2210,PTY,Pimco Corporate & Income Opportunity Fund,18.52,,
-2211,PCN,Pimco Corporate & Income Stategy Fund,18.01,,
-2212,PCI,PIMCO Dynamic Credit and Mortgage Income Fund,24.35,,
-2213,PDI,PIMCO Dynamic Income Fund,32.01,,
-2214,NRGX,PIMCO Energy and Tactical Credit Opportunities Fund,19.49,,
-2215,PGP,Pimco Global Stocksplus & Income Fund,11.88,,
-2216,PHK,Pimco High Income Fund,7.95,,
-2217,PKO,Pimco Income Opportunity Fund,27.25,,
-2218,PFL,PIMCO Income Strategy Fund,11.98,,
-2219,PFN,PIMCO Income Strategy Fund II,10.68,,
-2220,PMF,PIMCO Municipal Income Fund,14.77,,
-2221,PML,Pimco Municipal Income Fund II,16.03,,
-2222,PMX,PIMCO Municipal Income Fund III,12.55,,
-2223,PNF,PIMCO New York Municipal Income Fund,13.755,,
-2224,PNI,Pimco New York Municipal Income Fund II,11.6,,
-2225,PYN,PIMCO New York Municipal Income Fund III,9.74,,
-2226,RCS,"PIMCO Strategic Income Fund, Inc.",9.93,,
 2227,PNW,Pinnacle West Capital Corporation,91.55,Public Utilities,Electric Utilities: Central
 2228,PINS,"Pinterest, Inc.",33.72,Technology,"Computer Software: Programming, Data Processing"
 2229,PES,Pioneer Energy Services Corp.,0.183,Energy,Oil & Gas Production
-2230,PHD,Pioneer Floating Rate Trust,10.47,,
-2231,PHT,Pioneer High Income Trust,9.16,,
-2232,MAV,Pioneer Municipal High Income Advantage Trust,11.09,,
-2233,MHI,Pioneer Municipal High Income Trust,12.74,,
 2234,PXD,Pioneer Natural Resources Company,121.84,Energy,Oil & Gas Production
 2235,PJC,Piper Jaffray Companies,73.21,Finance,Investment Bankers/Brokers/Service
 2236,PBI,Pitney Bowes Inc.,3.55,Miscellaneous,Office Equipment/Supplies/Services
-2237,PBI^B,Pitney Bowes Inc.,21.94,,
 2238,PVT,Pivotal Acquisition Corp.,10.13,Finance,Business Services
-2239,PVT.U,Pivotal Acquisition Corp.,,,
-2240,PVT.WS,Pivotal Acquisition Corp.,,,
-2241,PIC.U,Pivotal Investment Corporation II,,,
 2242,PVTL,"Pivotal Software, Inc.",9.06,Technology,Computer Software: Prepackaged Software
 2243,PJT,PJT Partners Inc.,39.4,Finance,Investment Managers
 2244,PAA,"Plains All American Pipeline, L.P.",22.34,Energy,Natural Gas Distribution
@@ -2250,8 +1491,6 @@
 2248,AGS,"PlayAGS, Inc.",17.91,Consumer Durables,Miscellaneous manufacturing industries
 2249,PHI,PLDT Inc.,21.76,Public Utilities,Telecommunications Equipment
 2250,PNC,"PNC Financial Services Group, Inc. (The)",132.92,Finance,Major Banks
-2251,PNC^P,"PNC Financial Services Group, Inc. (The)",27.16,,
-2252,PNC^Q,"PNC Financial Services Group, Inc. (The)",25.44,,
 2253,PNM,"PNM Resources, Inc. (Holding Co.)",48.62,Public Utilities,Electric Utilities: Central
 2254,PII,Polaris Industries Inc.,89.2,Capital Goods,Industrial Specialties
 2255,POL,PolyOne Corporation,30.24,Basic Industries,Major Chemicals
@@ -2271,11 +1510,6 @@
 2269,PBH,Prestige Consumer Healthcare Inc.,32.6,Health Care,Major Pharmaceuticals
 2270,PVG,"Pretium Resources, Inc.",11.82,Basic Industries,Precious Metals
 2271,PRI,"Primerica, Inc.",111.25,Finance,Life Insurance
-2272,PGZ,Principal Real Estate Income Fund,19.25,,
-2273,PRIF^A,"Priority Income Fund, Inc.",25.12,,
-2274,PRIF^B,"Priority Income Fund, Inc.",25.97,,
-2275,PRIF^C,"Priority Income Fund, Inc.",25.41,,
-2276,PRIF^D,"Priority Income Fund, Inc.",25.5,,
 2277,PRA,ProAssurance Corporation,37.27,Finance,Property-Casualty Insurers
 2278,PG,Procter & Gamble Company (The),113.08,Basic Industries,Package Goods/Cosmetics
 2279,PGR,Progressive Corporation (The),77.34,Finance,Property-Casualty Insurers
@@ -2283,9 +1517,6 @@
 2281,PUMP,ProPetro Holding Corp.,16.41,Energy,Oilfield Services/Equipment
 2282,PRO,"PROS Holdings, Inc.",67.42,Technology,EDP Services
 2283,PROS,"ProSight Global, Inc.",17.35,Finance,Property-Casualty Insurers
-2284,PBB,Prospect Capital Corporation,25.76,,
-2285,PBC,Prospect Capital Corporation,25.78,,
-2286,PBY,Prospect Capital Corporation,25.8,,
 2287,PB,"Prosperity Bancshares, Inc.",64.49,Finance,Major Banks
 2288,PRLB,"Proto Labs, Inc.",96.14,Capital Goods,Metal Fabrications
 2289,PFS,"Provident Financial Services, Inc",23.44,Finance,Savings Institutions
@@ -2294,35 +1525,19 @@
 2292,PRS,"Prudential Financial, Inc.",26.8619,Finance,Life Insurance
 2293,PRU,"Prudential Financial, Inc.",85.95,Finance,Life Insurance
 2294,PUK,Prudential Public Limited Company,36.79,Finance,Life Insurance
-2295,PUK^,Prudential Public Limited Company,26.67,,
-2296,PUK^A,Prudential Public Limited Company,26.8,,
 2297,PSB,"PS Business Parks, Inc.",168.22,Consumer Services,Real Estate Investment Trusts
-2298,PSB^U,"PS Business Parks, Inc.",25.6,,
-2299,PSB^V,"PS Business Parks, Inc.",25.7805,,
-2300,PSB^W,"PS Business Parks, Inc.",24.9825,,
-2301,PSB^X,"PS Business Parks, Inc.",25.62,,
-2302,PSB^Y,"PS Business Parks, Inc.",25.23,,
 2303,TLK,"PT Telekomunikasi Indonesia, Tbk",28.78,Public Utilities,Telecommunications Equipment
 2304,PEG,Public Service Enterprise Group Incorporated,55.63,Public Utilities,Power Generation
 2305,PSA,Public Storage,245.75,Consumer Services,Real Estate Investment Trusts
-2306,PSA^A,Public Storage,26.2056,,
 2307,PSA^B,Public Storage,26.26,Consumer Services,Real Estate Investment Trusts
 2308,PSA^C,Public Storage,26.02,Consumer Services,Real Estate Investment Trusts
 2309,PSA^D,Public Storage,25.41,Consumer Services,Real Estate Investment Trusts
 2310,PSA^E,Public Storage,25.2314,Consumer Services,Real Estate Investment Trusts
 2311,PSA^F,Public Storage,25.85,Consumer Services,Real Estate Investment Trusts
-2312,PSA^G,Public Storage,25.66,,
-2313,PSA^H,Public Storage,26.95,,
 2314,PSA^U,Public Storage,25.6,Consumer Services,Real Estate Investment Trusts
 2315,PSA^V,Public Storage,25.35,Consumer Services,Real Estate Investment Trusts
-2316,PSA^W,Public Storage,25.131,,
-2317,PSA^X,Public Storage,25.16,,
 2318,PHM,"PulteGroup, Inc.",31.11,Capital Goods,Homebuilding
 2319,PSTG,"Pure Storage, Inc. ",13.01,Technology,Electronic Components
-2320,PMM,Putnam Managed Municipal Income Trust,7.96,,
-2321,PIM,Putnam Master Intermediate Income Trust,4.6,,
-2322,PMO,Putnam Municipal Opportunities Trust,13.24,,
-2323,PPT,Putnam Premier Income Trust,5.32,,
 2324,NEW,Puxin Limited,5.8,Consumer Services,Other Consumer Services
 2325,PVH,PVH Corp.,76.6,Consumer Non-Durables,Apparel
 2326,PYX,"Pyxus International, Inc.",13.9,Consumer Services,Farming/Seeds/Milling
@@ -2331,8 +1546,6 @@
 2329,QEP,"QEP Resources, Inc.",4.21,Energy,Oil & Gas Production
 2330,QGEN,Qiagen N.V.,36.33,Health Care,Biotechnology: Biological Products (No Diagnostic Substances)
 2331,QTS,"QTS Realty Trust, Inc.",45.53,Consumer Services,Real Estate Investment Trusts
-2332,QTS^A,"QTS Realty Trust, Inc.",26.45,,
-2333,QTS^B,"QTS Realty Trust, Inc.",111.5105,,
 2334,QUAD,"Quad Graphics, Inc",10.49,Miscellaneous,Publishing
 2335,KWR,Quaker Chemical Corporation,165.26,Basic Industries,Major Chemicals
 2336,NX,Quanex Building Products Corporation,17.99,Capital Goods,Metal Fabrications
@@ -2356,10 +1569,8 @@
 2354,RRC,Range Resources Corporation,4.64,Energy,Oil & Gas Production
 2355,RNGR,"Ranger Energy Services, Inc.",5.83,Energy,Oilfield Services/Equipment
 2356,PACK,Ranpak Holdings Corp,6.47,Capital Goods,Containers/Packaging
-2357,PACK.WS,Ranpak Holdings Corp,,,
 2358,RJF,"Raymond James Financial, Inc.",75.01,Finance,Investment Bankers/Brokers/Service
 2359,RYAM,Rayonier Advanced Materials Inc.,4.89,Basic Industries,Major Chemicals
-2360,RYAM^A,Rayonier Advanced Materials Inc.,38.18,,
 2361,RYN,Rayonier Inc.,28.03,Consumer Services,Real Estate Investment Trusts
 2362,RTN,Raytheon Company,180.15,Capital Goods,Industrial Machinery/Components
 2363,RMAX,"RE/MAX Holdings, Inc.",27.24,Finance,Real Estate
@@ -2373,13 +1584,8 @@
 2371,RWT,"Redwood Trust, Inc.",16.4,Consumer Services,Real Estate Investment Trusts
 2372,RBC,Regal Beloit Corporation,75.72,Consumer Durables,Metal Fabrications
 2373,RWGE,Regalwood Global Energy Ltd.,10.24,Finance,Business Services
-2374,RWGE.U,Regalwood Global Energy Ltd.,,,
-2375,RWGE.WS,Regalwood Global Energy Ltd.,,,
 2376,RM,Regional Management Corp.,26.18,Finance,Finance: Consumer Services
 2377,RF,Regions Financial Corporation,14.56,Finance,Major Banks
-2378,RF^A,Regions Financial Corporation,25.6836,,
-2379,RF^B,Regions Financial Corporation,28.34,,
-2380,RF^C,Regions Financial Corporation,26.72,,
 2381,RGS,Regis Corporation,16.68,Consumer Services,Other Consumer Services
 2382,RGA,"Reinsurance Group of America, Incorporated",147.42,Finance,Life Insurance
 2383,RZA,"Reinsurance Group of America, Incorporated",27.31,Finance,Life Insurance
@@ -2387,14 +1593,9 @@
 2385,RS,Reliance Steel & Aluminum Co.,96.64,Basic Industries,Metal Fabrications
 2386,RELX,RELX PLC,22.96,Consumer Services,Publishing
 2387,RNR,RenaissanceRe Holdings Ltd.,179.44,Finance,Property-Casualty Insurers
-2388,RNR^C,RenaissanceRe Holdings Ltd.,26.12,,
-2389,RNR^E,RenaissanceRe Holdings Ltd.,25.29,,
-2390,RNR^F,RenaissanceRe Holdings Ltd.,25.94,,
 2391,SOL,Renesola Ltd.,1.0104,Technology,Semiconductors
 2392,RENN,Renren Inc.,0.81,Technology,EDP Services
 2393,RPLA,Replay Acquisition Corp.,9.88,Finance,Business Services
-2394,RPLA.U,Replay Acquisition Corp.,,,
-2395,RPLA.WS,Replay Acquisition Corp.,,,
 2396,RSG,"Republic Services, Inc.",86.87,Public Utilities,Environmental Services
 2397,REZI,"Resideo Technologies, Inc.",17.1,Capital Goods,Wholesale Distributors
 2398,RMD,ResMed Inc.,126.9,Health Care,Medical/Dental Instruments
@@ -2407,27 +1608,15 @@
 2405,RVLV,"Revolve Group, Inc.",31.56,Consumer Services,Catalog/Specialty Distribution
 2406,REX,REX American Resources Corporation,70.67,Basic Industries,Major Chemicals
 2407,REXR,"Rexford Industrial Realty, Inc.",40.56,Consumer Services,Real Estate Investment Trusts
-2408,REXR^A,"Rexford Industrial Realty, Inc.",25.7,,
-2409,REXR^B,"Rexford Industrial Realty, Inc.",26.0,,
 2410,RXN,Rexnord Corporation,27.42,Technology,Industrial Machinery/Components
-2411,RXN^A,Rexnord Corporation,55.97,,
 2412,RH,RH,134.05,Consumer Services,Other Specialty Stores
 2413,RNG,"Ringcentral, Inc.",131.33,Technology,EDP Services
 2414,RIO,Rio Tinto Plc,52.14,Basic Industries,Precious Metals
 2415,RBA,Ritchie Bros. Auctioneers Incorporated,34.75,Miscellaneous,Business Services
 2416,RAD,Rite Aid Corporation,6.88,Health Care,Medical/Nursing Services
-2417,RMM,"RiverNorth Managed Duration Municipal Income Fund, Inc.",20.35,,
-2418,RMPL^,RiverNorth Marketplace Lending Corporation,25.8863,,
-2419,RSF,RiverNorth Marketplace Lending Corporation,18.861,,
-2420,RMI,"RiverNorth Opportunistic Municipal Income Fund, Inc.",22.2,,
-2421,RIV,"RiverNorth Opportunities Fund, Inc.",17.11,,
-2422,OPP,"RiverNorth/DoubleLine Strategic Opportunity Fund, Inc.",17.52,,
 2423,RLI,RLI Corp.,88.3,Finance,Property-Casualty Insurers
 2424,RLJ,RLJ Lodging Trust,16.46,Consumer Services,Real Estate Investment Trusts
-2425,RLJ^A,RLJ Lodging Trust,26.72,,
 2426,RMG,RMG Acquisition Corp.,9.9,Finance,Business Services
-2427,RMG.U,RMG Acquisition Corp.,,,
-2428,RMG.WS,RMG Acquisition Corp.,,,
 2429,RRTS,"Roadrunner Transportation Systems, Inc.",9.04,Transportation,Oil Refining/Marketing
 2430,ROAN,"Roan Resources, Inc.",1.07,Energy,Oil & Gas Production
 2431,RHI,Robert Half International Inc.,55.99,Technology,Professional Services
@@ -2438,18 +1627,11 @@
 2436,ROP,"Roper Technologies, Inc.",344.13,Capital Goods,Industrial Machinery/Components
 2437,RST,Rosetta Stone,20.4,Technology,Computer Software: Prepackaged Software
 2438,RY,Royal Bank Of Canada,75.96,Finance,Commercial Banks
-2439,RY^T,Royal Bank Of Canada,32.4396,,
 2440,RBS,Royal Bank Scotland plc (The),4.89,Finance,Commercial Banks
 2441,RCL,Royal Caribbean Cruises Ltd.,107.69,Consumer Services,Marine Transportation
-2442,RDS.A,Royal Dutch Shell PLC,,,
-2443,RDS.B,Royal Dutch Shell PLC,,,
-2444,RGT,"Royce Global Value Trust, Inc.",9.91,,
-2445,RMT,"Royce Micro-Cap Trust, Inc.",7.93,,
-2446,RVT,"Royce Value Trust, Inc.",13.41,,
 2447,RES,"RPC, Inc.",5.72,Energy,Oilfield Services/Equipment
 2448,RPM,RPM International Inc.,65.04,Basic Industries,Paints/Coatings
 2449,RPT,RPT Realty,12.07,Consumer Services,Real Estate Investment Trusts
-2450,RPT^D,RPT Realty,50.77,,
 2451,RTW,"RTW Retailwinds, Inc.",1.96,Consumer Services,Clothing/Shoe/Accessory Stores
 2452,RTEC,"Rudolph Technologies, Inc.",25.28,Capital Goods,Industrial Machinery/Components
 2453,RYB,"RYB Education, Inc.",5.93,Consumer Services,Other Consumer Services
@@ -2459,13 +1641,10 @@
 2457,SPGI,S&P Global Inc.,244.18,Finance,Finance: Consumer Services
 2458,SBR,Sabine Royalty Trust,44.56,Energy,Oil & Gas Production
 2459,SB,"Safe Bulkers, Inc",1.62,Transportation,Marine Transportation
-2460,SB^C,"Safe Bulkers, Inc",21.0,,
-2461,SB^D,"Safe Bulkers, Inc",21.3475,,
 2462,SFE,"Safeguard Scientifics, Inc.",11.14,Finance,Finance/Investors Services
 2463,SAFE,Safehold Inc.,32.58,Consumer Services,Real Estate
 2464,SAIL,"SailPoint Technologies Holdings, Inc.",20.03,Technology,Computer Software: Prepackaged Software
 2465,CRM,Salesforce.com Inc,142.82,Technology,Computer Software: Prepackaged Software
-2466,SMM,Salient Midstream & MLP Fund,7.86,,
 2467,SBH,"Sally Beauty Holdings, Inc.",13.32,Consumer Services,Other Specialty Stores
 2468,SJT,San Juan Basin Royalty Trust,3.33,Energy,Oil & Gas Production
 2469,SD,"SandRidge Energy, Inc.",6.13,Energy,Oil & Gas Production
@@ -2474,14 +1653,8 @@
 2472,PER,SandRidge Permian Trust,1.84,Energy,Oil & Gas Production
 2473,SC,Santander Consumer USA Holdings Inc.,25.64,Finance,Finance: Consumer Services
 2474,SAP,SAP SE,118.73,Technology,Computer Software: Prepackaged Software
-2475,SAB,Saratoga Investment Corp,25.7982,,
-2476,SAF,Saratoga Investment Corp,25.63,,
-2477,SAR,Saratoga Investment Corp,24.35,,
 2478,SSL,Sasol Ltd.,20.19,Energy,Oil & Gas Production
 2479,BFS,"Saul Centers, Inc.",51.4,Consumer Services,Real Estate Investment Trusts
-2480,BFS^C,"Saul Centers, Inc.",25.07,,
-2481,BFS^D,"Saul Centers, Inc.",25.2661,,
-2482,SCPE.U,SC Health Corporation,,,
 2483,SLB,Schlumberger N.V.,35.99,Energy,Oilfield Services/Equipment
 2484,SNDR,"Schneider National, Inc.",18.72,Transportation,Trucking Freight/Courier Services
 2485,SWM,"Schweitzer-Mauduit International, Inc.",32.42,Basic Industries,Paper
@@ -2490,9 +1663,6 @@
 2488,SBNA,Scorpio Tankers Inc.,25.4,Transportation,Marine Transportation
 2489,STNG,Scorpio Tankers Inc.,23.67,Transportation,Marine Transportation
 2490,SMG,Scotts Miracle-Gro Company (The),108.46,Basic Industries,Agricultural Chemicals
-2491,KTF,Scudder Municiple Income Trust,11.57,,
-2492,KSM,Scudder Strategic Municiple Income Trust,12.21,,
-2493,SRL,Scully Royalty Ltd.,12.3,,
 2494,SE,Sea Limited,34.02,Consumer Services,Other Consumer Services
 2495,SA,"Seabridge Gold, Inc.",15.34,Basic Industries,Precious Metals
 2496,CKH,"SEACOR Holdings, Inc.",45.56,Transportation,Marine Transportation
@@ -2501,11 +1671,6 @@
 2499,SDLP,Seadrill Partners LLC,1.99,Energy,Oil & Gas Production
 2500,SEE,Sealed Air Corporation,43.84,Basic Industries,Major Chemicals
 2501,SSW,Seaspan Corporation,9.18,Transportation,Marine Transportation
-2502,SSW^D,Seaspan Corporation,24.62,,
-2503,SSW^E,Seaspan Corporation,24.92,,
-2504,SSW^G,Seaspan Corporation,25.1,,
-2505,SSW^H,Seaspan Corporation,24.84,,
-2506,SSW^I,Seaspan Corporation,24.4,,
 2507,SSWA,Seaspan Corporation,25.95,Transportation,Marine Transportation
 2508,SEAS,"SeaWorld Entertainment, Inc.",29.24,Consumer Services,Services-Misc. Amusement & Recreation
 2509,JBN,Select Asset Inc.,6.11,Finance,Finance: Consumer Services
@@ -2515,13 +1680,11 @@
 2513,SEMG,Semgroup Corporation,11.0,Energy,Oilfield Services/Equipment
 2514,SRE,Sempra Energy,132.12,Public Utilities,Natural Gas Distribution
 2515,SRE^A,Sempra Energy,109.31,Public Utilities,Natural Gas Distribution
-2516,SRE^B,Sempra Energy,110.89,,
 2517,SREA,Sempra Energy,26.39,Public Utilities,Natural Gas Distribution
 2518,ST,Sensata Technologies Holding plc,45.35,Capital Goods,Industrial Machinery/Components
 2519,SXT,Sensient Technologies Corporation,64.84,Basic Industries,Major Chemicals
 2520,SQNS,Sequans Communications S.A.,0.8181,Technology,Semiconductors
 2521,SRG,Seritage Growth Properties,39.33,Finance,Real Estate
-2522,SRG^A,Seritage Growth Properties,25.0201,,
 2523,SCI,Service Corporation International,44.81,Consumer Services,Other Consumer Services
 2524,SERV,"ServiceMaster Global Holdings, Inc.",51.15,Consumer Services,Other Consumer Services
 2525,NOW,"ServiceNow, Inc.",256.81,Technology,Computer Software: Prepackaged Software
@@ -2537,13 +1700,9 @@
 2535,SIG,Signet Jewelers Limited,16.15,Consumer Services,Consumer Specialties
 2536,SBOW,"SilverBow Resorces, Inc.",8.87,Energy,Oil & Gas Production
 2537,SPG,"Simon Property Group, Inc.",154.75,Consumer Services,Real Estate Investment Trusts
-2538,SPG^J,"Simon Property Group, Inc.",69.8621,,
 2539,SSD,"Simpson Manufacturing Company, Inc.",61.5,Capital Goods,Industrial Machinery/Components
 2540,SHI,"SINOPEC Shangai Petrochemical Company, Ltd.",32.68,Basic Industries,Major Chemicals
 2541,SITC,SITE Centers Corp.,13.77,Consumer Services,Real Estate Investment Trusts
-2542,SITC^A,SITE Centers Corp.,26.08,,
-2543,SITC^J,SITE Centers Corp.,25.09,,
-2544,SITC^K,SITE Centers Corp.,26.03,,
 2545,SITE,"SiteOne Landscape Supply, Inc.",71.19,Consumer Non-Durables,Farming/Seeds/Milling
 2546,SIX,Six Flags Entertainment Corporation New,51.32,Consumer Services,Services-Misc. Amusement & Recreation
 2547,SJW,SJW Group,63.29,Public Utilities,Water Supply
@@ -2551,7 +1710,6 @@
 2549,SKX,"Skechers U.S.A., Inc.",33.35,Consumer Non-Durables,Shoe Manufacturing
 2550,SKY,Skyline Champion Corporation,29.26,Basic Industries,Homebuilding
 2551,SLG,SL Green Realty Corp,77.76,Consumer Services,Real Estate Investment Trusts
-2552,SLG^I,SL Green Realty Corp,25.68,,
 2553,WORK,"Slack Technologies, Inc.",31.39,Consumer Services,Other Consumer Services
 2554,SM,SM Energy Company,9.59,Energy,Oil & Gas Production
 2555,SMAR,Smartsheet Inc.,47.16,Technology,Computer Software: Prepackaged Software
@@ -2559,8 +1717,6 @@
 2557,SNAP,Snap Inc.,16.46,Technology,"Computer Software: Programming, Data Processing"
 2558,SNA,Snap-On Incorporated,147.64,Capital Goods,Industrial Machinery/Components
 2559,IPOA,Social Capital Hedosophia Holdings Corp.,10.43,Finance,Business Services
-2560,IPOA.U,Social Capital Hedosophia Holdings Corp.,,,
-2561,IPOA.WS,Social Capital Hedosophia Holdings Corp.,,,
 2562,SQM,Sociedad Quimica y Minera S.A.,26.52,Basic Industries,Mining & Quarrying of Nonmetallic Minerals (No Fuels)
 2563,SOGO,Sogou Inc.,3.41,Technology,EDP Services
 2564,SOI,"Solaris Oilfield Infrastructure, Inc.",13.29,Energy,Metal Fabrications
@@ -2569,14 +1725,8 @@
 2567,SON,Sonoco Products Company,57.92,Consumer Durables,Containers/Packaging
 2568,SNE,Sony Corp Ord,53.65,Consumer Non-Durables,Consumer Electronics/Appliances
 2569,BID,Sotheby&#39;s,58.31,Miscellaneous,Business Services
-2570,SOR,"Source Capital, Inc.",35.43,,
 2571,SJI,"South Jersey Industries, Inc.",32.04,Public Utilities,Oil/Gas Transmission
 2572,SJIU,"South Jersey Industries, Inc.",51.3,Public Utilities,Oil/Gas Transmission
-2573,SCE^G,Southern California Edison Company,23.24,,
-2574,SCE^H,Southern California Edison Company,24.65,,
-2575,SCE^J,Southern California Edison Company,23.95,,
-2576,SCE^K,Southern California Edison Company,24.15,,
-2577,SCE^L,Southern California Edison Company,23.15,,
 2578,SO,Southern Company (The),55.93,Public Utilities,Electric Utilities: Central
 2579,SOJA,Southern Company (The),25.94,Public Utilities,Electric Utilities: Central
 2580,SOJB,Southern Company (The),26.03,Public Utilities,Electric Utilities: Central
@@ -2586,19 +1736,13 @@
 2584,SWX,"Southwest Gas Holdings, Inc.",87.58,Public Utilities,Oil & Gas Production
 2585,SWN,Southwestern Energy Company,1.94,Energy,Oil & Gas Production
 2586,SPAQ,Spartan Energy Acquisition Corp,9.99,Finance,Business Services
-2587,SPAQ.U,Spartan Energy Acquisition Corp,,,
-2588,SPAQ.WS,Spartan Energy Acquisition Corp,,,
-2589,SPE,Special Opportunities Fund Inc.,13.73,,
-2590,SPE^B,Special Opportunities Fund Inc.,25.252,,
 2591,SPB           ,"Spectrum Brands Holdings, Inc.",46.35,Miscellaneous,Industrial Machinery/Components
 2592,TRK,"Speedway Motorsports, Inc.",19.78,Consumer Services,Services-Misc. Amusement & Recreation
 2593,SR,Spire Inc.,79.96,Public Utilities,Oil/Gas Transmission
-2594,SR^A,Spire Inc.,27.15,,
 2595,SPR,"Spirit Aerosystems Holdings, Inc.",72.8,Capital Goods,Military/Government/Technical
 2596,SAVE,"Spirit Airlines, Inc.",41.36,Transportation,Air Freight/Delivery Services
 2597,SMTA,Spirit MTA REIT,8.36,Consumer Services,Real Estate Investment Trusts
 2598,SRC,"Spirit Realty Capital, Inc.",43.17,Consumer Services,Building operators
-2599,SRC^A,"Spirit Realty Capital, Inc.",25.77,,
 2600,SPOT,Spotify Technology S.A.,150.0,Consumer Services,Broadcasting
 2601,SRLP,Sprague Resources LP,17.57,Energy,Oil Refining/Marketing
 2602,S,Sprint Corporation,6.66,Public Utilities,Telecommunications Equipment
@@ -2607,7 +1751,6 @@
 2605,SQ,"Square, Inc.",64.85,Technology,Computer Software: Prepackaged Software
 2606,JOE,St. Joe Company (The),17.34,Consumer Services,Homebuilding
 2607,STAG,"Stag Industrial, Inc.",28.62,Consumer Services,Real Estate Investment Trusts
-2608,STAG^C,"Stag Industrial, Inc.",27.3,,
 2609,SSI,"Stage Stores, Inc.",0.6486,Consumer Services,Clothing/Shoe/Accessory Stores
 2610,SMP,"Standard Motor Products, Inc.",43.41,Capital Goods,Auto Parts:O.E.M.
 2611,SXI,Standex International Corporation,63.05,Technology,Industrial Machinery/Components
@@ -2619,15 +1762,8 @@
 2617,SRT,"StarTek, Inc.",6.73,Technology,Professional Services
 2618,STWD,"STARWOOD PROPERTY TRUST, INC.",22.75,Consumer Services,Real Estate Investment Trusts
 2619,STT,State Street Corporation,53.8,Finance,Major Banks
-2620,STT^C,State Street Corporation,25.28,,
-2621,STT^D,State Street Corporation,26.77,,
-2622,STT^E,State Street Corporation,25.519000000000002,,
-2623,STT^G,State Street Corporation,26.84,,
 2624,SPLP,Steel Partners Holdings LP,13.4,Capital Goods,Industrial Specialties
-2625,SPLP^A,Steel Partners Holdings LP,21.5045,,
 2626,SCS,Steelcase Inc.,15.74,Consumer Durables,Office Equipment/Supplies/Services
-2627,SCA,Stellus Capital Investment Corporation,25.38,,
-2628,SCM,Stellus Capital Investment Corporation,14.02,,
 2629,SCL,Stepan Company,94.02,Basic Industries,Package Goods/Cosmetics
 2630,STE,STERIS plc,144.61,Health Care,Industrial Specialties
 2631,STL,Sterling Bancorp,19.58,Finance,Major Banks
@@ -2635,11 +1771,8 @@
 2633,STC,Stewart Information Services Corporation,37.29,Finance,Specialty Insurers
 2634,SF,Stifel Financial Corporation,53.73,Finance,Investment Bankers/Brokers/Service
 2635,SF^A,Stifel Financial Corporation,27.587,Finance,Investment Bankers/Brokers/Service
-2636,SF^B,Stifel Financial Corporation,27.1,,
 2637,SFB,Stifel Financial Corporation,25.73,Finance,Investment Bankers/Brokers/Service
 2638,STM,STMicroelectronics N.V.,16.82,Technology,Semiconductors
-2639,EDF,Stone Harbor Emerging Markets Income Fund,13.64,,
-2640,EDI,Stone Harbor Emerging Markets Total Income Fund,12.41,,
 2641,STON,StoneMor Partners L.P.,1.69,Consumer Services,Other Consumer Services
 2642,SRI,"Stoneridge, Inc.",31.01,Capital Goods,Auto Parts:O.E.M.
 2643,STOR,STORE Capital Corporation,34.62,Consumer Services,Real Estate Investment Trusts
@@ -2652,8 +1785,6 @@
 2650,SPH,"Suburban Propane Partners, L.P.",23.24,Consumer Services,Other Specialty Stores
 2651,SMFG,Sumitomo Mitsui Financial Group Inc,6.78,Finance,Commercial Banks
 2652,INN,"Summit Hotel Properties, Inc.",11.17,Consumer Services,Real Estate Investment Trusts
-2653,INN^D,"Summit Hotel Properties, Inc.",26.1757,,
-2654,INN^E,"Summit Hotel Properties, Inc.",25.52,,
 2655,SUM,"Summit Materials, Inc.",18.99,Basic Industries,Mining & Quarrying of Nonmetallic Minerals (No Fuels)
 2656,SMLP,"Summit Midstream Partners, LP",7.52,Public Utilities,Natural Gas Distribution
 2657,SUI,"Sun Communities, Inc.",133.1,Consumer Services,Real Estate Investment Trusts
@@ -2664,29 +1795,19 @@
 2662,NOVA,Sunnova Energy International Inc.,10.81,Public Utilities,Power Generation
 2663,SUN,Sunoco LP,31.64,Energy,Integrated oil Companies
 2664,SHO,"Sunstone Hotel Investors, Inc.",13.01,Consumer Services,Hotels/Resorts
-2665,SHO^E,"Sunstone Hotel Investors, Inc.",26.62,,
-2666,SHO^F,"Sunstone Hotel Investors, Inc.",26.12,,
 2667,STI,"SunTrust Banks, Inc.",61.02,Finance,Major Banks
-2668,STI^A,"SunTrust Banks, Inc.",22.7,,
 2669,SPN,"Superior Energy Services, Inc.",0.68,Energy,Oilfield Services/Equipment
 2670,SUP,"Superior Industries International, Inc.",2.61,Capital Goods,Auto Parts:O.E.M.
 2671,SUZ,Suzano S.A.,15.09,Basic Industries,Paper
-2672,SWZ,"Swiss Helvetia Fund, Inc. (The)",7.77,,
 2673,SWCH,"Switch, Inc.",13.55,Technology,"Computer Software: Programming, Data Processing"
-2674,SBE.U,Switchback Energy Acquisition Corporation,,,
 2675,SYF,Synchrony Financial,33.74,Finance,Finance: Consumer Services
 2676,SNX,Synnex Corporation,85.58,Technology,Retail: Computer Software & Peripheral Equipment
 2677,SNV,Synovus Financial Corp.,34.64,Finance,Major Banks
-2678,SNV^D,Synovus Financial Corp.,26.43,,
-2679,SNV^E,Synovus Financial Corp.,25.77,,
-2680,GJP,"Synthetic Fixed-Income Securities, Inc.",22.1142,,
-2681,GJR,"Synthetic Fixed-Income Securities, Inc.",22.2305,,
 2682,GJT,"Synthetic Fixed-Income Securities, Inc.",20.75,Finance,Finance: Consumer Services
 2683,GJV,"Synthetic Fixed-Income Securities, Inc.",26.77,Finance,Finance: Consumer Services
 2684,SYY,Sysco Corporation,67.14,Consumer Non-Durables,Food Distributors
 2685,SYX,Systemax Inc.,20.03,Capital Goods,Industrial Machinery/Components
 2686,TLRD,"Tailored Brands, Inc.",4.52,Consumer Services,Clothing/Shoe/Accessory Stores
-2687,TWN,"Taiwan Fund, Inc. (The)",16.64,,
 2688,TSM,Taiwan Semiconductor Manufacturing Company Ltd.,39.87,Technology,Semiconductors
 2689,TAK,Takeda Pharmaceutical Company Limited,17.37,Health Care,Major Pharmaceuticals
 2690,TAL,TAL Education Group,30.98,Consumer Services,Other Consumer Services
@@ -2694,38 +1815,25 @@
 2692,TALO,"Talos Energy, Inc.",19.24,Energy,Oil & Gas Production
 2693,SKT,"Tanger Factory Outlet Centers, Inc.",15.48,Consumer Services,Real Estate Investment Trusts
 2694,TPR,"Tapestry, Inc.",27.84,Consumer Non-Durables,Apparel
-2695,NGLS^A,Targa Resources Partners LP,26.81,,
 2696,TRGP,"Targa Resources, Inc.",35.51,Public Utilities,Natural Gas Distribution
 2697,TGT,Target Corporation,80.79,Consumer Services,Department/Specialty Retail Stores
 2698,TARO,Taro Pharmaceutical Industries Ltd.,79.53,Health Care,Major Pharmaceuticals
 2699,TTM,Tata Motors Ltd,8.69,Capital Goods,Auto Manufacturing
 2700,TCO,"Taubman Centers, Inc.",39.62,Consumer Services,Real Estate Investment Trusts
-2701,TCO^J,"Taubman Centers, Inc.",25.25,,
-2702,TCO^K,"Taubman Centers, Inc.",25.83,,
 2703,TMHC,Taylor Morrison Home Corporation,22.15,Capital Goods,Homebuilding
 2704,TRP,TC Energy Corporation,47.83,Public Utilities,Natural Gas Distribution
 2705,TCP,"TC PipeLines, LP",38.61,Public Utilities,Natural Gas Distribution
-2706,TSI,"TCW Strategic Income Fund, Inc.",5.73,,
 2707,TEL,TE Connectivity Ltd.,87.68,Technology,Electronic Components
 2708,TISI,"Team, Inc.",15.51,Consumer Services,Other Consumer Services
 2709,FTI,TechnipFMC plc,24.75,Energy,Metal Fabrications
 2710,TECK,Teck Resources Ltd,17.91,Basic Industries,Mining & Quarrying of Nonmetallic Minerals (No Fuels)
 2711,TK,Teekay Corporation,3.67,Transportation,Marine Transportation
 2712,TGP,Teekay LNG Partners L.P.,14.03,Consumer Services,Marine Transportation
-2713,TGP^A,Teekay LNG Partners L.P.,25.8013,,
-2714,TGP^B,Teekay LNG Partners L.P.,24.65,,
 2715,TOO,Teekay Offshore Partners L.P.,1.125,Consumer Services,Marine Transportation
-2716,TOO^A,Teekay Offshore Partners L.P.,16.89,,
-2717,TOO^B,Teekay Offshore Partners L.P.,17.44,,
-2718,TOO^E,Teekay Offshore Partners L.P.,16.95,,
 2719,TNK,Teekay Tankers Ltd.,1.04,Consumer Services,Marine Transportation
 2720,GCI,TEGNA Inc.,11.04,Consumer Services,Newspapers/Magazines
 2721,TGNA,TEGNA Inc.,15.1,Consumer Services,Broadcasting
 2722,TRC,Tejon Ranch Co,17.18,Finance,Real Estate
-2723,HQH,Tekla Healthcare Investors,19.01,,
-2724,THQ,Tekla Healthcare Opportunies Fund,17.02,,
-2725,HQL,Tekla Life Sciences Investors,15.78,,
-2726,THW,Tekla World Healthcare Fund,13.01,,
 2727,TDOC,"Teladoc Health, Inc.",65.6,Health Care,Medical/Nursing Services
 2728,TLRA,"Telaria, Inc.",8.58,Technology,Advertising
 2729,TEO,Telecom Argentina Stet - France Telecom S.A.,15.97,Public Utilities,Telecommunications Equipment
@@ -2739,10 +1847,6 @@
 2737,TDJ,"Telephone and Data Systems, Inc.",25.41,Public Utilities,Telecommunications Equipment
 2738,TDS,"Telephone and Data Systems, Inc.",27.15,Public Utilities,Telecommunications Equipment
 2739,TU,TELUS Corporation,35.67,Public Utilities,Telecommunications Equipment
-2740,TDF,"Templeton Dragon Fund, Inc.",18.08,,
-2741,EMF,Templeton Emerging Markets Fund,14.5,,
-2742,TEI,"Templeton Emerging Markets Income Fund, Inc.",10.12,,
-2743,GIM,"Templeton Global Income Fund, Inc.",6.29,,
 2744,TPX,"Tempur Sealy International, Inc.",74.28,Consumer Durables,Home Furnishings
 2745,TS,Tenaris S.A.,23.4,Basic Industries,Steel/Iron Ore
 2746,TME,Tencent Music Entertainment Group,13.77,Consumer Services,Broadcasting
@@ -2762,38 +1866,19 @@
 2760,TXT,Textron Inc.,46.65,Capital Goods,Aerospace
 2761,AES,The AES Corporation,16.32,Basic Industries,Electric Utilities: Central
 2762,BX,The Blackstone Group Inc.,44.53,Finance,Investment Managers
-2763,CEE,"The Central and Eastern Europe Fund, Inc.",25.5,,
 2764,SCHW,The Charles Schwab Corporation,38.84,Finance,Investment Bankers/Brokers/Service
-2765,SCHW^C,The Charles Schwab Corporation,27.0289,,
-2766,SCHW^D,The Charles Schwab Corporation,26.82,,
 2767,COO,"The Cooper Companies, Inc. ",325.68,Health Care,Ophthalmic Goods
-2768,GDV,The Gabelli Dividend & Income Trust,20.83,,
-2769,GDV^A,The Gabelli Dividend & Income Trust,26.35,,
-2770,GDV^D,The Gabelli Dividend & Income Trust,26.2931,,
-2771,GDV^G,The Gabelli Dividend & Income Trust,25.32,,
-2772,GDV^H,The Gabelli Dividend & Income Trust,25.63,,
-2773,GRX,The Gabelli Healthcare & Wellness Trust,10.33,,
-2774,GRX^A,The Gabelli Healthcare & Wellness Trust,26.0575,,
-2775,GRX^B,The Gabelli Healthcare & Wellness Trust,26.04,,
-2776,GDL,The GDL Fund,9.33,,
-2777,GDL^C,The GDL Fund,50.7859,,
 2778,THG,"The Hanover Insurance Group, Inc.",128.24,Finance,Property-Casualty Insurers
 2779,THGA,"The Hanover Insurance Group, Inc.",25.38,Finance,Property-Casualty Insurers
 2780,MSG,The Madison Square Garden Company,281.23,Consumer Services,Services-Misc. Amusement & Recreation
 2781,RUBI,"The Rubicon Project, Inc.",9.84,Technology,"Computer Software: Programming, Data Processing"
 2782,TRV,"The Travelers Companies, Inc.",143.93,Finance,Property-Casualty Insurers
-2783,VAM,The Vivaldi Opportunities Fund,13.91,,
 2784,TMO,Thermo Fisher Scientific Inc,268.46,Capital Goods,Industrial Machinery/Components
 2785,THR,"Thermon Group Holdings, Inc.",23.81,Energy,Industrial Machinery/Components
 2786,TPRE,Third Point Reinsurance Ltd.,9.31,Finance,Property-Casualty Insurers
-2787,TSLF,THL Credit Senior Loan Fund,14.97,,
-2788,TCRW,"THL Credit, Inc.",25.968000000000004,,
-2789,TCRZ,"THL Credit, Inc.",25.41,,
 2790,TRI,Thomson Reuters Corp,64.89,Consumer Services,Publishing
 2791,THO,"Thor Industries, Inc.",54.35,Consumer Non-Durables,Homebuilding
 2792,TDW,Tidewater Inc.,19.94,Consumer Services,Marine Transportation
-2793,TDW.WS.A,Tidewater Inc.,,,
-2794,TDW.WS.B,Tidewater Inc.,,,
 2795,TIF,Tiffany & Co.,87.86,Consumer Services,Consumer Specialties
 2796,TLYS,"Tilly&#39;s, Inc.",7.8,Consumer Services,Clothing/Shoe/Accessory Stores
 2797,TSU,TIM Participacoes S.A.,15.45,Public Utilities,Telecommunications Equipment
@@ -2805,28 +1890,16 @@
 2803,TR,"Tootsie Roll Industries, Inc.",35.24,Consumer Non-Durables,Specialty Foods
 2804,BLD,TopBuild Corp.,87.85,Basic Industries,Engineering & Construction
 2805,TMK,Torchmark Corporation,84.71,Finance,Life Insurance
-2806,TMK^C,Torchmark Corporation,26.51,,
 2807,TTC,Toro Company (The),70.21,Capital Goods,Tools/Hardware
 2808,TD,Toronto Dominion Bank (The),55.88,Finance,Commercial Banks
 2809,SHLL,Tortoise Acquisition Corp.,9.77,Finance,Business Services
-2810,SHLL.U,Tortoise Acquisition Corp.,,,
-2811,SHLL.WS,Tortoise Acquisition Corp.,,,
-2812,NDP,"Tortoise Energy Independence Fund, Inc.",5.18,,
-2813,TYG,Tortoise Energy Infrastructure Corporation,21.39,,
-2814,TEAF,Tortoise Essential Assets Income Term Fund,17.7,,
-2815,NTG,"Tortoise Midstream Energy Fund, Inc.",12.63,,
-2816,TTP,"Tortoise Pipeline & Energy Fund, Inc.",13.51,,
-2817,TPZ,"Tortoise Power and Energy Infrastructure Fund, Inc",17.15,,
 2818,TOT,Total S.A.,49.14,Energy,Oil & Gas Production
 2819,TSS,"Total System Services, Inc.",124.07,Miscellaneous,Business Services
 2820,TOWR,"Tower International, Inc.",30.91,Capital Goods,Auto Parts:O.E.M.
 2821,TSQ,"Townsquare Media, Inc.",5.22,Consumer Services,Broadcasting
 2822,TM,Toyota Motor Corp Ltd Ord,128.3,Capital Goods,Auto Manufacturing
 2823,TPGH,TPG Pace Holdings Corp.,10.28,Finance,Business Services
-2824,TPGH.U,TPG Pace Holdings Corp.,,,
-2825,TPGH.WS,TPG Pace Holdings Corp.,,,
 2826,TRTX,"TPG RE Finance Trust, Inc.",19.4,Consumer Services,Real Estate Investment Trusts
-2827,TSLX,"TPG Specialty Lending, Inc.",19.99,,
 2828,TAC,TransAlta Corporation,5.94,Public Utilities,Electric Utilities: Central
 2829,TCI,"Transcontinental Realty Investors, Inc.",24.8,Consumer Services,Real Estate Investment Trusts
 2830,TDG,Transdigm Group Incorporated,461.33,Capital Goods,Military/Government/Technical
@@ -2837,30 +1910,19 @@
 2835,TG,Tredegar Corporation,15.86,Capital Goods,Metal Fabrications
 2836,THS,"Treehouse Foods, Inc.",53.54,Consumer Non-Durables,Packaged Foods
 2837,TREX,"Trex Company, Inc.",79.68,Basic Industries,Forest Products
-2838,TY,Tri Continental Corporation,26.41,,
 2839,TY^,Tri Continental Corporation,52.8897,Consumer Services,Miscellaneous
 2840,TPH,"TRI Pointe Group, Inc.",13.36,Capital Goods,Homebuilding
 2841,TRCO,Tribune Media Company,46.55,Consumer Services,Broadcasting
 2842,TRNE,Trine Acquisition Corp.,9.78,Finance,Business Services
-2843,TRNE.U,Trine Acquisition Corp.,,,
-2844,TRNE.WS,Trine Acquisition Corp.,,,
 2845,TNET,"TriNet Group, Inc.",68.21,Miscellaneous,Business Services
 2846,TRN,"Trinity Industries, Inc.",18.9,Capital Goods,Railroads
 2847,TSE,Trinseo S.A.,33.52,Basic Industries,Major Chemicals
-2848,TPVG,TriplePoint Venture Growth BDC Corp.,14.86,,
-2849,TPVY,TriplePoint Venture Growth BDC Corp.,25.75,,
 2850,GTS,Triple-S Management Corporation,21.74,Finance,Accident &Health Insurance
 2851,TRTN,Triton International Limited,30.38,Technology,Diversified Commercial Services
-2852,TRTN^A,Triton International Limited,26.84,,
-2853,TRTN^B,Triton International Limited,26.15,,
 2854,TGI,"Triumph Group, Inc.",23.05,Capital Goods,Aerospace
 2855,TROX,Tronox Holdings plc,9.2,Basic Industries,Major Chemicals
 2856,TBI,"TrueBlue, Inc.",19.5,Technology,Professional Services
 2857,TNP,Tsakos Energy Navigation Ltd,2.75,Transportation,Marine Transportation
-2858,TNP^C,Tsakos Energy Navigation Ltd,25.7106,,
-2859,TNP^D,Tsakos Energy Navigation Ltd,21.8,,
-2860,TNP^E,Tsakos Energy Navigation Ltd,22.18,,
-2861,TNP^F,Tsakos Energy Navigation Ltd,21.8508,,
 2862,TUFN,Tufin Software Technologies Ltd.,19.66,Technology,EDP Services
 2863,TUP,Tupperware Brands Corporation,15.03,Consumer Non-Durables,Plastic Products
 2864,TKC,Turkcell Iletisim Hizmetleri AS,5.44,Public Utilities,Telecommunications Equipment
@@ -2871,19 +1933,10 @@
 2869,TRWH,"Twin River Worldwide Holdings, Inc.",24.6,Consumer Services,Hotels/Resorts
 2870,TWTR,"Twitter, Inc.",40.37,Technology,"Computer Software: Programming, Data Processing"
 2871,TWO,Two Harbors Investments Corp,12.96,Consumer Services,Real Estate Investment Trusts
-2872,TWO^A,Two Harbors Investments Corp,26.86,,
-2873,TWO^B,Two Harbors Investments Corp,26.11,,
-2874,TWO^C,Two Harbors Investments Corp,25.33,,
-2875,TWO^D,Two Harbors Investments Corp,25.3001,,
-2876,TWO^E,Two Harbors Investments Corp,25.209,,
 2877,TYL,"Tyler Technologies, Inc.",241.25,Technology,Computer Software: Prepackaged Software
 2878,TSN,"Tyson Foods, Inc.",83.83,Consumer Non-Durables,Meat/Poultry/Fish
 2879,USB,U.S. Bancorp,53.05,Finance,Major Banks
 2880,USB^A,U.S. Bancorp,825.2488,Finance,Major Banks
-2881,USB^H,U.S. Bancorp,20.56,,
-2882,USB^M,U.S. Bancorp,27.12,,
-2883,USB^O,U.S. Bancorp,25.29,,
-2884,USB^P,U.S. Bancorp,26.32,,
 2885,USPH,"U.S. Physical Therapy, Inc.",122.2,Health Care,Medical/Nursing Services
 2886,SLCA,"U.S. Silica Holdings, Inc.",11.19,Basic Industries,Mining & Quarrying of Nonmetallic Minerals (No Fuels)
 2887,USX,"U.S. Xpress Enterprises, Inc.",4.44,Transportation,Trucking Freight/Courier Services
@@ -2893,9 +1946,6 @@
 2891,UGI,UGI Corporation,49.42,Public Utilities,Natural Gas Distribution
 2892,UGP,Ultrapar Participacoes S.A.,4.81,Public Utilities,Oil/Gas Transmission
 2893,UMH,"UMH Properties, Inc.",12.68,Consumer Services,Real Estate Investment Trusts
-2894,UMH^B,"UMH Properties, Inc.",26.4,,
-2895,UMH^C,"UMH Properties, Inc.",25.6521,,
-2896,UMH^D,"UMH Properties, Inc.",25.1799,,
 2897,UA,"Under Armour, Inc.",18.4,Consumer Non-Durables,Apparel
 2898,UAA,"Under Armour, Inc.",20.82,Consumer Non-Durables,Apparel
 2899,UFI,"Unifi, Inc.",18.13,Consumer Non-Durables,Textiles
@@ -2928,17 +1978,13 @@
 2926,UE,Urban Edge Properties,16.24,Finance,Real Estate
 2927,UBA,Urstadt Biddle Properties Inc.,20.83,Consumer Services,Real Estate Investment Trusts
 2928,UBP,Urstadt Biddle Properties Inc.,16.28,Consumer Services,Real Estate Investment Trusts
-2929,UBP^G,Urstadt Biddle Properties Inc.,25.6999,,
-2930,UBP^H,Urstadt Biddle Properties Inc.,27.04,,
 2931,USFD,US Foods Holding Corp.,35.14,Consumer Non-Durables,Food Distributors
 2932,USAC,"USA Compression Partners, LP",16.36,Public Utilities,Natural Gas Distribution
 2933,USNA,"USANA Health Sciences, Inc.",65.78,Consumer Durables,Specialty Chemicals
 2934,USDP,USD Partners LP,10.66,Transportation,Railroads
-2935,BIF,"USLIFE Income Fund, Inc.",10.72,,
 2936,VFC,V.F. Corporation,80.46,Consumer Non-Durables,Apparel
 2937,EGY,"VAALCO Energy, Inc. ",1.66,Energy,Oil & Gas Production
 2938,MTN,"Vail Resorts, Inc.",234.12,Consumer Services,Services-Misc. Amusement & Recreation
-2939,VAL,Valaris plc,5.23,,
 2940,VALE,VALE S.A.,11.56,Basic Industries,Precious Metals
 2941,VLO,Valero Energy Corporation,75.78,Energy,Integrated oil Companies
 2942,VHI,"Valhi, Inc.",1.98,Basic Industries,Major Chemicals
@@ -2954,27 +2000,21 @@
 2952,VTR,"Ventas, Inc.",67.87,Consumer Services,Real Estate Investment Trusts
 2953,VNE,"Veoneer, Inc.",17.1,Capital Goods,Auto Parts:O.E.M.
 2954,VER,VEREIT Inc.,8.97,Consumer Services,Real Estate Investment Trusts
-2955,VER^F,VEREIT Inc.,25.42,,
 2956,VRTV,Veritiv Corporation,14.22,Consumer Services,Paper
 2957,VZ,Verizon Communications Inc.,55.22,Public Utilities,Telecommunications Equipment
 2958,VET,Vermilion Energy Inc.,16.42,Energy,Oil & Gas Production
 2959,VRS,Verso Corporation,14.14,Basic Industries,Paper
 2960,VSM,"Versum Materials, Inc.",51.65,Basic Industries,Major Chemicals
-2961,VCIF,Vertical Capital Income Fund,10.33,,
 2962,VVI,Viad Corp,66.43,Miscellaneous,Business Services
 2963,VICI,VICI Properties Inc.,20.85,Consumer Services,Real Estate Investment Trusts
 2964,VNCE,Vince Holding Corp.,12.64,Consumer Services,Clothing/Shoe/Accessory Stores
 2965,VIPS,Vipshop Holdings Limited,6.6,Consumer Services,Catalog/Specialty Distribution
-2966,ZTR,Virtus Global Dividend & Income Fund Inc.,11.02,,
-2967,VGI,Virtus Global Multi-Sector Income Fund,12.59,,
-2968,ZF,Virtus Total Return Fund Inc.,10.4,,
 2969,V,Visa Inc.,168.86,Miscellaneous,Business Services
 2970,VSH,"Vishay Intertechnology, Inc.",15.87,Capital Goods,Electrical Products
 2971,VPG,"Vishay Precision Group, Inc.",39.14,Capital Goods,Electrical Products
 2972,VIST,"Vista Oil & Gas, S.A.B. de C.V.",8.75,Energy,Oil & Gas Production
 2973,VSTO,Vista Outdoor Inc.,7.53,Capital Goods,Ordnance And Accessories
 2974,VST,Vistra Energy Corp.,21.72,Public Utilities,Electric Utilities: Central
-2975,VST.WS.A,Vistra Energy Corp.,,,
 2976,VSI,"Vitamin Shoppe, Inc",4.33,Consumer Non-Durables,Food Chains
 2977,VSLR,"Vivint Solar, Inc.",8.31,Capital Goods,Building Products
 2978,VMW,"Vmware, Inc.",155.76,Technology,Computer Software: Prepackaged Software
@@ -2982,28 +2022,12 @@
 2980,VCRA,"Vocera Communications, Inc.",26.38,Capital Goods,Telecommunications Equipment
 2981,VG,Vonage Holdings Corp.,11.71,Public Utilities,Telecommunications Equipment
 2982,VNO,Vornado Realty Trust,61.04,Consumer Services,Real Estate Investment Trusts
-2983,VNO^K,Vornado Realty Trust,25.23,,
-2984,VNO^L,Vornado Realty Trust,24.95,,
-2985,VNO^M,Vornado Realty Trust,25.18,,
 2986,VJET,voxeljet AG,1.765,Capital Goods,Industrial Machinery/Components
-2987,IAE,Voya Asia Pacific High Dividend Equity Income Fund,8.18,,
-2988,IHD,Voya Emerging Markets High Income Dividend Equity Fund,6.88,,
 2989,VOYA,"Voya Financial, Inc.",52.4,Finance,Life Insurance
-2990,VOYA^B,"Voya Financial, Inc.",25.91,,
-2991,IGA,Voya Global Advantage and Premium Opportunity Fund,10.59,,
-2992,IGD,Voya Global Equity Dividend and Premium Opportunity Fund,6.42,,
-2993,IDE,"Voya Infrastructure, Industrials and Materials Fund",11.14,,
-2994,IID,Voya International High Dividend Equity Income Fund,5.55,,
-2995,IRR,Voya Natural Resources Equity Income Fund,4.47,,
-2996,PPR,Voya Prime Rate Trust,4.75,,
 2997,VMC,Vulcan Materials Company,137.58,Basic Industries,Mining & Quarrying of Nonmetallic Minerals (No Fuels)
 2998,WTI,"W&T Offshore, Inc.",4.19,Energy,Oil & Gas Production
 2999,WPC,W.P. Carey Inc.,83.45,Consumer Services,Real Estate Investment Trusts
 3000,WRB,W.R. Berkley Corporation,67.88,Finance,Property-Casualty Insurers
-3001,WRB^B,W.R. Berkley Corporation,25.88,,
-3002,WRB^C,W.R. Berkley Corporation,27.12,,
-3003,WRB^D,W.R. Berkley Corporation,25.895,,
-3004,WRB^E,W.R. Berkley Corporation,26.349,,
 3005,GRA,W.R. Grace & Co.,66.82,Basic Industries,Major Chemicals
 3006,GWW,"W.W. Grainger, Inc.",268.83,Consumer Services,Office Equipment/Supplies/Services
 3007,WNC,Wabash National Corporation,15.05,Capital Goods,Construction/Ag Equipment/Trucks
@@ -3015,18 +2039,13 @@
 3013,DIS,Walt Disney Company (The),138.3,Consumer Services,Services-Misc. Amusement & Recreation
 3014,HCC,"Warrior Met Coal, Inc.",21.48,Energy,Coal Mining
 3015,WPG,Washington Prime Group Inc.,3.54,Consumer Services,Real Estate Investment Trusts
-3016,WPG^H,Washington Prime Group Inc.,20.4,,
-3017,WPG^I,Washington Prime Group Inc.,18.845,,
-3018,WRE,Washington Real Estate Investment Trust,25.56,,
 3019,WCN,"Waste Connections, Inc.",88.59,Public Utilities,Environmental Services
 3020,WM,"Waste Management, Inc.",113.77,Public Utilities,Environmental Services
 3021,WAT,Waters Corporation,204.31,Capital Goods,Biotechnology: Laboratory Analytical Instruments
 3022,WSO,"Watsco, Inc.",154.03,Consumer Durables,Industrial Machinery/Components
-3023,WSO.B,"Watsco, Inc.",,,
 3024,WTS,"Watts Water Technologies, Inc.",91.59,Capital Goods,Metal Fabrications
 3025,W,Wayfair Inc.,123.18,Consumer Services,Catalog/Specialty Distribution
 3026,WBS,Webster Financial Corporation,46.51,Finance,Major Banks
-3027,WBS^F,Webster Financial Corporation,25.11,,
 3028,WEC,"WEC Energy Group, Inc.",87.03,Public Utilities,Power Generation
 3029,WEI,Weidai Ltd.,7.9,Finance,Finance: Consumer Services
 3030,WRI,Weingarten Realty Investors,27.27,Consumer Services,Real Estate Investment Trusts
@@ -3034,45 +2053,13 @@
 3032,WBT,"Welbilt, Inc.",15.55,Technology,Industrial Machinery/Components
 3033,WCG,"WellCare Health Plans, Inc.",274.56,Health Care,Medical Specialities
 3034,WFC,Wells Fargo & Company,46.14,Finance,Major Banks
-3035,WFC^L,Wells Fargo & Company,1400.0,,
-3036,WFC^N,Wells Fargo & Company,25.49,,
-3037,WFC^O,Wells Fargo & Company,25.48,,
-3038,WFC^P,Wells Fargo & Company,25.42,,
-3039,WFC^Q,Wells Fargo & Company,26.15,,
-3040,WFC^R,Wells Fargo & Company,28.4335,,
-3041,WFC^T,Wells Fargo & Company,25.43,,
-3042,WFC^V,Wells Fargo & Company,26.13,,
-3043,WFC^W,Wells Fargo & Company,26.32,,
-3044,WFC^X,Wells Fargo & Company,25.647,,
-3045,WFC^Y,Wells Fargo & Company,26.2,,
-3046,WFE^A,Wells Fargo & Company,25.49,,
-3047,EOD,Wells Fargo Global Dividend Opportunity Fund,5.37,,
 3048,WELL,Welltower Inc.,84.84,Consumer Services,Real Estate Investment Trusts
 3049,WAIR,"Wesco Aircraft Holdings, Inc.",9.78,Capital Goods,Wholesale Distributors
 3050,WCC,"WESCO International, Inc.",44.76,Consumer Non-Durables,Telecommunications Equipment
 3051,WST,"West Pharmaceutical Services, Inc.",133.64,Basic Industries,Specialty Chemicals
 3052,WAL,Western Alliance Bancorporation,44.35,Finance,Major Banks
 3053,WALA,Western Alliance Bancorporation,26.88,Finance,Major Banks
-3054,WEA,Western Asset Bond Fund,13.915,,
-3055,TLI,Western Asset Corporate Loan Fund Inc,9.62,,
-3056,EMD,Western Asset Emerging Markets Debt Fund Inc,14.13,,
-3057,GDO,Western Asset Global Corporate Defined Opportunity Fund Inc.,17.0,,
-3058,EHI,Western Asset Global High Income Fund Inc,9.83,,
-3059,HIX,Western Asset High Income Fund II Inc.,6.88,,
-3060,HIO,"Western Asset High Income Opportunity Fund, Inc.",4.98,,
-3061,HYI,Western Asset High Yield Defined Opportunity Fund Inc.,15.25,,
-3062,SBI,Western Asset Intermediate Muni Fund Inc,9.17,,
-3063,IGI,Western Asset Investment Grade Defined Opportunity Trust Inc.,20.94,,
-3064,PAI,Western Asset Investment Grade Income Fund Inc.,15.62,,
-3065,MMU,"Western Asset Managed Municipals Fund, Inc.",14.93,,
 3066,WMC,Western Asset Mortgage Capital Corporation,9.91,Consumer Services,Real Estate Investment Trusts
-3067,DMO,Western Asset Mortgage Defined Opportunity Fund Inc,21.69,,
-3068,MTT,Western Asset Municipal Defined Opportunity Trust Inc,22.01,,
-3069,MHF,"Western Asset Municipal High Income Fund, Inc.",7.58,,
-3070,MNP,"Western Asset Municipal Partners Fund, Inc.",15.28,,
-3071,GFY,Western Asset Variable Rate Strategic Fund Inc.,16.4031,,
-3072,WIW,Western Asset/Claymore U.S Treasury Inflation Prot Secs Fd 2,11.22,,
-3073,WIA,Western Asset/Claymore U.S. Treasury Inflation Prot Secs Fd,11.61,,
 3074,WES,"Western Midstream Partners, LP",25.15,Public Utilities,Natural Gas Distribution
 3075,WU,Western Union Company (The),21.05,Miscellaneous,Business Services
 3076,WAB,Westinghouse Air Brake Technologies Corporation,72.5,Capital Goods,Railroads
@@ -3105,7 +2092,6 @@
 3103,WYND,"Wyndham Destinations, Inc.",40.35,Consumer Services,Hotels/Resorts
 3104,WH,"Wyndham Hotels & Resorts, Inc.",53.52,Consumer Services,Hotels/Resorts
 3105,XYF,X Financial,2.86,Finance,Finance: Consumer Services
-3106,XFLT,XAI Octagon Floating Rate & Alternative Income Term Trust,9.29,,
 3107,XHR,"Xenia Hotels & Resorts, Inc.",20.24,Consumer Services,Hotels/Resorts
 3108,XRX,Xerox Holdings Corporation,29.34,Technology,Computer peripheral equipment
 3109,XIN,Xinyuan Real Estate Co Ltd,4.01,Basic Industries,Homebuilding
@@ -3122,9 +2108,6 @@
 3120,ZAYO,"Zayo Group Holdings, Inc.",33.66,Public Utilities,Telecommunications Equipment
 3121,ZEN,"Zendesk, Inc.",76.45,Technology,EDP Services
 3122,ZBH,"Zimmer Biomet Holdings, Inc.",134.92,Health Care,Industrial Specialties
-3123,ZB^A,Zions Bancorporation N.A.,22.99,,
-3124,ZB^G,Zions Bancorporation N.A.,27.4,,
-3125,ZB^H,Zions Bancorporation N.A.,25.61,,
 3126,ZBK,Zions Bancorporation N.A.,28.9175,Finance,Major Banks
 3127,ZTS,Zoetis Inc.,112.57,Health Care,Major Pharmaceuticals
 3128,ZTO,ZTO Express (Cayman) Inc.,18.24,Transportation,Trucking Freight/Courier Services
