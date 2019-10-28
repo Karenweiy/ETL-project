@@ -15,9 +15,3 @@ For next steps using SQL:
 3). ETL-Project_SQLAlchemy.ipynb = uses csv from Step 2,
     and connects to local Postgres database, then
     pushes imported dataframe to database with to_sql
-
-
-Optional:
-
--- ETL_json.ipynb = testing of API in bulk, not a
-    prerequisite for other any other notebooks
